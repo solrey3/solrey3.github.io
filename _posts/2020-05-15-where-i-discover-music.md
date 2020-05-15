@@ -1,3 +1,9 @@
+---
+layout: post
+title:  "Where I Discover Music"
+date:   2020-05-15
+categories: music
+---
 # Where I Discover Music
 > "I can't live without my radio" - LL Cool J
 
