@@ -20,7 +20,7 @@ There are six major music streams I turn to when I want to discover new music. T
   I first resort to the most local from Brookdale Public Radio.  In addition to a very eclectic radio station, they also offer the following radio streams:
   * [FM Flashback](http://fmflashback.org/) - think of it as the classic rock station you've always wanted.
   * [Altrok](http://www.altrok.com/) - If you were a listener of FM106.3 back in the day, think of this as the station that continues its legacy.
-
+<br><br>
 * [FUV Music](https://wfuv.org/) (WFUV - 90.7FM New York, NY)
 
   I mostly listen to the FUV Music stream for its 24/7 eclectic mix
@@ -36,14 +36,12 @@ There are six major music streams I turn to when I want to discover new music. T
   Definitely, the most eclectic stations I've ever discovered. In addition to its Eclectic24 stream, there are two programs I try to catch up on:
   - [Liza Richardson](https://www.kcrw.com/music/shows/liza-richardson) - her eclectic playlist is a treasure in discovery
   - [Metropolis](https://www.kcrw.com/music/shows/metropolis) - I consider the weekly Jason Bentley set the standard in dance music 
-
-
+<br><br>
 * [The Current](https://www.thecurrent.org/) (KCMP - 89.3FM Minneapolis/St. Paul)
 
   Plays the latest in new music and the music inspired by it.  
   - [Purple Current](https://www.thecurrent.org/listen/purple-current) - Also, by representing the state of Prince, they have a 24/7 stream playing all types of music in the style of The Artist.
-
-
+<br><br>
 * [KEXP - 90.3FM Seattle](https://www.kexp.org/)
 
   Another great eclectic mix with a website that contains a lot of great [on-air studio sessions](https://www.kexp.org/sessions/)
@@ -56,7 +54,7 @@ The method to the madness of deciding what station to listen to is to [spin a wh
 
   It's all about that jazz with this station that doesn't disappoint the true aficionado.
   - [Rhythm Revue](https://www.wbgo.org/programs/rhythm-revue) - there is a hidden gem on Saturday mornings with this set playing the best in classic R&B
-
+<br><br>
 * [New Sounds](https://www.newsounds.org/) (WQXR - 105.9FM Newark)
 
   This is the classical music arm of New York Public Radio, but it's also the station that brings you NewSounds, which total defies any genre.
