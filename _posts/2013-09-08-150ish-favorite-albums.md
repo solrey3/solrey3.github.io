@@ -179,46 +179,47 @@ So greatest hits compilations aside, here are the albums I fully appreciate from
 …oh, and if I had to rank them, even though we all know rankings are arbitrary and reductive, here’s the Top 40ish:
 
 1. Public Enemy – It Takes A Nation Of Millions To Hold Us Back
-2. Bob Dylan – Blood On The Tracks
-3. Velvet Underground – Velvet Underground & Nico
+2. Velvet Underground – Velvet Underground & Nico
+3. Bob Dylan – Blood On The Tracks
 4. Pulp – Different Class
 5. Soundtrack – The Harder They Come
 6. Miles Davis – Kind Of Blue
 7. Weezer – Weezer (The Blue Album)
-8. Vince Guaraldi Trio – A Charlie Brown Christmas
-9. Radiohead – The Bends
-10. Nirvana - Nevermind
-11. Beatles – Revolver
+8. Radiohead – The Bends
+9. Beatles – Revolver
+10. Vince Guaraldi Trio – A Charlie Brown Christmas
+11. Nirvana - Nevermind
 12. Funkadelic – One Nation Under A Groove
 13. Outkast – Aquemini
 14. Radiohead – Ok Computer
 15. Stevie Wonder - Innervisions
-15. Rancid – …And Out Come The Wolves
-16. DJ Shadow - Endtroducing.....
-17. The Notorious B.I.G. - Ready To Die
-18. The Jimi Hendrix Experience - Are You Experienced
+16. Rancid – …And Out Come The Wolves
+17. DJ Shadow - Endtroducing.....
+18. The Notorious B.I.G. - Ready To Die
 19. Smashing Pumpkins – Siamese Dream
-20. Ben Folds Five – Ben Folds Five
-21. J Dilla - Donuts
-22. Prince - Sign o' the Times
-23. Rage Against The Machine – Rage Against The Machine
-24. Public Enemy - Fear Of A Black Planet
-25. Madvillian - Madvillainy
-26. Marvin Gaye - What's Going On
-27. The Beach Boys - Pet Sounds
-28. Television - Marquee Moon
-29. Michael Jackson - Thriller
-30. The Strokes - Is This It
-31. Wilco – Yankee Hotel Foxtrot
-32. Amy Winehouse - Back To Black
-33. Wu-Tang Clan - Enter the Wu-tang: 36 Chambers
-33. St. Vincent - St. Vincent
-34. Naughty By Nature – Naughty By Nature
-35. Oasis – Definitely Maybe
-36. Jeff Buckley - Grace
-37. Kanye West - The College Dropout
-38. Pearl Jam - Ten
-39. Billy Joel - The Stranger
+20. The Jimi Hendrix Experience - Are You Experienced
+21. Ben Folds Five – Ben Folds Five
+22. J Dilla - Donuts
+23. Prince - Sign o' the Times
+24. The Beach Boys - Pet Sounds
+25. Rage Against The Machine – Rage Against The Machine
+26. Michael Jackson - Thriller
+27. Public Enemy - Fear Of A Black Planet
+28. Madvillian - Madvillainy
+29. Marvin Gaye - What's Going On
+30. Television - Marquee Moon
+31. Pearl Jam - Ten
+32. The Strokes - Is This It
+33. Wilco – Yankee Hotel Foxtrot
+34. Amy Winehouse - Back To Black
+35. Wu-Tang Clan - Enter the Wu-tang: 36 Chambers
+36. St. Vincent - St. Vincent
+37. Naughty By Nature – Naughty By Nature
+38. Oasis – Definitely Maybe
+39. Kanye West - The College Dropout
 40. Velvet Underground - Loaded
-41. Cody Chesnutt - The Headphone Masterpiece
-42. Jay-Z - Reasonable Doubt
+41. Jeff Buckley - Grace
+42. Billy Joel - The Stranger
+43. Jay-Z - Reasonable Doubt
+44. Cody Chesnutt - The Headphone Masterpiece
+
