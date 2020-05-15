@@ -1,5 +1,3 @@
-theme: jekyll-theme-cayman
-
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -15,3 +13,4 @@ include:
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
   - where-i-discover-music.md
+theme: jekyll-theme-cayman
