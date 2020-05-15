@@ -176,7 +176,7 @@ So greatest hits compilations aside, here are the albums I fully appreciate from
 | Kendrick Lamar | [To Pimp A Butterfly](https://en.wikipedia.org/wiki/To_Pimp_a_Butterfly) | 2015-03-15 |
 | Car Seat Headrest | [Teens of Denial](https://en.wikipedia.org/wiki/Teens_of_Denial) | 2016-05-20 |
 
-…oh, and if I had to rank them, here’s the Top 30ish:
+…oh, and if I had to rank them, even though we all know rankings are arbitrary and reductive, here’s the Top 40ish:
 
 1. Public Enemy – It Takes A Nation Of Millions To Hold Us Back
 2. Bob Dylan – Blood On The Tracks
@@ -211,7 +211,14 @@ So greatest hits compilations aside, here are the albums I fully appreciate from
 30. The Strokes - Is This It
 31. Wilco – Yankee Hotel Foxtrot
 32. Amy Winehouse - Back To Black
+33. Wu-Tang Clan - Enter the Wu-tang: 36 Chambers
 33. St. Vincent - St. Vincent
 34. Naughty By Nature – Naughty By Nature
 35. Oasis – Definitely Maybe
 36. Jeff Buckley - Grace
+37. Kanye West - The College Dropout
+38. Pearl Jam - Ten
+39. Billy Joel - The Stranger
+40. Velvet Underground - Loaded
+41. Cody Chesnutt - The Headphone Masterpiece
+42. Jay-Z - Reasonable Doubt
