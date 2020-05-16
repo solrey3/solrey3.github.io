@@ -4,6 +4,8 @@ title:  "150ish Favorite Albums"
 date:   2013-09-08
 categories: music
 ---
+LAST UPDATED: 2020-05-15
+
 So greatest hits compilations aside, here are the albums I fully appreciate from the front to the back. And all these are at least three years old, since recent tastes can swing in an instant.
 
 |Artist|Album|Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
