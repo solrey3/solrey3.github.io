@@ -3,6 +3,7 @@ layout: post
 title:  "Where I Discover Music"
 date:   2020-05-15
 categories: music
+last_modified_at: 2020-05-27
 ---
 # Where I Discover Music
 > "I can't live without my radio" - LL Cool J
@@ -49,6 +50,9 @@ There are six major music streams I turn to when I want to discover new music. T
 The method to the madness of deciding what station to listen to is to [spin a wheel](https://wheeldecide.com/index.php?c1=90.5+The+Night&c2=FUV+Music&c3=XPN2&c4=Eclectic24&c5=The+Current&c6=KEXP&t=What+Radio+Program+Should+I+Listen+To%3F&time=5).
 
 ### Other NPR Music Streams I Get Into:
+* [Vocalo](https://vocalo.org/) (WBEZ - 91.5FM - Chicago)
+  
+  It's rare to find a public radio station focused on Alternative R&B and Hip-Hop, but I totally appreciate this find.
 
 * [The Jazz Bee](https://www.wbgo.org/wbgo-hd2) (WBGO - 88.3FM Newark)
 
