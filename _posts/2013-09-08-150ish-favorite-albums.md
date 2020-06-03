@@ -87,7 +87,7 @@ So greatest hits compilations aside, here are the albums I fully appreciate from
 | De La Soul | [3 Feet High and Rising](https://en.wikipedia.org/wiki/3_Feet_High_and_Rising) | 1989-03-03 |
 | The Pixies | [Doolittle](https://en.wikipedia.org/wiki/Doolittle_(album)) | 1989-04-18 |
 | Beastie Boys | [Paul’s Boutique](https://en.wikipedia.org/wiki/Paul's_Boutique) | 1989-07-25 |
-| Public Enemy | [Fear Of A Black Planet](*https://en.wikipedia.org/wiki/Fear_of_a_Black_Planet) | 1990-04-10 |
+| Public Enemy | [Fear Of A Black Planet](https://en.wikipedia.org/wiki/Fear_of_a_Black_Planet) | 1990-04-10 |
 | Massive Attack | [Blue Lines](https://en.wikipedia.org/wiki/Blue_Lines) | 1991-04-08 |
 | De La Soul | [De La Soul Is Dead](https://en.wikipedia.org/wiki/De_La_Soul_Is_Dead) | 1991-05-14 |
 | Pearl Jam | [Ten](https://en.wikipedia.org/wiki/Ten_(Pearl_Jam_album)) | 1991-08-27 |
