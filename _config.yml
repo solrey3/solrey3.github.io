@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SolReyDio
-email: solreydio@solrey3.com
+title: solrey3
+email: solrey3@solrey3.com
 description: …watching Grunge legdrop New Jack through a press table…
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://solrey3.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -24,10 +24,10 @@ rss: rss
 # dribbble_username: jekyll
 #facebook_username: solrey3
 # flickr_username: jekyll
-#instagram_username: solrey3
+instagram_username: solrey3
 linkedin_username: solitoreyesiii
 # pinterest_username: jekyll
-# youtube_username: jekyll
+youtube_username: solrey3
 # googleplus_username: +jekyll
 
 
