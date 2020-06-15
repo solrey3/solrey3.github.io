@@ -4,7 +4,7 @@ title:  "150ish Favorite Albums"
 date:   2013-09-08
 categories: music
 ---
-PLEASE NOTE: Updated list is now being maintained [here](https://solrey3.github.io/solreydio/).
+PLEASE NOTE: [Updated list is now being maintained here](https://solrey3.github.io/solreydio/).
 
 LAST UPDATED: 2020-05-15
 
