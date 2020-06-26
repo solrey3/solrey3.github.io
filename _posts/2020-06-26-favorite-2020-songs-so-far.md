@@ -5,7 +5,7 @@ date:   2020-06-26
 categories: music
 ---
 # Favorite 2020 Songs So Far
-If you think you are missing out on some good music, here's my list of the Best Songs of 2020 So Far. [Check it out the playlist on the link](https://www.youtube.com/playlist?list=PLWGRuwrJRK2nw16FIhUuwtF2FG0AtS8Bc). And yes, I am a Khruangbin follower, so check out their new album, Mordecai, today. #SolReyDIo
+If you think you are missing out on some good music, here's my list of the Best Songs of 2020 So Far. [Check out the playlist on the link](https://www.youtube.com/playlist?list=PLWGRuwrJRK2nw16FIhUuwtF2FG0AtS8Bc). And yes, I am a Khruangbin follower, so check out their new album, Mordecai, today. #SolReyDIo #2020
 
 1. Pelota - Khruangbin
 2. Is It True - Tame Impala
