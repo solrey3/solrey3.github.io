@@ -247,8 +247,8 @@ PLATFORMS
 DEPENDENCIES
   activesupport (>= 4.1.11)
   github-pages (~> 206)
-  jekyll-feed (~> 0.6)
-  minima (~> 2.0)
+  jekyll-feed (~> 0.13)
+  minima (~> 2.5.1)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
