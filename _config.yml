@@ -30,6 +30,8 @@ linkedin_username: solitoreyesiii
 youtube_username: solrey3
 # googleplus_username: +jekyll
 
+google_analytics: UA-30383864-1
+
 minima:
   date_format: "%b %-d, %Y" 
 
