@@ -16,7 +16,7 @@ I'm a DevOps engineer and data scientist specializing in multi-cloud infrastruct
 
 ## **Professional Focus**
 
-Currently working with multi-cloud infrastructure at SIMPLENIGHT, where I manage Kubernetes deployments across AWS, Azure, and Google Cloud Platform. My work involves maintaining 99.9% uptime for high-traffic applications, implementing security best practices, and coordinating complex release management processes.
+Currently working with multi-cloud infrastructure as a software engineering consultant, where I manage Kubernetes deployments across AWS, Azure, and Google Cloud Platform. My work involves maintaining 99.9% uptime for high-traffic applications, implementing security best practices, and coordinating complex release management processes.
 
 I specialize in bridging the gap between traditional operations and modern cloud-native architectures, with particular expertise in containerization, infrastructure as code, and automated deployment pipelines.
 
