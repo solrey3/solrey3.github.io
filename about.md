@@ -55,13 +55,6 @@ I'm particularly interested in the intersection of AI and infrastructure operati
 - **AI/ML Operations:** MLOps practices and intelligent automation
 - **Cultural Technology:** Building systems that serve diverse global communities
 
-## **Contact**
-
-- **Email:** solrey3@solrey3.com
-- **GitHub:** solrey3
-- **LinkedIn:** solitoreyesiii
-- **Professional Social:** @solrey3
-
 ---
 
 *"Building systems that scale, securing data that matters, and solving problems that count."*
