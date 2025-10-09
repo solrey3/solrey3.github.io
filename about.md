@@ -30,7 +30,7 @@ I specialize in bridging the gap between traditional operations and modern cloud
 **Database Systems:** PostgreSQL, SQLite, MySQL, MongoDB  
 **Web Technologies:** Flask, Laravel, WordPress, Nginx  
 **Operating Systems:** Linux (Multiple Distributions), MacOS 
-**Monitoring & Observability:** Prometheus, Grafana, LGTM Stack  
+**Monitoring & Observability:** Prometheus, Grafana, LGTM Stack 
 
 ## **Current Projects**
 
