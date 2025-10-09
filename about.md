@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Solito Reyes III
+# Solito Reyes III
 
 **DevOps Engineer & Data Scientist**
 
