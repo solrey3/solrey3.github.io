@@ -293,6 +293,7 @@ _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](htt
 - [Major AEW announcement from RJ City on Mystery Wrestling](https://www.reddit.com/r/SquaredCircle/comments/1v6sgjw/major_aew_announcement_from_rj_city_on_mystery/)
 
 ### Meltzer 5-Star+ Ratings
+_Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
 
 | Date | Rating | Match | Promotion | Event |
 |---|---:|---|---|---|
