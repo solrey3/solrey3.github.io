@@ -164,14 +164,15 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 ## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
 
 ### 🗞️ Sports Newswire
-_Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/devils/news), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- NBA: [Caldwell-Pope to join 76ers after Grizzlies buyout](https://www.espn.com/nba/story/_/id/49449509/sources-caldwell-pope-join-76ers-grizzlies-buyout).
-- NFL: training camp intel rolled in for Seahawks and Cardinals; Trey McBride walked back a dig at Arizona fans.
-- MLB: Mets-Dodgers, Cardinals-Reds, and Giants-Angels lead today’s preview wire.
-- NHL/NJ Devils: Cammi Granato shifts roles in Vancouver; Devils posted prospect profiles for Gustav Hillstrom, Mason Moe, and Matias Vanhanen.
-- Soccer: Inter Miami says Berterame is okay after a head collision; Barcelona will support the family of a worker who died during Camp Nou renovation.
-- Golf/Tennis/Cycling: Jackson Koivun shot 61 at the 3M Open; Jenny Shin leads LPGA Scottish Open; Sinner and Djokovic withdrew from Montreal; Tour de France Stage 21 goes out with “More than a parade.”
+- **[Caldwell-Pope to join 76ers after Grizzlies buyout](https://www.espn.com/nba/story/_/id/49449509/sources-caldwell-pope-join-76ers-grizzlies-buyout)** — Philadelphia adds a veteran wing after the Memphis buyout. (NBA / ESPN)
+- **[Cardinals TE Trey McBride walks back dig at Arizona fanbase](https://www.espn.com/nfl/story/_/id/49449469/cardinals-te-trey-mcbride-walks-back-dig-arizona-fanbase)** — Training-camp quote cleanup arrives early in the desert. (NFL / ESPN)
+- **[Mets head into matchup with the Dodgers on losing streak](http://www.espn.com/mlb/preview?gameId=401816270)** — Queens gets another Dodgers date with momentum tilted the wrong way. (MLB / ESPN)
+- **[Gustav Hillstrom | PROSPECTS PROFILE](https://www.nhl.com/devils/news/gustav-hillstrom-prospects-profile-7-22-26)** — New Jersey’s summer prospect file keeps filling out. (NJ Devils)
+- **[Inter Miami manager Hoyos says Berterame okay after head collision](https://www.espn.com/soccer/story/_/id/49453132/inter-miami-guillermo-hoyos-german-berterame-mls)** — A scary MLS moment gets a reassuring update. (MLS / ESPN)
+- **[Barcelona will support family of worker who died during Camp Nou renovation](https://www.espn.com/soccer/story/_/id/49447597/barcelona-support-family-worker-died-camp-nou-renovation)** — The club responds after a fatal construction-site incident. (La Liga / ESPN)
+- **[Jackson Koivun (61) up 3 at 3M Open, breaks event back-9 record](https://www.espn.com/golf/story/_/id/49450152/jackson-koivun-61-3-3m-open-breaks-event-back-9-record)** — Koivun lights up the Saturday board at the 3M Open. (PGA / ESPN)
+- **[More than a parade](https://www.letour.fr/en/news/2026/stage-21/more-than-a-parade/1355704)** — Tour de France Stage 21 still has stakes on the road to Paris. (Tour de France)
 
 ### Scoreboard
 
