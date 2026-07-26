@@ -46,6 +46,7 @@ Makati starts **partly cloudy, 28°C**, wind **5 km/h**. Today: **patchy rain ne
 ## 📈 BUSINESS & MARKETS
 
 ### The Numbers (with 52W Range)
+
 | Index | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
 | S&P 500 | 7411.98 | -45.71 | -0.61% | 6212.69 – 7620.9 |
@@ -59,12 +60,14 @@ S&P 500 is still parked near the top of its 52-week lane, but the Nasdaq took th
 Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.75%**.
 
 ### Treasury Rates (with 52W Range)
+
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---|
 | 30-YR Treasury | 5.162 | 0.04 | 0.0 – 5.197 |
 | 90-Day T-Bill | 3.805 | 0.10 | 0.0 – 4.25 |
 
 ### Forex (with 52W Range)
+
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
 | PHP/USD | 61.82 | 0.23 | 0.37% | 52.1 – 61.923 |
@@ -74,6 +77,7 @@ Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.
 PHP/USD is right near its 52-week high; EUR/USD and CNY/USD sit near the low end.
 
 ### ETFs (with 52W Range)
+
 | ETF (Symbol — Name) | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
 | ONEQ — Fidelity Nasdaq Composite ETF | 98.35 | -2.10 | -2.09% | 80.76 – 107.07 |
@@ -83,6 +87,7 @@ PHP/USD is right near its 52-week high; EUR/USD and CNY/USD sit near the low end
 | VNQ — Vanguard Real Estate ETF | 100.81 | 0.79 | 0.79% | 86.84 – 101.16 |
 
 ### Stock Watch (with 52W Range)
+
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
 | NVDA | 206.84 | 4.03 | 1.99% | 164.07 – 236.54 |
@@ -104,6 +109,7 @@ PHP/USD is right near its 52-week high; EUR/USD and CNY/USD sit near the low end
 Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up **8.27%**, and TSLA down **17.81%**. Watch tech breadth, crude follow-through, and whether rate pressure keeps cash competitive.
 
 ### Commodities & Crypto
+
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
 | Bitcoin | 64448.55 | -1652.25 | -2.50% | 57747.766 – 126198.07 |
@@ -140,6 +146,7 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 
 #### ⚾ MLB
 **Completed**
+
 | Matchup | Final/Status |
 |---|---|
 | Diamondbacks at Nationals | Nationals 5, Diamondbacks 3 — Final |
@@ -159,6 +166,7 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 | Angels at Giants | Giants 9, Angels 2 — Final |
 
 **Upcoming**
+
 | Time | Matchup | TV |
 |---|---|---|
 | 7/26 - 12:15 PM EDT | Cleveland Guardians at Tampa Bay Rays | Peacock |
@@ -180,6 +188,7 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 Mets note: Queens has the Dodgers again at **1:40 PM**. Grab a sandwich and keep one eye on SNY.
 
 #### ⚽ MLS
+
 | Matchup | Final/Status |
 |---|---|
 | FC Cincinnati at Columbus Crew | Crew 2, FC Cincinnati 1 — FT |
@@ -189,12 +198,14 @@ Mets note: Queens has the Dodgers again at **1:40 PM**. Grab a sandwich and keep
 | Vancouver Whitecaps at Minnesota United | 0–0 — FT |
 
 #### ⛳ Golf
+
 | Tour | Tournament | Status | Leader |
 |---|---|---|---|
 | PGA | 3M Open | Round 3 complete | Jackson Koivun -20 |
 | LPGA | ISPS HANDA Women's Scottish Open | Round 4 in progress | Jenny Shin -12 |
 
 #### 🚴 Tour de France
+
 | Item | Current data |
 |---|---|
 | Stage 20 winner | Richard Carapaz — 04h 59' 39'' |
@@ -218,6 +229,7 @@ Upcoming card fetched for late August/early September, including **North Carolin
 ## 🤼 SQUARED CIRCLE DIGEST
 
 ### Upcoming TV / PLE Schedule
+
 | Group | Upcoming TV / PLE window | Where to watch / verify |
 |---|---|---|
 | WWE | Raw — Mon, Jul 27; SmackDown — Fri, Jul 31 | Netflix / USA / Peacock; https://www.wwe.com/events |
@@ -241,6 +253,7 @@ Upcoming card fetched for late August/early September, including **North Carolin
 - [Major AEW announcement from RJ City on Mystery Wrestling](https://www.reddit.com/r/SquaredCircle/comments/1v6sgjw/major_aew_announcement_from_rj_city_on_mystery/)
 
 ### Meltzer 5-Star+ Ratings
+
 | Date | Rating | Match | Promotion | Event |
 |---|---:|---|---|---|
 | July 19, 2026 | 5 | Yuya Uemura vs. Zack Sabre Jr. | NJPW | G1 Climax 36 Night 3 |
