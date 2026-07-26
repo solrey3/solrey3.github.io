@@ -164,6 +164,8 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 ## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
 
 ### 🗞️ Sports Newswire
+_Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/devils/news), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
+
 - NBA: [Caldwell-Pope to join 76ers after Grizzlies buyout](https://www.espn.com/nba/story/_/id/49449509/sources-caldwell-pope-join-76ers-grizzlies-buyout).
 - NFL: training camp intel rolled in for Seahawks and Cardinals; Trey McBride walked back a dig at Arizona fans.
 - MLB: Mets-Dodgers, Cardinals-Reds, and Giants-Angels lead today’s preview wire.
@@ -245,6 +247,8 @@ Mets note: Queens has the Dodgers again at **1:40 PM**. Grab a sandwich and keep
 Upcoming card fetched for late August/early September, including **North Carolina at TCU** on Aug. 29 (TV: ESPN) and **Massachusetts at Rutgers** on Sept. 3 (TV: BTN).
 
 ### Team Reports
+_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
+
 > **NY Giants:** Cowboys at Giants — 9/13, 8:20 PM EDT; Giants at Rams — 9/21, 8:15 PM EDT. TV: N/A.
 
 > **NY Mets:** last two — L 3–4 vs Dodgers, L 3–4 vs Dodgers. Upcoming fetched rows are postponed Rockies makeups: TV N/A.
@@ -261,14 +265,14 @@ Upcoming card fetched for late August/early September, including **North Carolin
 
 | Group | Upcoming TV / PLE window | Where to watch / verify |
 |---|---|---|
-| WWE | Raw — Mon, Jul 27; SmackDown — Fri, Jul 31 | Netflix / USA / Peacock; https://www.wwe.com/events |
-| NXT | NXT TV — Tue, Jul 28 | The CW / Peacock; https://www.wwe.com/events |
-| AAA | Upcoming cards/PLEs vary | https://www.luchalibreaaa.com/ |
-| AEW | Dynamite — Wed, Jul 29; Collision — Sat, Aug 1 | TBS / TNT / PPV; https://www.allelitewrestling.com/aew-events |
-| ROH | ROH TV — Thu, Jul 30 | HonorClub; https://www.ringofhonor.com/ |
-| TNA | iMPACT! — Thu, Jul 30 | AXS TV / TNA+; https://tnawrestling.com/events/ |
-| NJPW | Tour cards and major shows are calendar-based | NJPW World; https://www.njpw1972.com/schedule/ |
-| CMLL | Arena México — Sun, Jul 26; Tue, Jul 28; Fri, Jul 31 | CMLL/YouTube; https://cmll.com/ |
+| WWE | Raw — Mon, Jul 27; SmackDown — Fri, Jul 31 | Netflix / USA / Peacock; [https://www.wwe.com/events](https://www.wwe.com/events) |
+| NXT | NXT TV — Tue, Jul 28 | The CW / Peacock; [https://www.wwe.com/events](https://www.wwe.com/events) |
+| AAA | Upcoming cards/PLEs vary | [https://www.luchalibreaaa.com/](https://www.luchalibreaaa.com/) |
+| AEW | Dynamite — Wed, Jul 29; Collision — Sat, Aug 1 | TBS / TNT / PPV; [https://www.allelitewrestling.com/aew-events](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV — Thu, Jul 30 | HonorClub; [https://www.ringofhonor.com/](https://www.ringofhonor.com/) |
+| TNA | iMPACT! — Thu, Jul 30 | AXS TV / TNA+; [https://tnawrestling.com/events/](https://tnawrestling.com/events/) |
+| NJPW | Tour cards and major shows are calendar-based | NJPW World; [https://www.njpw1972.com/schedule/](https://www.njpw1972.com/schedule/) |
+| CMLL | Arena México — Sun, Jul 26; Tue, Jul 28; Fri, Jul 31 | CMLL/YouTube; [https://cmll.com/](https://cmll.com/) |
 
 ### Headlines
 - **[AAA]** [AAA Verano De Escándalo Results (7/25)](https://www.fightful.com/wrestling-news/aaa-verano-de-escandalo-results-7-25-dominik-mysterio-and-el-grande-americano-team); [Dominik Mysterio betrayed El Grande Americano](https://www.cagesideseats.com/lucha-libre-aaa-cmll/463007/dominik-mysterio-betrayed-el-grande-americano-at-aaa-verano-de-escandalo-perros-del-mal); [Penta Returning To AAA On August 15th](https://www.fightful.com/wrestling-news/penta-returning-aaa-on-august-15th).
