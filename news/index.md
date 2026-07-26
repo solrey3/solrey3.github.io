@@ -77,7 +77,9 @@ Makati starts **partly cloudy, 28°C**, wind **5 km/h**. Today: **patchy rain ne
 
 ### Business Newswire
 - **[There’s a technical ‘triple threat’ for stocks, but also places investors can hide](https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories)** — MarketWatch flags a cautious setup for equities with defensive pockets still in play. (MarketWatch)
-- **[MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories) and [WSJ News](https://feeds.wsj.com/wsj/xml/rss/3_7011.xml)** — Primary business-news feeds for this section. (Sources)
+- **[Inside the S&P 500 AI boom, industrials are getting as rich as tech stocks](https://www.cnbc.com/2026/07/26/best-ai-stocks-market-sp500.html)** — CNBC tracks AI-driven gains spreading beyond the usual tech suspects. (CNBC)
+- **[Argentina’s Oil Production Soars as Vaca Muerta Breaks New Records](https://finance.yahoo.com/energy/articles/argentina-oil-production-soars-vaca-190000618.html)** — Yahoo Finance highlights another supply-side energy story to watch. (Yahoo Finance)
+- **[MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories), [WSJ News](https://feeds.wsj.com/wsj/xml/rss/3_7011.xml), [CNBC Business](https://www.cnbc.com/id/10001147/device/rss/rss.html), and [Yahoo Finance](https://finance.yahoo.com/news/rssindex)** — Primary business-news feeds for this section. (Sources)
 
 ### The Numbers (with 52W Range)
 
