@@ -45,9 +45,11 @@ _Source: `2026-07-26-daytime-dispatch.md`_
 ## ☀️ SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
+[Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 Clear and cool out of the gate: **60°F** with a light **4 mph** breeze and **6 mi** visibility. Today turns sunny with a **high 85°F / low 59°F** and just **2%** rain chance. wttr.in primary fetch: *[Data unavailable]*.
 
 ### Makati, Philippines
+[Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 Makati starts **partly cloudy, 28°C**, wind **5 km/h**. Today: **patchy rain nearby**, **high 29°C / low 25°C**, **15%** rain chance. wttr.in detail fetch: *[Data unavailable]*.
 
 ---
@@ -129,7 +131,6 @@ PHP/USD is right near its 52-week high; EUR/USD and CNY/USD sit near the low end
 | AXP | 326.17 | -29.18 | -8.21% | 288.34 – 387.49 |
 | SCHW | 101.97 | 0.41 | 0.40% | 83.96 – 107.5 |
 | RL | 373.58 | -6.87 | -1.81% | 273.04 – 421.6 |
-| TGT | 136.78 | -2.82 | -2.02% | 83.44 – 144.4 |
 | COST | 935.03 | -5.84 | -0.62% | 844.06 – 1096.5 |
 | UPS | 114.79 | -2.93 | -2.49% | 82.0 – 122.41 |
 
@@ -154,7 +155,7 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 ### ⛽ Mortgage & Gas
 - 30-Year Fixed Mortgage Rate: **6.75%** (Bankrate — top listed rate)
 - National Avg Regular: **$4.1100**; NJ State Avg Regular: **$4.1840** (AAA)
-- Wawa #0937 Toms River, NJ: *[Data unavailable]*
+- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
 **BOTTOM LINE:** Sunday tape says risk appetite is wobbling, not gone. S&P is still near its 52-week high, but Nasdaq weakness and hot crude are the beach flags to watch.
 
