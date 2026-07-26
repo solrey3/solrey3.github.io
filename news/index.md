@@ -180,21 +180,21 @@ _Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/
 
 | Matchup | Final/Status | Box Score |
 |---|---|---|
-| Diamondbacks at Nationals | Nationals 5, Diamondbacks 3 — Final | [Full box score](https://www.baseball-reference.com/boxes/WSN/WSN202607250.shtml) |
-| Braves at Orioles | Orioles 3, Braves 2 — Final | [Full box score](https://www.baseball-reference.com/boxes/BAL/BAL202607250.shtml) |
-| Cubs at Pirates | Cubs 11, Pirates 0 — Final | [Full box score](https://www.baseball-reference.com/boxes/PIT/PIT202607250.shtml) |
-| Guardians at Rays | Rays 3, Guardians 0 — Final | [Full box score](https://www.baseball-reference.com/boxes/TBR/TBR202607250.shtml) |
-| Royals at Tigers | Royals 3, Tigers 2 — Final | [Full box score](https://www.baseball-reference.com/boxes/DET/DET202607250.shtml) |
-| Dodgers at Mets | Dodgers 4, Mets 3 — Final | [Full box score](https://www.baseball-reference.com/boxes/NYM/NYM202607250.shtml) |
-| Yankees at Phillies | Yankees 3, Phillies 1 — Final | [Full box score](https://www.baseball-reference.com/boxes/PHI/PHI202607250.shtml) |
-| Padres at Marlins | Padres 7, Marlins 2 — Final | [Full box score](https://www.baseball-reference.com/boxes/MIA/MIA202607250.shtml) |
-| Blue Jays at Red Sox | Blue Jays 6, Red Sox 0 — Final | [Full box score](https://www.baseball-reference.com/boxes/BOS/BOS202607250.shtml) |
-| Athletics at Twins | Athletics 0, Twins 2 — Final | [Full box score](https://www.baseball-reference.com/boxes/MIN/MIN202607250.shtml) |
-| Reds at Cardinals | Cardinals 7, Reds 0 — Final | [Full box score](https://www.baseball-reference.com/boxes/STL/STL202607250.shtml) |
-| Rockies at Brewers | Brewers 8, Rockies 5 — Final | [Full box score](https://www.baseball-reference.com/boxes/MIL/MIL202607250.shtml) |
-| Astros at White Sox | Astros 4, White Sox 1 — Final | [Full box score](https://www.baseball-reference.com/boxes/CHW/CHW202607250.shtml) |
-| Mariners at Rangers | Rangers 7, Mariners 1 — Final | [Full box score](https://www.baseball-reference.com/boxes/TEX/TEX202607250.shtml) |
-| Angels at Giants | Giants 9, Angels 2 — Final | [Full box score](https://www.baseball-reference.com/boxes/SFG/SFG202607250.shtml) |
+| Diamondbacks at Nationals | Nationals 5, Diamondbacks 3 — Final | [Full box score](https://www.mlb.com/gameday/822704) |
+| Braves at Orioles | Orioles 3, Braves 2 — Final | [Full box score](https://www.mlb.com/gameday/824811) |
+| Cubs at Pirates | Cubs 11, Pirates 0 — Final | [Full box score](https://www.mlb.com/gameday/823355) |
+| Guardians at Rays | Rays 3, Guardians 0 — Final | [Full box score](https://www.mlb.com/gameday/822948) |
+| Royals at Tigers | Royals 3, Tigers 2 — Final | [Full box score](https://www.mlb.com/gameday/824244) |
+| Dodgers at Mets | Dodgers 4, Mets 3 — Final | [Full box score](https://www.mlb.com/gameday/823600) |
+| Yankees at Phillies | Yankees 3, Phillies 1 — Final | [Full box score](https://www.mlb.com/gameday/823435) |
+| Padres at Marlins | Padres 7, Marlins 2 — Final | [Full box score](https://www.mlb.com/gameday/823841) |
+| Blue Jays at Red Sox | Blue Jays 6, Red Sox 0 — Final | [Full box score](https://www.mlb.com/gameday/824734) |
+| Athletics at Twins | Athletics 0, Twins 2 — Final | [Full box score](https://www.mlb.com/gameday/823679) |
+| Reds at Cardinals | Cardinals 7, Reds 0 — Final | [Full box score](https://www.mlb.com/gameday/823027) |
+| Rockies at Brewers | Brewers 8, Rockies 5 — Final | [Full box score](https://www.mlb.com/gameday/823758) |
+| Astros at White Sox | Astros 4, White Sox 1 — Final | [Full box score](https://www.mlb.com/gameday/824571) |
+| Mariners at Rangers | Rangers 7, Mariners 1 — Final | [Full box score](https://www.mlb.com/gameday/822869) |
+| Angels at Giants | Giants 9, Angels 2 — Final | [Full box score](https://www.mlb.com/gameday/823197) |
 
 **Upcoming**
 
@@ -252,7 +252,7 @@ _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](htt
 
 > **NY Giants:** Cowboys at Giants — 9/13, 8:20 PM EDT; Giants at Rams — 9/21, 8:15 PM EDT. TV: N/A.
 
-> **NY Mets:** last two — L 3–4 vs Dodgers ([Full box score](https://www.baseball-reference.com/boxes/NYM/NYM202607250.shtml)), L 3–4 vs Dodgers ([Full box score](https://www.baseball-reference.com/boxes/NYM/NYM202607250.shtml)). Upcoming fetched rows are postponed Rockies makeups: TV N/A.
+> **NY Mets:** last two — L 3–4 vs Dodgers ([Full box score](https://www.mlb.com/gameday/823600)), L 3–4 vs Dodgers ([Full box score](https://www.mlb.com/gameday/823600)). Upcoming fetched rows are postponed Rockies makeups: TV N/A.
 
 > **NJ Devils:** Flyers at Devils — 10/1, 7:00 PM EDT; Devils at Islanders — 10/3, 7:30 PM EDT. TV: N/A.
 
