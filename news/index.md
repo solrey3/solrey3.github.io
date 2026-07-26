@@ -79,10 +79,10 @@ Makati starts **partly cloudy, 28°C**, wind **5 km/h**. Today: **patchy rain ne
 
 | Index | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
-| S&P 500 | 7411.98 | -45.71 | -0.61% | 6212.69 – 7620.9 |
-| Dow 30 | 51947.25 | -199.17 | -0.38% | 43340.68 – 53289.3 |
-| Nasdaq | 24975.824 | -544.42 | -2.13% | 20560.17 – 27190.21 |
-| Russell 2000 | 2929.9988 | -32.22 | -1.09% | 2143.43 – 3046.59 |
+| [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7411.98 | -45.71 | -0.61% | 6212.69 – 7620.9 |
+| [Dow 30](https://www.marketwatch.com/investing/index/djia) | 51947.25 | -199.17 | -0.38% | 43340.68 – 53289.3 |
+| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 24975.824 | -544.42 | -2.13% | 20560.17 – 27190.21 |
+| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2929.9988 | -32.22 | -1.09% | 2143.43 – 3046.59 |
 
 S&P 500 is still parked near the top of its 52-week lane, but the Nasdaq took the harder hit.
 
@@ -93,16 +93,16 @@ Federal Funds Effective Rate (EFFR): **3.63%**; Fed Target Range: **3.50% – 3.
 
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---|
-| 30-YR Treasury | 5.162 | 0.04 | 0.0 – 5.197 |
-| 90-Day T-Bill | 3.805 | 0.10 | 0.0 – 4.25 |
+| [30-YR Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.162 | 0.04 | 0.0 – 5.197 |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.805 | 0.10 | 0.0 – 4.25 |
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
-| PHP/USD | 61.82 | 0.23 | 0.37% | 52.1 – 61.923 |
-| EUR/USD | 1.1375 | -0.01 | -0.46% | 1.1325 – 1.2024 |
-| CNY/USD | 6.7718 | -0.00 | -0.01% | 6.757 – 7.2116 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 61.82 | 0.23 | 0.37% | 52.1 – 61.923 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1375 | -0.01 | -0.46% | 1.1325 – 1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7718 | -0.00 | -0.01% | 6.757 – 7.2116 |
 
 PHP/USD is right near its 52-week high; EUR/USD and CNY/USD sit near the low end.
 
@@ -110,29 +110,29 @@ PHP/USD is right near its 52-week high; EUR/USD and CNY/USD sit near the low end
 
 | ETF (Symbol — Name) | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
-| ONEQ — Fidelity Nasdaq Composite ETF | 98.35 | -2.10 | -2.09% | 80.76 – 107.07 |
-| SCHD — Schwab U.S. Dividend Equity ETF | 33.29 | 0.38 | 1.15% | 26.21 – 33.5 |
-| VXUS — Vanguard Total International Stock ETF | 83.4 | 0.03 | 0.04% | 67.85 – 88.62 |
-| VBR — Vanguard Small-Cap Value ETF | 244.24 | 0.12 | 0.05% | 193.0 – 246.87 |
-| VNQ — Vanguard Real Estate ETF | 100.81 | 0.79 | 0.79% | 86.84 – 101.16 |
+| [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | 98.35 | -2.10 | -2.09% | 80.76 – 107.07 |
+| [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | 33.29 | 0.38 | 1.15% | 26.21 – 33.5 |
+| [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | 83.4 | 0.03 | 0.04% | 67.85 – 88.62 |
+| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | 244.24 | 0.12 | 0.05% | 193.0 – 246.87 |
+| [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | 100.81 | 0.79 | 0.79% | 86.84 – 101.16 |
 
 ### Stock Watch (with 52W Range)
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
-| NVDA | 206.84 | 4.03 | 1.99% | 164.07 – 236.54 |
-| TSM | 403.41 | 5.04 | 1.27% | 223.7 – 479.0 |
-| AMD | 521.95 | 26.19 | 5.28% | 149.22 – 584.73 |
-| AMZN | 232.11 | -15.12 | -6.12% | 196.0 – 278.56 |
-| NFLX | 70.09 | 1.14 | 1.65% | 65.08 – 126.71 |
-| TSLA | 313.03 | -67.81 | -17.81% | 297.82 – 498.83 |
-| PYPL | 56.15 | -0.41 | -0.72% | 38.46 – 79.5 |
-| BRK.B | 494.93 | 4.02 | 0.82% | 455.19 – 516.85 |
-| AXP | 326.17 | -29.18 | -8.21% | 288.34 – 387.49 |
-| SCHW | 101.97 | 0.41 | 0.40% | 83.96 – 107.5 |
-| RL | 373.58 | -6.87 | -1.81% | 273.04 – 421.6 |
-| COST | 935.03 | -5.84 | -0.62% | 844.06 – 1096.5 |
-| UPS | 114.79 | -2.93 | -2.49% | 82.0 – 122.41 |
+| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | 206.84 | 4.03 | 1.99% | 164.07 – 236.54 |
+| [TSM](https://www.marketwatch.com/investing/stock/tsm) | 403.41 | 5.04 | 1.27% | 223.7 – 479.0 |
+| [AMD](https://www.marketwatch.com/investing/stock/amd) | 521.95 | 26.19 | 5.28% | 149.22 – 584.73 |
+| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | 232.11 | -15.12 | -6.12% | 196.0 – 278.56 |
+| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | 70.09 | 1.14 | 1.65% | 65.08 – 126.71 |
+| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | 313.03 | -67.81 | -17.81% | 297.82 – 498.83 |
+| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | 56.15 | -0.41 | -0.72% | 38.46 – 79.5 |
+| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | 494.93 | 4.02 | 0.82% | 455.19 – 516.85 |
+| [AXP](https://www.marketwatch.com/investing/stock/axp) | 326.17 | -29.18 | -8.21% | 288.34 – 387.49 |
+| [SCHW](https://www.marketwatch.com/investing/stock/schw) | 101.97 | 0.41 | 0.40% | 83.96 – 107.5 |
+| [RL](https://www.marketwatch.com/investing/stock/rl) | 373.58 | -6.87 | -1.81% | 273.04 – 421.6 |
+| [COST](https://www.marketwatch.com/investing/stock/cost) | 935.03 | -5.84 | -0.62% | 844.06 – 1096.5 |
+| [UPS](https://www.marketwatch.com/investing/stock/ups) | 114.79 | -2.93 | -2.49% | 82.0 – 122.41 |
 
 ### Markets Analysis — Upcoming Week
 Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up **8.27%**, and TSLA down **17.81%**. Watch tech breadth, crude follow-through, and whether rate pressure keeps cash competitive.
@@ -141,8 +141,8 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---|
-| Bitcoin | 64448.55 | -1652.25 | -2.50% | 57747.766 – 126198.07 |
-| Oil (WTI) | 89.31 | 4.40 | 5.18% | 54.98 – 119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | 64448.55 | -1652.25 | -2.50% | 57747.766 – 126198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | 89.31 | 4.40 | 5.18% | 54.98 – 119.48 |
 
 ### 📢 Major Move Alert
 📢 Nasdaq -2.13%, Oil +5.18%, TSLA -17.81%, 90-day bills +10bps: tech got clipped, crude heated up, Tesla skidded, and cash rates stayed sticky.
@@ -153,7 +153,7 @@ Sunday setup: latest completed-week context showed Nasdaq down **2.13%**, oil up
 - Kalshi: *[Data unavailable]*.
 
 ### ⛽ Mortgage & Gas
-- 30-Year Fixed Mortgage Rate: **6.75%** (Bankrate — top listed rate)
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): **6.75%** (Bankrate — top listed rate)
 - National Avg Regular: **$4.1100**; NJ State Avg Regular: **$4.1840** (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
