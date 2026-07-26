@@ -77,9 +77,7 @@ Makati starts **partly cloudy, 28°C**, wind **5 km/h**. Today: **patchy rain ne
 
 ### Business Newswire
 - **[There’s a technical ‘triple threat’ for stocks, but also places investors can hide](https://www.marketwatch.com/story/theres-a-technical-triple-threat-for-stocks-but-also-places-investors-can-hide-59108c6b?mod=mw_rss_topstories)** — MarketWatch flags a cautious setup for equities with defensive pockets still in play. (MarketWatch)
-- **[Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount](https://www.bloomberg.com/news/articles/2026-07-26/bond-traders-on-edge-as-risks-of-fed-rate-hike-this-week-mount)** — Rate risk stays front-and-center heading into the week. (Bloomberg)
-- **[Traders Are Getting a New Tool to Wager on the Biggest US Stocks](https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks)** — Bloomberg tracks another product aimed at mega-cap stock speculation. (Bloomberg)
-- **[MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories), [WSJ News](https://feeds.wsj.com/wsj/xml/rss/3_7011.xml), and [Bloomberg Markets](https://feeds.bloomberg.com/markets/news.rss)** — Primary business-news feeds for this section. (Sources)
+- **[MarketWatch Top Stories](https://feeds.content.dowjones.io/public/rss/mw_topstories) and [WSJ News](https://feeds.wsj.com/wsj/xml/rss/3_7011.xml)** — Primary business-news feeds for this section. (Sources)
 
 ### The Numbers (with 52W Range)
 
