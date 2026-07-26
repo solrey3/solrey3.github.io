@@ -261,13 +261,13 @@ Upcoming card fetched for late August/early September, including **North Carolin
 ### Team Reports
 _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
 
-> **NY Giants:** Cowboys at Giants — 9/13, 8:20 PM EDT; Giants at Rams — 9/21, 8:15 PM EDT. TV: N/A.
+> **NY Giants:** Cowboys at Giants — 9/13, 8:20 PM EDT; Giants at Rams — 9/21, 8:15 PM EDT. TV: N/A. News: [Giants news](https://www.giants.com/news/).
 
-> **NY Mets:** last two — L 3–4 vs Dodgers ([Full box score](https://www.mlb.com/gameday/823600)), L 3–4 vs Dodgers ([Full box score](https://www.mlb.com/gameday/823600)). Upcoming fetched rows are postponed Rockies makeups: TV N/A.
+> **NY Mets:** last two — L 3–4 vs Dodgers ([Full box score](https://www.mlb.com/gameday/823600)), L 3–4 vs Dodgers ([Full box score](https://www.mlb.com/gameday/823600)). Upcoming fetched rows are postponed Rockies makeups: TV N/A. News: [Mets head into matchup with the Dodgers on losing streak](http://www.espn.com/mlb/preview?gameId=401816270).
 
-> **NJ Devils:** Flyers at Devils — 10/1, 7:00 PM EDT; Devils at Islanders — 10/3, 7:30 PM EDT. TV: N/A.
+> **NJ Devils:** Flyers at Devils — 10/1, 7:00 PM EDT; Devils at Islanders — 10/3, 7:30 PM EDT. TV: N/A. News: [Gustav Hillstrom — PROSPECTS PROFILE](https://www.nhl.com/devils/news/gustav-hillstrom-prospects-profile-7-22-26).
 
-> **Inter Miami:** team schedule parse error; upcoming: *[Data unavailable]*.
+> **Inter Miami:** team schedule parse error; upcoming: *[Data unavailable]*. News: [Inter Miami manager Hoyos says Berterame okay after head collision](https://www.espn.com/soccer/story/_/id/49453132/inter-miami-guillermo-hoyos-german-berterame-mls).
 
 ---
 
