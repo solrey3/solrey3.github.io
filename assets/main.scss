@@ -250,6 +250,35 @@ blockquote {
   border-radius: 0 8px 8px 0;
 }
 
+table {
+  display: block;
+  width: 100%;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+  border-collapse: collapse;
+  color: #f5f7fa;
+}
+
+th,
+td {
+  border: 1px solid #4b5563;
+  padding: 0.65rem 0.8rem;
+}
+
+th {
+  background: #263241;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+tr {
+  background: #151b23;
+}
+
+tr:nth-child(even) {
+  background: #202936;
+}
+
 .site-footer {
   background: var(--bg-secondary);
   border-top: 1px solid var(--border-color);
