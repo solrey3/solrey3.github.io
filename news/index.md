@@ -176,6 +176,8 @@ _Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/
 ### Scoreboard
 
 #### ⚾ MLB
+_Standings: [MLB standings](https://www.mlb.com/standings)_
+
 **Completed**
 
 | Matchup | Final/Status | Box Score |
@@ -219,7 +221,8 @@ _Sources: [ESPN Sports](https://www.espn.com/), [NJ Devils](https://www.nhl.com/
 Mets note: Queens has the Dodgers again at **1:40 PM**. Grab a sandwich and keep one eye on SNY.
 
 #### ⚽ MLS
-_Source: [MLS Match Center](https://www.mlssoccer.com/schedule/scores)_
+_Source: [MLS Match Center](https://www.mlssoccer.com/schedule/scores)_  
+_Standings: [MLS standings](https://www.mlssoccer.com/standings/)_
 
 | Matchup | Final/Status |
 |---|---|
@@ -230,6 +233,7 @@ _Source: [MLS Match Center](https://www.mlssoccer.com/schedule/scores)_
 | Vancouver Whitecaps at Minnesota United | 0–0 — FT |
 
 #### ⛳ Golf
+_Standings/leaderboards: [PGA Tour leaderboard](https://www.pgatour.com/leaderboard), [LPGA leaderboard](https://www.lpga.com/tournaments/leaderboard)_
 
 | Tour | Tournament | Status | Leader |
 |---|---|---|---|
@@ -237,6 +241,7 @@ _Source: [MLS Match Center](https://www.mlssoccer.com/schedule/scores)_
 | LPGA | ISPS HANDA Women's Scottish Open | Round 4 in progress | Jenny Shin -12 |
 
 #### 🚴 Tour de France
+_Standings: [Tour de France rankings](https://www.letour.fr/en/rankings)_
 
 | Item | Current data |
 |---|---|
