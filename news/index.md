@@ -279,6 +279,11 @@ Arsenal sources: [Premier League](https://site.api.espn.com/apis/site/v2/sports/
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
+### Tonight's Spotlight — AEW Redemption
+- **[AEW Redemption results, live match coverage](https://www.cagesideseats.com/aew/463190/aew-redemption-results-live-match-coverage)** — AEW’s Sunday night special is live tonight, with six championships advertised and the Buy In already producing a Trios title defense.
+- **[Watch: AEW Redemption — The Buy In](https://www.fightful.com/wrestling-news/watch-aew-redemption-the-buy-in-pre-show-6pm-et-3pm-pt-sunday-july-26-2026)** — Pre-show stream began at 6 PM ET / 3 PM PT. (Fightful)
+- **[Live AEW Redemption 2026 Discussion Thread](https://www.reddit.com/r/SquaredCircle/comments/1v7i8zv/live_aew_redemption_2026_discussion_thread/)** — r/SquaredCircle live thread for real-time reactions.
+
 ### Upcoming TV / PLE Schedule
 
 | Group | Upcoming TV / PLE window | Where to watch / verify |
