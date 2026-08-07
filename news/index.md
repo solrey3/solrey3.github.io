@@ -34,64 +34,67 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-08-06T22:02:20+00:00_  
-_Source: `2026-08-06-evening-dispatch.md`_
+_Originally generated: 2026-08-07T00:02:25-04:00_  
+_Source: `2026-08-07-midnight-dispatch.md`_
 
-# 🌙 THE EVENING BRIEF — Thursday, August 6, 2026
-> "The closing bell rang; the boardwalk heat did not get the memo."
+# 🌙 THE MIDNIGHT DISPATCH — Friday, August 7, 2026
+> “The Shore sleeps lightly; the overnight desk doesn’t sleep at all.”
 
 ---
 
-## 🌙 SHORE FORECAST & BEYOND
+## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**HOT ONE AT THE SHORE:** Sunny and 92°F with an 11 mph breeze. Tonight falls to 74°F; Friday stays sunny, high 93°F, low 74°F, with just a 2% rain chance.
+**CLEAR, HOT, AND HOLD THE UMBRELLA.** Clear near 79°F with an 8 mph breeze. Friday stays sunny: high 93°F, low 76°F, with a 5% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**SHOWERS IN THE NEIGHBORHOOD:** Patchy rain nearby, 27°C, winds at 22 km/h. Friday brings patchy rain, high 29°C and low 26°C, with a 28% rain chance.
+**RAIN IN THE NEIGHBORHOOD.** Patchy rain nearby at 29°C, feeling like 33°C, with 31 km/h wind. Friday brings patchy rain, a 29°C high, 26°C low and 34% rain chance; Saturday turns wetter with light showers and a 67% chance.
 
 ---
 
 ## 📰 TOP STORIES
 
 ### Headlines
-- **[Palestinians Stream Back to Northern Gaza on Foot](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)** — Residents returned north following a hostage-release breakthrough. (WSJ)
-- **[Disney and TikTok made a deal to share clips](https://www.cnn.com/2026/08/05/media/disney-tiktok-partnership)** — Two media giants are teaming up on short-form distribution. (Morning Brew)
-- **[Army staff sergeant's wife detained by ICE](https://www.newsnationnow.com/us-news/military/army-staff-sergeant-wife-detained-by-ice/)** — An immigration case is colliding with a military family’s life. (NewsNation)
-- **[Legal aid for immigrant kids disrupted after funding lapse](https://www.csmonitor.com/USA/2026/0806/immigration-court-trump-children?icid=rss)** — A funding lapse has interrupted legal help for children. (CS Monitor)
-- **[Kellogg moves to ditch artificial dyes from cereals by end of 2026](https://thehill.com/business/6015254-w-kellogg-ends-artificial-dyes/)** — The cereal maker set a year-end deadline. (The Hill)
-- **[The GOP Is Warning About Socialism While Quietly Embracing It](https://reason.com/2026/08/06/the-gop-is-warning-about-socialism-while-quietly-embracing-it/)** — Reason examines the gap between rhetoric and policy. (Reason)
-- **[Medicare Update: 40 Percent Price Hike Warning Issued by Democrats](https://www.newsweek.com/medicare-update-40-percent-price-hike-warning-issued-by-democrats-12294457)** — Democrats issued a sharp warning over Medicare pricing. (Newsweek)
+- **[Palestinians Stream Back to Northern Gaza on Foot](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)** — Palestinians returned north following a hostage-release breakthrough. (WSJ)
+- **[Leading China Property Developer Reports Huge Loss](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)** — Another major loss signals widening stress in Chinese real estate. (WSJ)
+- **[Disney and TikTok made a deal to share clips](https://www.cnn.com/2026/08/05/media/disney-tiktok-partnership)** — The entertainment giant and social platform are opening a new distribution lane. (Morning Brew)
+- **[Foster care was no safe haven for Turpin survivor](https://www.newsnationnow.com/crime/julissa-tuprin-foster-care-abuse/)** — Julissa Turpin describes further abuse after her rescue. (NewsNation)
+- **[Legal aid for immigrant kids disrupted](https://www.csmonitor.com/USA/2026/0806/immigration-court-trump-children?icid=rss)** — A funding lapse disrupted assistance for children in immigration court. (CS Monitor)
+- **[Crude oil supplies at 45-year low](https://thehill.com/homenews/administration/6015652-us-crude-supplies-45-year-low-iran-war/)** — U.S. crude inventories have reached a generational low. (The Hill)
+- **[Trump Issues Another Executive Order Targeting Birthright Citizenship](https://reason.com/volokh/2026/08/06/trump-issues-another-unconstitutional-executive-order-targeting-birthright-citizenship/)** — The order renews the constitutional fight over citizenship. (Reason)
+- *[Data unavailable: Newsweek]*
 
 ### AI & Tech Desk
-- **[X asks the 5th Circuit to revive its advertiser lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.ca5.229782/gov.uscourts.ca5.229782.120.0.pdf)** — The platform wants an appeals court to overrule a district judge. (Ars Technica)
-- **[Anthropic will design its own hardware to power Claude](https://www.businessinsider.com/anthropic-in-house-silicon-chip-team-claude-2026-8)** — The AI lab is moving toward in-house silicon. (Ars Technica)
-- **[AMD acquires Taalas to boost inference performance](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)** — Model-in-silicon inference drew 135 HN points. (Hacker News)
-- **[Qwen3.8 Max tops an agentic model index](https://artificialanalysis.ai/?intelligence=agentic-index)** — The ranking led the tech board with 332 points. (Hacker News)
+- **[Organ donation group accused of trying to take living man's organs faces shutdown](https://www.hhs.gov/press-room/hhs-decertifies-kentucky-organ-procurement-organization.html)** — HHS moved to decertify the Kentucky organization. (Ars Technica)
+- **[X asks 5th Circuit to revive advertiser lawsuit](https://storage.courtlistener.com/recap/gov.uscourts.ca5.229782/gov.uscourts.ca5.229782.120.0.pdf)** — X wants an appeals court to overrule the district judge. (Ars Technica)
+- **[AMD acquires Taalas to boost inference performance](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)** — AMD is buying a startup that etches AI models into silicon. (Hacker News)
+- **[Hackers Stalked Me by Hijacking a Smartwatch for Kids](https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/)** — A child-focused wearable became a tracking vector. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
+## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
 
 ### Business Newswire
-- **[Trade Desk shares tumble on earnings miss and weak outlook](https://www.marketwatch.com/story/trade-desk-shares-tumble-on-earnings-miss-and-weak-outlook-9f4640e9?mod=mw_rss_topstories)** — Results and guidance disappointed investors. (MarketWatch)
-- **[Gold prices break higher after a tough stretch](https://www.marketwatch.com/story/gold-prices-are-breaking-higher-after-a-tough-stretch-could-fresh-records-be-within-reach-1e1a872f?mod=mw_rss_topstories)** — Traders are again looking toward record territory. (MarketWatch)
-- **[How Self-Driving Cars Work — And Why They're Still Evolving](https://www.forbes.com/sites/technology/article/self-driving-cars/)** — Forbes surveys the technology’s moving parts. (Forbes)
+- **[Micron’s stock falls but is spared the worst of the memory-chip selloff](https://www.marketwatch.com/story/microns-stock-claws-back-to-buck-the-memory-chip-selloff-58af0155?mod=mw_rss_topstories)** — Micron escaped the deepest damage in a rough memory-chip session. (MarketWatch)
+- **[SB19 on new single ‘Lawless’ and making their Lollapalooza debut](https://www.forbes.com/sites/jimryan1/2026/08/06/sb19-on-new-single-lawless-and-making-their-lollapalooza-debut/)** — The Filipino group discussed its new release and festival milestone. (Forbes)
 
 ### The Numbers (with 52W Range)
 
 | Index | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7,709.96 | +272.33 | +3.66% | 6,310.32–7,742.85 |
-| [Dow 30](https://www.marketwatch.com/investing/index/djia) | 53,885.10 | +1,677.04 | +3.21% | 43,799.20–54,502.87 |
+| [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7,709.96 | +272.33 | +3.66% | 6,310.32–7,793.68 |
+| [Dow 30](https://www.marketwatch.com/investing/index/djia) | 53,885.10 | +1,677.04 | +3.21% | 43,799.20–54,744.33 |
 | [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,348.35 | +1,226.17 | +4.88% | 20,690.25–27,190.21 |
-| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 3,001.55 | +55.45 | +1.88% | 2,202.87–3,046.59 |
+| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 3,001.55 | +55.45 | +1.88% | 2,202.87–3,048.85 |
 
-**Federal Funds Rate:** EFFR 3.63%; target range 3.50%–3.75%.
+All four indexes charged higher; the S&P 500 and Russell finished close to their 52-week peaks.
+
+### Federal Funds Rate
+**EFFR:** 3.63% · **Fed target range:** 3.50%–3.75%
 
 ### Treasury Rates (with 52W Range)
 
@@ -104,9 +107,9 @@ _Source: `2026-08-06-evening-dispatch.md`_
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 60.778 | -0.73 | -1.19% | 52.10–61.923 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1525 | 0.00 | +0.01% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7431 | -0.01 | -0.18% | 6.7356–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 60.867 | -0.38 | -0.63% | 52.100–61.923 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1526 | -0.00 | -0.16% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7463 | -0.00 | -0.07% | 6.7356–7.1909 |
 
 ### ETFs (with 52W Range)
 
@@ -115,7 +118,7 @@ _Source: `2026-08-06-evening-dispatch.md`_
 | [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | $103.84 | +$5.04 | +5.10% | $81.45–$107.07 |
 | [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | $33.70 | +$0.29 | +0.87% | $26.32–$34.24 |
 | [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | $86.32 | +$1.55 | +1.83% | $69.94–$88.62 |
-| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | $248.41 | +$3.30 | +1.35% | $197.12–$250.65 |
+| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | $248.41 | +$3.30 | +1.35% | $197.12–$251.66 |
 | [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | $98.04 | -$1.45 | -1.46% | $86.84–$101.80 |
 
 ### Stock Watch (with 52W Range)
@@ -140,72 +143,71 @@ _Source: `2026-08-06-evening-dispatch.md`_
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $64,375.01 | +$893.01 | +1.41% | $57,747.77–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $78.23 | -$2.11 | -2.63% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $64,217.42 | +$756.52 | +1.19% | $57,747.77–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $78.05 | -$2.29 | -2.85% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-📢 The S&P 500 +3.66%, Dow +3.21%, Nasdaq +4.88%, NVDA +12.28%, and AMZN +15.61% turned Thursday into a broad risk-on sprint; the S&P finished just below its 52-week high.
+📢 NVDA +12.28% and AMZN +15.61% cleared the stock-alert line, while the S&P 500 +3.66%, Dow +3.21% and Nasdaq +4.88% delivered a broad, heavyweight rally.
 
 ### Prediction Markets
-Polymarket returned topics but no verified probabilities or movement figures. Kalshi: *[Data unavailable]*
+- Polymarket’s trending page surfaced the 2028 Republican nomination, Padres–Diamondbacks and possible U.S.–Iran talks, but no prices or movements were fetched.
+- *[Data unavailable: Kalshi]*
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.79% (Bankrate)
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.75% (Bankrate top listed rate)
 - National regular: $4.0633; New Jersey regular: $4.0719 (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** Stocks ripped higher, with the S&P 500 closing within roughly half a percent of its 52-week high. Big Tech did the heavy lifting.
+**BOTTOM LINE:** Bulls owned the late tape, pushing major indexes near their yearly ceilings. Amazon and Nvidia supplied the fireworks; Bitcoin remained in the lower half of its 52-week range.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Kim Le Court-Pienaar surges to a stunning Tour de France Femmes stage 6 win](https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-kim-le-court-pienaar-surges-from-small-pack-for-stunning-win-on-stage-6/)** — A small-pack attack delivered the day’s cycling result. (Cycling / Cyclingnews)
-- **[Demi Vollering says the plan is on track before Mont Ventoux](https://www.cyclingnews.com/pro-cycling/womens-cycling/we-are-where-we-want-to-be-all-going-according-to-plan-for-demi-vollering-and-fdj-united-suez-ahead-of-tour-de-france-femmes-mont-ventoux-showdown/)** — The looming climb is set to test the GC contenders. (Cycling / Cyclingnews)
-
-Other sports newswires: *[Data unavailable]*
+- **[Tour de France Femmes riders bring their Mont Ventoux stories](https://www.cyclingnews.com/pro-cycling/womens-cycling/a-proposal-a-baptism-of-fire-and-an-mtb-ride-at-10-years-old-everyone-at-the-tour-de-france-femmes-has-a-mont-ventoux-story/)** — The mountain looms over the women’s race. (Cycling / Cyclingnews)
+- **[Kim Le Court-Pienaar surges to win Stage 6](https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-kim-le-court-pienaar-surges-from-small-pack-for-stunning-win-on-stage-6/)** — A small-pack attack delivered the stage victory. (Cycling / Cyclingnews)
+- **[UAE Team’s multi-leader plan faces the Ventoux test](https://www.cyclingnews.com/pro-cycling/womens-cycling/despite-all-the-noise-uae-team-limads-multi-leader-approach-working-but-mont-ventoux-could-change-everything-at-the-tour-de-france-femmes/)** — The climb could settle internal hierarchy fast. (Cycling / Cyclingnews)
+- *[Data unavailable: other sports newswires]*
 
 ### Scoreboard
 
 #### ⚾ MLB
-[Standings: MLB](https://www.mlb.com/standings)
+Standings: [MLB standings](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
-|---|---|---|
-| Blue Jays @ Astros | TOR 5–4 | [Full box score](https://www.mlb.com/gameday/824158) |
-| Dodgers @ Cubs | CHC 7–6 | [Full box score](https://www.mlb.com/gameday/824646) |
-| Giants @ Rangers | TEX 6–0 | [Full box score](https://www.mlb.com/gameday/822866) |
-| Rays @ Rockies | TB 4–0 | [Full box score](https://www.mlb.com/gameday/824322) |
-| Angels @ Orioles | BAL 5–2 | [Full box score](https://www.mlb.com/gameday/824806) |
-| Mets @ Guardians | NYM 6–5 | [Full box score](https://www.mlb.com/gameday/824402) |
-| Athletics @ Reds | CIN 3–2 | [Full box score](https://www.mlb.com/gameday/824482) |
-| Nationals @ Phillies | WSH 10–4 | [Full box score](https://www.mlb.com/gameday/823429) |
-| Cardinals @ Yankees | STL 3–1 | [Full box score](https://www.mlb.com/gameday/823516) |
-| White Sox @ Red Sox | BOS 4–0 | [Full box score](https://www.mlb.com/gameday/824728) |
-| Marlins @ Braves | ATL 4–1 | [Full box score](https://www.mlb.com/gameday/824889) |
-| Twins @ Royals | KC 2–1 | [Full box score](https://www.mlb.com/gameday/824082) |
-| Pirates @ Brewers | MIL 4–2 | [Full box score](https://www.mlb.com/gameday/823753) |
-| Padres @ Diamondbacks | ARI 10–4 | [Full box score](https://www.mlb.com/gameday/825052) |
-| Tigers @ Mariners | SEA 4–2 | [Full box score](https://www.mlb.com/gameday/823106) |
-| Angels @ Orioles | LAA 4–1 | [Full box score](https://www.mlb.com/gameday/824804) |
-| Athletics @ Reds | CIN 6–5 | [Full box score](https://www.mlb.com/gameday/824481) |
-| Mets @ Guardians | NYM 13–6 | [Full box score](https://www.mlb.com/gameday/824401) |
-| Pirates @ Brewers | MIL 5–2 | [Full box score](https://www.mlb.com/gameday/823754) |
-| Blue Jays @ Cubs | CHC 3–2 | [Full box score](https://www.mlb.com/gameday/824664) |
-| Tigers @ Mariners | DET 6–0, in progress | [Full box score](https://www.mlb.com/gameday/823105) |
+|---|---:|---|
+| Angels @ Orioles | 4–1 Final | [Full box score](https://www.mlb.com/gameday/824804) |
+| Athletics @ Reds | 5–6 Final | [Full box score](https://www.mlb.com/gameday/824481) |
+| Mets @ Guardians | 13–6 Final | [Full box score](https://www.mlb.com/gameday/824401) |
+| Pirates @ Brewers | 2–5 Final | [Full box score](https://www.mlb.com/gameday/823754) |
+| Blue Jays @ Cubs | 2–3 Final | [Full box score](https://www.mlb.com/gameday/824664) |
+| Tigers @ Mariners | 11–0 Final | [Full box score](https://www.mlb.com/gameday/823105) |
+| Nationals @ Phillies | 3–7 Final | [Full box score](https://www.mlb.com/gameday/823430) |
+| White Sox @ Red Sox | 11–12 Game Over | [Full box score](https://www.mlb.com/gameday/824729) |
+| Marlins @ Braves | 3–11 Final | [Full box score](https://www.mlb.com/gameday/824885) |
+| Twins @ Royals | 4–3 Final | [Full box score](https://www.mlb.com/gameday/824080) |
+| Padres @ Diamondbacks | 5–1 In Progress | [Gameday](https://www.mlb.com/gameday/825053) |
 
-Upcoming times/TV: *[Data unavailable]*
+**Next up:** Sixteen additional games were listed as scheduled, but start times and TV networks were not fetched. *[Data unavailable]*
 
 #### 🚴 Cycling
-[Tour de France rankings](https://www.letour.fr/en/rankings)
+Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 
-**Tour final:** Mathieu van der Poel won Stage 21 in 1:58:49. Tadej Pogacar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
+Mathieu van der Poel won the completed Tour’s Stage 21 in 1:58:49. Tadej Pogacar took the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
-#### Team Reports — NJ Devils
-**PROSPECT FILE:** [Alexander Command](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26), [Trenten Bennett](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26), and [Sigge Holmgren](https://www.nhl.com/devils/news/sigge-holmgren-prospects-profile-7-31-26) received new profiles. Schedule data: *[Data unavailable]*
+### Team Reports
+_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
+
+> **NJ DEVILS**
+>
+> Team schedule: *[Data unavailable]*
+>
+> **Prospect desk:** [Alexander Command](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26) · [Trenten Bennett](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26) · [Sigge Holmgren](https://www.nhl.com/devils/news/sigge-holmgren-prospects-profile-7-31-26)
+
+Other tracked-team reports: *[Data unavailable]*
 
 ---
 
@@ -213,18 +215,28 @@ Upcoming times/TV: *[Data unavailable]*
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Next up | Watch / verify |
+| Group | Upcoming | Watch / Verify |
 |---|---|---|
-| WWE / NXT / AAA | SmackDown Aug. 7; Raw Aug. 10; NXT Aug. 11 | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
-| AEW / ROH | ROH Aug. 6; Collision Aug. 8; Dynamite Aug. 12 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Aug. 6 | [TNA](https://tnawrestling.com/events/) |
-| NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
+| WWE | SmackDown Aug. 7; Raw Aug. 10 | [WWE events](https://www.wwe.com/events) |
+| NXT | NXT TV Aug. 11 | [WWE events](https://www.wwe.com/events) |
+| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
+| AEW | Collision Aug. 8; Dynamite Aug. 12 | [AEW events](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV Aug. 13 | [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! Aug. 13 | [TNA events](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | [NJPW schedule](https://www.njpw1972.com/schedule/) |
 | CMLL | Arena México Aug. 7, 9, 11; Coliseo Aug. 8 | [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[Rhea Ripley undergoes knee surgery](https://www.postwrestling.com/2026/08/06/rhea-ripley-undergoes-knee-surgery/)** — Ripley confirmed surgery after other options ran out. (POST Wrestling)
-- **[Buddy Matthews is cleared to compete](https://www.postwrestling.com/2026/08/06/buddy-matthews-announces-he’s-cleared-to-compete/)** — Matthews announced his in-ring return is medically cleared. (POST Wrestling)
-- **[Post AEW Grand Slam: Mexico discussion](https://www.reddit.com/r/SquaredCircle/comments/1vgryzi/post_aew_grand_slam_mexico_august_05_2026/)** — Fans unpacked the Arena México show. (r/SquaredCircle)
+- **[NXT’s Shiloh Hill provides an injury update](https://www.fightful.com/wrestling-news/nxts-shiloh-hill-provides-injury-update-i-may-be-back-in-the-ring-a-little-sooner-than-the-doctors-initially-thought)** — Hill says the return may come sooner than doctors first expected. (Fightful)
+- **[Buddy Matthews announces he’s cleared](https://www.postwrestling.com/2026/08/06/buddy-matthews-announces-hes-cleared-to-compete/)** — Matthews says he can compete again. (POST Wrestling)
+- **[TNA Impact: three things hated and loved](https://www.wrestlinginc.com/2232200/tna-impact-august-6-2026-hated-loved-opinion-review/)** — A quick post-show assessment. (WrestlingInc)
+- **[Jade Cargill vs. Charlotte Flair is finally happening](https://www.cagesideseats.com/wwe/466775/wwe-announces-charlotte-flair-vs-jade-cargill-smackdown-owens-return-cm-punk-chelsea-interim)** — WWE booked the match for television rather than a PLE. (Cageside Seats)
+- **[Updated card for TNA Lockdown](https://411mania.com/wrestling/updated-card-tna-lockdown-8-6-26/)** — The Lockdown lineup received an update. (411mania)
+
+### r/squaredcircle
+- [Post TNA Impact discussion — August 6](https://www.reddit.com/r/SquaredCircle/comments/1vhovhv/post_tna_impact_discussion_thread_august_6_2026/)
+- [Adam Copeland reflects on Arena México](https://www.reddit.com/r/SquaredCircle/comments/1vhesce/adam_copeland_on_last_night_what_a_night_finally/)
+- [Aleister Black reveals a new look](https://www.reddit.com/r/SquaredCircle/comments/1vhdjzu/aleister_black_reveals_a_new_look_ahead_of_his/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -238,6 +250,7 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | July 19, 2026 | 5 | Yuya Uemura vs. Zack Sabre Jr. | NJPW | G1 Climax 36 Night 3 |
 | July 18, 2026 | 5 | Syuri vs. Natsupoi | Stardom | 5 Star Grand Prix Night 1 |
 | July 8, 2026 | 5.5 | MJF vs. Kenny Omega | AEW | Dynamite Beach Break |
+| **January 4, 2026** | **6** | **Hiroshi Tanahashi vs. Kazuchika Okada** | **NJPW** | **Wrestle Kingdom 20** |
 
 ---
 
@@ -245,27 +258,36 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 
 ### Reddit — What's Trending
 #### r/TomsRiver
-- **[Aug. 10 Toms River Community Blood Drive](https://www.reddit.com/r/TomsRiver/comments/1vh3ezx/aug_10_toms_river_community_blood_drive_blood_for/)**
+- **[Aug. 10 community blood drive — Blood for a Brew voucher](https://www.reddit.com/r/TomsRiver/comments/1vh3ezx/aug_10_toms_river_community_blood_drive_blood_for/)**
+
+#### r/Python
+- **[Python 3.14.7 and 3.13.15 are now available](https://www.reddit.com/r/Python/comments/1vhftff/python_3147_and_31315_are_now_available/)**
 
 #### r/Android
-- **[Nothing confirms plans to double its smartphone lineup in 2027](https://www.reddit.com/r/Android/comments/1vh84cs/exclusive_nothing_confirms_plans_to_double_its/)**
+- **[Android Canary 2608 adds a Quick Settings layout editor](https://www.reddit.com/r/Android/comments/1vhnhif/mishaal_rahman_android_canary_2608_is_now/)**
 
-#### r/kubernetes
-- **[Zero-downtime node drains for single-replica workloads](https://www.reddit.com/r/kubernetes/comments/1vh4our/zerodowntime_node_drains_for_singlereplica/)**
+#### r/nba
+- **[Report alleges Kawhi Leonard had a hidden multimillion-dollar sponsorship](https://www.reddit.com/r/nba/comments/1vhmyry/breaking_kawhi_leonard_had_a_hidden/)**
+
+#### r/TheSimpsons
+- **[A three-year project built an enormous model of Springfield](https://www.reddit.com/r/TheSimpsons/comments/1vheoi1/i_spent_three_years_building_an_enormous_model_of/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **Moon:** [Why Dave Chappelle Sold His Soul](https://www.youtube.com/watch?v=OMxesWuyo4s)
-- **GothamChess:** [Keanu Reeves Played Chess. He's Terrifying.](https://www.youtube.com/watch?v=mptx-xdQTHs)
-- **House of Highlights:** [Mets vs. Guardians full game highlights](https://www.youtube.com/watch?v=m2wM1_tBqvk)
+**Breaking Points:** [Trump rages at Hegseth over munitions shortage](https://www.youtube.com/watch?v=n6PNo8PMGJk) · [Disney and TikTok made a deal to share clips](https://www.youtube.com/watch?v=auQ0p7A5I4M)
+
+**The PrimeTime:** [Balatro movie trivia](https://www.youtube.com/shorts/_Nq8A0Ty6-w)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **freeCodeCamp:** [Build a privacy-first medical image de-identification agent](https://www.freecodecamp.org/news/build-ai-image-de-identification-for-clinical-research/)
-- **gHacks:** [Hotel Wi-Fi attacks stole Microsoft 365 accounts](https://www.ghacks.net/2026/08/06/microsoft-links-hotel-wi-fi-attacks-stealing-microsoft-365-accounts-to-russian-hackers/)
-- **Jersey Digs:** [132-unit Ridge Point sells in Fort Lee](https://jerseydigs.com/ridge-point-fort-lee-sells/)
-- **OSnews:** [Developing a windowed OS for a homebrew Am29000 computer](https://nanochess.org/the_am29000_computer.html)
+**gHacks:** [Microsoft links hotel Wi-Fi account theft to Russian hackers](https://www.ghacks.net/2026/08/06/microsoft-links-hotel-wi-fi-attacks-stealing-microsoft-365-accounts-to-russian-hackers/)
+
+**Jersey Digs:** [Valley Hospital plans a 200,000-square-foot Paramus expansion](https://www.paramusborough.gov/AgendaCenter/ViewFile/Agenda/_07162026-1885)
+
+**OSnews:** [Why killing Windows legacy code takes so long](https://www.windowscentral.com/microsoft/windows-11/control-panel-gets-tricky-microsoft-cvp-explains-why-killing-windows-legacy-code-takes-so-long-and-how-its-evolving-its-tools-to-make-modernizing-apps-like-file-explorer-and-registry-editor-faster)
+
+**Pew Research:** [Trump’s job approval rating is low by historical standards](https://www.pewresearch.org/short-reads/2026/08/06/trumps-job-approval-rating-is-low-by-historical-standards/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-That's all for tonight, folks. Stay cool, keep the pork roll handy, and don’t argue with the closing bell—or the Parkway.
+Lights out, folks — the boardwalk gets another run tomorrow, and the pork roll will be waiting by sunrise.
