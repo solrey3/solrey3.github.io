@@ -34,51 +34,63 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-08-10T04:02:23+00:00_  
-_Source: `2026-08-10-midnight-dispatch.md`_
+_Originally generated: 2026-08-10T06:00:12-04:00_  
+_Source: `2026-08-10-daytime-dispatch.md`_
 
-# 🌙 THE MIDNIGHT DISPATCH — Monday, August 10, 2026
-> “The calendar flipped; the overnight desk did not.”
+# 🌅 THE MORNING DISPATCH — Monday, August 10, 2026
+> "Hot pavement, hot markets, and the coffee had better keep up."
 
 ---
 
-## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
+## ☀️ SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**CLEAR, HOT, STILL SUMMER.** Around 79°F now with a light breeze. Monday stays sunny: high 94°F, low 71°F, just a 2% rain chance.
+**SUN’S OUT, HEAT’S ON:** Clear and 72°F early, with a light 2 mph breeze. Sunny today, **high 96°F, low 71°F**, with a 2% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**SHOWERS STICK AROUND.** Light rain and 28°C now, with winds near 32 km/h. Monday: light rain showers, high 28°C, low 27°C, 70% rain chance; Tuesday reaches 29°C with a 27°C low.
+**SHOWERS IN THE CITY:** Light rain showers and 28°C, feeling like 32°C, with winds at 35 km/h. Expect a **high of 29°C, low of 27°C**, and a 61% rain chance.
 
 ---
 
 ## 📰 TOP STORIES
 
 ### Headlines
-- **[Palestinians Stream Back to Northern Gaza on Foot](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)** — Palestinians headed north after a hostage-release breakthrough. (WSJ)
-- **[Paid family time off is on the decline in the US](https://www.nytimes.com/2026/05/11/upshot/family-leave-cuts-deloitte-zoom.html?unlocked_article_code=1.31A.ZoAf.8GysAHYs70dM&amp;amp;smid=url-share)** — Employer-paid family leave is getting harder to find. (Morning Brew)
-- **[Cyberattack knocks out California city's 911 operations](https://www.newsnationnow.com/us-news/west/cyberattacks-hackers-california-911-operations/)** — A cyberattack disrupted emergency operations. (NewsNation)
-- **[Cyprus natural gas will help supply Europe by first half of 2028, official says](https://www.csmonitor.com/World/Europe/2026/0809/cyprus-natural-gas-europe?icid=rss)** — Cyprus sees its gas reaching Europe in 2028. (CS Monitor)
-- **[Kaptur moving to physical rehab after what police say was a hit-and-run crash](https://thehill.com/homenews/house/6019633-congresswoman-kaptur-rehab-updates/)** — The congresswoman is moving into rehabilitation. (The Hill)
-- **[Second Amendment Roundup: $0 Tax Left NFA with No Constitutional Basis](https://reason.com/volokh/2026/08/09/second-amendment-roundup-0-tax-left-nfa-with-no-constitutional-basis/)** — Reason examines the NFA after its tax fell to zero. (Reason)
-- **[Commanders' Kaytron Allen is Impressing at Training Camp](https://www.newsweek.com/sports/nfl/commanders-kaytron-allen-is-impressing-at-training-camp-12302255)** — Allen is drawing camp attention in Washington. (Newsweek)
+- **[Palestinians Stream Back to Northern Gaza on Foot](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)** — Palestinians returned north after a hostage-release breakthrough. (WSJ)
+- **[Leading China Property Developer Reports Huge Loss](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)** — China’s real-estate strain is spreading to a former stalwart. (WSJ)
+- **[Buc-ee’s goes beast mode on trademark protection](https://www.cleveland.com/court-justice/2026/08/hbos-john-oliver-trolls-buc-ees-amid-wave-of-mascot-related-lawsuits-including-one-in-ohio.html)** — The beaver mascot’s legal team is keeping busy. (Morning Brew)
+- **[Berkshire is finally dipping into its mountain of cash](https://apnews.com/article/berkshire-hathaway-warren-buffett-greg-abel-buybacks-e36ed92787eef9c9c67502501b345174)** — Berkshire is putting part of its cash pile to work. (Morning Brew)
+- **[Flock cameras spark privacy concerns across party lines](https://www.newsnationnow.com/business/tech/flock-privacy-bipar/)** — Automated license-plate cameras face bipartisan scrutiny. (NewsNation)
+- **[Cyberattack knocks out California city's 911 operations](https://www.newsnationnow.com/us-news/west/cyberattacks-hackers-california-911-operations/)** — A municipal cyberattack disrupted emergency operations. (NewsNation)
+- **[Cyprus natural gas will help supply Europe by first half of 2028](https://www.csmonitor.com/World/Europe/2026/0809/cyprus-natural-gas-europe?icid=rss)** — Cyprus says its gas could reach Europe within two years. (CS Monitor)
+- **[Iran issues list of new demands over Strait of Hormuz](https://www.csmonitor.com/World/Middle-East/2026/0808/iran-war-hormuz?icid=rss)** — Tehran added conditions to the dispute over the vital waterway. (CS Monitor)
+- **[Kaptur moving to physical rehab after hit-and-run crash](https://thehill.com/homenews/house/6019633-congresswoman-kaptur-rehab-updates/)** — The congresswoman is advancing to physical rehabilitation. (The Hill)
+- **[Sanders: ‘Ban super PACs from Democratic primaries now’](https://thehill.com/homenews/campaign/6019504/sanders-calls-ban-super-pac/)** — Sanders renewed his call for campaign-finance restrictions. (The Hill)
+- **[Brickbat: Traffic Toll](https://reason.com/2026/08/10/brickbat-traffic-toll/)** — Reason takes aim at a traffic-enforcement story. (Reason)
+- **[Second Amendment Roundup: $0 Tax Left NFA with No Constitutional Basis](https://reason.com/volokh/2026/08/09/second-amendment-roundup-0-tax-left-nfa-with-no-constitutional-basis/)** — A legal analysis challenges the NFA’s footing. (Reason)
+- **[How AI Chatbots Are Wrecking the Therapist-Client Relationship](https://www.newsweek.com/ai-chatbots-therapist-client-relationship-12302139)** — AI companions are complicating clinical trust. (Newsweek)
+- **[Doctors Said Not To Worry About the Lump, Then It Kept Getting Bigger](https://www.newsweek.com/doctors-said-not-to-worry-about-the-lump-then-it-kept-getting-bigger-12295917)** — A patient’s warning signs persisted despite early reassurance. (Newsweek)
 
 ### AI & Tech Desk
-- **[Mount Toba eruption doesn't seem like it could nearly kill our species](https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/)** — New work challenges an old human-bottleneck theory. (Ars Technica)
-- **[DeepMind’s hurricane breakthrough has surprised weather scientists](https://www.wired.com/tag/deepmind/)** — AI forecasting is turning heads in the weather shop. (Ars Technica)
-- **[How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)** — A practical learning workflow led Hacker News. (Hacker News)
+- **[Mount Toba eruption doesn't seem like it could nearly kill our species](https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/)** — New evidence questions the ancient population-bottleneck theory. (Ars Technica)
+- **[The first self-driving vehicle on Mars has proven a smashing success](https://science.nasa.gov/mission/mars-2020-perseverance/location-map/)** — Autonomous driving is earning its miles on Mars. (Ars Technica)
+- **[DeepMind’s hurricane breakthrough has surprised weather scientists](https://www.wired.com/tag/deepmind/)** — AI forecasting is drawing attention from storm experts. (Ars Technica)
+- **[Docker Sandboxes — Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)** — Docker pitches contained environments for agent workloads. (Hacker News)
+- **[What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)** — A critical look at the security platform drew strong discussion. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
+## 📈 BUSINESS & MARKETS
 
 ### Business Newswire
-- **[U.S. stock futures flat as investors await inflation data, grapple with more Iran uncertainty](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-investors-await-inflation-data-grapple-with-more-iran-uncertainty-133212d2?mod=mw_rss_topstories)** — Inflation and Iran risk hold the overnight tape steady. (MarketWatch)
-- **[Why Fontainebleau’s $3.7 Billion Las Vegas Bet Looks Smart Ahead Of Formula One Weekend](https://www.forbes.com/sites/katehardcastle/2026/08/09/why-fontainebleaus-37-billion-las-vegas-bet-looks-smart-ahead-of-formula-one-weekend/)** — Formula One could strengthen the resort’s big Vegas wager. (Forbes)
+- **[Analysts say SpaceX’s ambitious AI plans should be taken seriously](https://www.marketwatch.com/story/these-analysts-say-elon-musks-ambitious-ai-plans-for-spacex-should-be-taken-seriously-thanks-to-microsoft-2c9aa472?mod=mw_rss_topstories)** — Microsoft’s involvement lends weight to Musk’s plans. (MarketWatch)
+- **[Wall Street’s biggest bank raised its stock-market expectations](https://www.marketwatch.com/story/wall-streets-biggest-bank-just-raised-its-expectations-for-the-stock-market-cac6d311?mod=mw_rss_topstories)** — A major bank is turning more bullish. (MarketWatch)
+- **[Is putting $20,000 into CDs a smart move?](https://www.marketwatch.com/story/i-unexpectedly-came-into-some-money-is-putting-20-000-into-cds-a-smart-move-6c410458?mod=mw_rss_topstories)** — A windfall raises the old safety-versus-return question. (MarketWatch)
+- **[Sporting Director Deco Commissions New ‘Top Level’ Signing](https://www.forbes.com/sites/tomsanderson/2026/08/10/sporting-director-deco-commissions-new-top-level-first-team-signing/)** — Barcelona’s transfer planning is back in focus. (Forbes)
+- **[Gio Reyna’s Career Has Become A Story Of What Might Have Been](https://www.forbes.com/sites/clementelisi/2026/08/10/gio-reynas-career-has-become-a-story-of-what-might-have-been/)** — Reyna’s stalled trajectory gets a hard look. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -90,7 +102,7 @@ _Source: `2026-08-10-midnight-dispatch.md`_
 | [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 3,034.494 | +103.15 | +3.52% | 2,213.54–3,048.85 |
 
 ### Federal Funds Rate
-**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%.
+**EFFR:** 3.63% · **Fed target range:** 3.50%–3.75%.
 
 ### Treasury Rates (with 52W Range)
 
@@ -103,9 +115,9 @@ _Source: `2026-08-10-midnight-dispatch.md`_
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 60.745 | -0.08 | -0.13% | 52.1–61.923 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1553 | 0.00 | +0.40% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7458 | -0.01 | -0.10% | 6.7327–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 60.732 | -0.09 | -0.15% | 52.1–61.923 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1559 | +0.01 | +0.45% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7318 | -0.02 | -0.30% | 6.7313–7.1909 |
 
 ### ETFs (with 52W Range)
 
@@ -139,38 +151,39 @@ _Source: `2026-08-10-midnight-dispatch.md`_
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $64,900.08 | +$637.97 | +0.99% | $57,747.766–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $78.82 | +$3.60 | +4.79% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $64,910.98 | +648.87 | +1.01% | $57,747.766–$126,198.07 |
+| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $79.03 | +3.81 | +5.07% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-📢 NVDA +11.56% while every major index cleared the alert line—Nasdaq led at +5.19%, putting risk appetite back under the bright lights.
+📢 [NVDA](https://www.marketwatch.com/investing/stock/nvda) jumped **11.56%** while the Nasdaq surged **5.19%** and WTI gained **5.07%**—a broad risk-on move with an inflationary oil kicker.
 
 ### Prediction Markets
-- Polymarket surfaced September Fed policy and U.S.–Iran talks, but no probabilities or verified movers were fetched.
-- Kalshi: *[Data unavailable]*
+Polymarket returned topic text but no verified prices or movement figures. Kalshi: *[Data unavailable]*
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.76% (Bankrate top listed rate)
-- National regular: $4.0121; New Jersey regular: $4.0288 (AAA)
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): **6.76%** (Bankrate top listed rate)
+- National regular: **$4.0091**; New Jersey regular: **$4.0203** (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** The S&P 500 and Russell 2000 finished just under their 52-week highs, while the Nasdaq jumped 5.19%. Monday’s futures desk is waiting on inflation data with Iran uncertainty still in the frame.
+**BOTTOM LINE:** Stocks ripped higher, leaving the S&P 500 and Russell 2000 just under their 52-week highs. Oil’s 5% jump is the number to watch after the opening bell.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Tour de France Femmes: Demi Vollering drops Niewiadoma-Phinney to seal overall with solo final stage victory in Nice](https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-demi-vollering-drops-niewiadoma-phinney-to-seal-overall-with-solo-final-stage-victory-in-nice/)** — Vollering took the final stage and the overall crown. (Cycling / Cyclingnews)
-- **[Volta a Portugal: Double success for Alexis Guerin who takes over race lead after stage 4](https://www.cyclingnews.com/pro-cycling/racing/volta-a-portugal-double-success-for-alexis-guerin-who-takes-over-race-lead-after-stage-4/)** — Guerin won the stage and grabbed the race lead. (Cycling / Cyclingnews)
-- Other league newswires: *[Data unavailable]*
+- **[Demi Vollering seals second Tour de France Femmes victory](https://www.cyclingnews.com/pro-cycling/womens-cycling/you-never-should-think-youre-there-demi-vollering-at-her-best-and-still-improving-after-second-tour-de-france-femmes-victory/)** — Vollering says she is still improving after another overall triumph. (Cycling / Cyclingnews)
+- **[Vollering wins solo in Nice to seal the overall](https://www.cyclingnews.com/pro-cycling/womens-cycling/tour-de-france-femmes-demi-vollering-drops-niewiadoma-phinney-to-seal-overall-with-solo-final-stage-victory-in-nice/)** — She dropped Niewiadoma-Phinney on the final stage. (Cycling / Cyclingnews)
+- **[UAE Team L'IMAD delivers Longo Borghini to the podium](https://www.cyclingnews.com/pro-cycling/womens-cycling/the-road-was-always-going-to-do-the-talking-how-uae-team-limad-blocked-out-the-noise-to-deliver-elisa-longo-borghini-to-the-tour-de-france-femmes-podium/)** — Team discipline paid off with a Tour Femmes podium. (Cycling / Cyclingnews)
+
+Other league newswires: *[Data unavailable]*
 
 ### Scoreboard
 
 #### ⚾ MLB
-[Standings: MLB](https://www.mlb.com/standings)
+Standings: [MLB standings](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
 |---|---:|---|
@@ -190,22 +203,18 @@ _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.let
 | Rays @ Mariners | TB 4–1 | [Full box score](https://www.mlb.com/gameday/823104) |
 | Astros @ Padres | SD 7–2 | [Full box score](https://www.mlb.com/gameday/823268) |
 
-The Mets brought the lumber; Milwaukee needed extras to edge Minnesota.
+**Upcoming:** *[Data unavailable — scheduled rows were fetched without start times or TV.]* The Mets brought the lumber: 11 runs makes for a pleasant breakfast box score.
 
 #### 🚴 Cycling
-[Rankings: Tour de France](https://www.letour.fr/en/rankings)
+Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 
-**Tour de France final:** Mathieu van der Poel won Stage 21 in 1:58:49. Tadej Pogacar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
+The men’s Tour finished July 26. **Mathieu van der Poel** won Stage 21 in 1:58:49; **Tadej Pogacar** won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
-### Team Reports
-_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
+> **TEAM REPORT — NJ DEVILS**  
+> Schedule data: *[Data unavailable]*  
+> [Alexander Command — Prospects Profile](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26) · [Trenten Bennett — Prospects Profile](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26) · [Sigge Holmgren — Prospects Profile](https://www.nhl.com/devils/news/sigge-holmgren-prospects-profile-7-31-26)
 
-
-> **NEW YORK METS** — Beat Pittsburgh 11–1. [Full box score](https://www.mlb.com/gameday/823345). Team API/news: *[Data unavailable]*
-
-> **NEW JERSEY DEVILS** — Schedule data: *[Data unavailable]*. Prospect desk: [Alexander Command](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26) and [Trenten Bennett](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26).
-
-> **SETON HALL · GIANTS · INTER MIAMI · BARCELONA · ARSENAL** — *[Data unavailable]*
+Other team reports: *[Data unavailable]*
 
 ---
 
@@ -213,25 +222,28 @@ _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](htt
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Next up | Watch / verify |
+| Group | Upcoming TV / PLE window | Watch / verify |
 |---|---|---|
-| WWE / NXT / AAA | Raw Aug. 10; NXT Aug. 11; SmackDown Aug. 14 | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
-| AEW / ROH | Dynamite Aug. 12; ROH TV Aug. 13; Collision Aug. 15 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Aug. 13 | [TNA](https://tnawrestling.com/events/) |
-| NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México Aug. 11, 14, 16; Coliseo Aug. 15 | [CMLL](https://cmll.com/) |
+| WWE | Raw — Aug. 10; SmackDown — Aug. 14 | Netflix / USA / Peacock · [WWE events](https://www.wwe.com/events) |
+| NXT | NXT TV — Aug. 11 | CW / Peacock · [WWE events](https://www.wwe.com/events) |
+| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
+| AEW | Dynamite — Aug. 12; Collision — Aug. 15 | TBS / TNT / PPV · [AEW events](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV — Aug. 13 | HonorClub · [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! — Aug. 13 | AXS TV / TNA+ · [TNA events](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
+| CMLL | Aug. 11, 14, 15 and 16 cards | CMLL / YouTube · [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[WWE] [John Cena remains under a multi-year ambassador deal](https://www.fightful.com/wrestling-news/john-cena-remains-under-multi-year-deal-with-wwe-in-an-ambassador-role-following-in-ring-retirement-claim-within-wwe-that-he-wouldnt-be-able-to-wrestle-elsewhere-contractually)** (Fightful)
-- **[NJPW] [G1 Climax 36 Nights 13 and 14 reviewed](https://www.postwrestling.com/2026/08/09/g1-climax-36-night-13-14-review-takagi-vs-ice-newman-vs-oskar/)** (POST Wrestling)
-- **[WWE] [Dragon Lee details goals involving Rey Mysterio](https://www.wrestlinginc.com/2232192/wwe-dragon-lee-rey-mysterio-goals-mentor/)** (WrestlingInc)
-- **[TNA] [Lockdown card puts every match inside a steel cage](https://www.cagesideseats.com/tna/467419/tna-lockdown-ppv-card-every-match-inside-a-steel-cage-matt-jeff-hardy-nic-nemeth)** (Cageside Seats)
-- **[AEW] [Dynamite audience rises for Grand Slam Mexico](https://411mania.com/wrestling/aew-dynamite-rating-audience-grand-slam-mexico-8-5-26/)** (411mania)
+- **[WWE] [John Cena remains under a multi-year WWE ambassador deal](https://www.fightful.com/wrestling-news/john-cena-remains-under-multi-year-deal-with-wwe-in-an-ambassador-role-following-in-ring-retirement-claim-within-wwe-that-he-wouldnt-be-able-to-wrestle-elsewhere-contractually)** (Fightful)
+- **[WWE] [Tonight’s Raw lineup includes a world-title contenders match](https://411mania.com/wrestling/lineup-wwe-raw-8-10-26/)** (411mania)
+- **[CMLL] [Domingo Familiar results](https://www.fightful.com/wrestling-news/cmll-domingo-familiar-results-8-9-2026-mistico-bandido-vs-hechicero-el-clon-infernales-vs-lethal-twist-more)** (Fightful)
+- **[NJPW] [G1 Climax 36 Nights 13 and 14 review](https://www.postwrestling.com/2026/08/09/g1-climax-36-night-13-14-review-takagi-vs-ice-newman-vs-oskar/)** (POST Wrestling)
+- **[AEW] [Eddie Kingston scores a Continental Cup win](https://www.cagesideseats.com/aew/467416/eddie-kingston-cinderella-story-scores-win-in-aew-continental-cup)** (Cageside Seats)
 
 ### r/SquaredCircle
-- [Live UWN: Red Carpet Rumble 2026 discussion](https://www.reddit.com/r/SquaredCircle/comments/1vk5ecl/live_uwn_united_wrestling_network_red_carpet/)
-- [Bayley posts “all or nothing, baby”](https://www.reddit.com/r/SquaredCircle/comments/1vk6boq/bayley_on_ig_all_or_nothing_baby_the_title_of_the/)
-- [Trevor Murdoch on Shawn Michaels defending him and Lance Cade](https://www.reddit.com/r/SquaredCircle/comments/1vk31cp/trevor_murdoch_on_shawn_michaels_defending_him/)
+- [Live UWN Red Carpet Rumble 2026 discussion](https://www.reddit.com/r/SquaredCircle/comments/1vk5ecl/live_uwn_united_wrestling_network_red_carpet/)
+- [Bayley on IG: “all or nothing, baby”](https://www.reddit.com/r/SquaredCircle/comments/1vk6boq/bayley_on_ig_all_or_nothing_baby_the_title_of_the/)
+- [John Cena’s ambassador deal discussion](https://www.reddit.com/r/SquaredCircle/comments/1vk9r04/fightful_john_cena_remains_under_multiyear_deal/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -244,7 +256,7 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | July 31, 2026 | 5 | Máscara Dorada vs. Komander | CMLL | Leyenda de Plata 2026 |
 | July 26, 2026 | 5 | Young Bucks vs. Death Riders | AEW | Redemption |
 | July 26, 2026 | 5 | Kyle Fletcher vs. Bandido | AEW | Redemption |
-| **Jan. 4, 2026** | **6** | **Hiroshi Tanahashi vs. Kazuchika Okada** | **NJPW** | **Wrestle Kingdom 20** |
+| July 19, 2026 | 5 | Yuya Uemura vs. Zack Sabre Jr. | NJPW | G1 Climax 36 Night 3 |
 
 ---
 
@@ -254,31 +266,29 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 #### r/TomsRiver
 - **[August 15th](https://www.reddit.com/r/TomsRiver/comments/1vk531g/august_15th/)**
 
-#### r/NYGiants
-- **[[Dunleavy] Giants using Kayvon Thibodeaux inside as well as on the edge](https://www.reddit.com/r/NYGiants/comments/1vk4q8v/dunleavy_in_camp_the_giants_have_been_using/)**
+#### r/datascience
+- **[Just used AI for the first time. Need your advice.](https://www.reddit.com/r/datascience/comments/1vjrype/just_used_ai_for_the_first_time_need_your_advice/)**
 
-#### r/Bitcoin
-- **[4.71 BTC vanished from an unscratched “Coin Cold Card”](https://www.reddit.com/r/Bitcoin/comments/1vk54gd/i_never_scratched_the_private_key_but_471_btc/)**
+#### r/raspberry_pi
+- **[LCARS Style Pihole Display](https://www.reddit.com/r/raspberry_pi/comments/1vjzqvf/lcars_style_pihole_display/)**
 
-#### r/newjersey
-- **[GEO Group employee maces protester on public property](https://www.reddit.com/r/newjersey/comments/1vk4ibk/geo_group_employee_maces_protestor_on_public/)**
-
-#### r/TOR
-- **[Dedicated Android app for Snowflake volunteers released](https://www.reddit.com/r/TOR/comments/1vjtosi/dedicated_android_app_for_snowflake_volunteers/)**
+#### r/sports
+- **[Football confederations accuse FIFA leadership of breaking trust](https://www.reddit.com/r/sports/comments/1vkfyik/uefa_concacaf_and_afc_have_issued_an_open_letter/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **GothamChess**: [THE GOAT IS BACK](https://www.youtube.com/watch?v=PYGjo1gA5Ns)
-- **House of Highlights**: [Brewers walk it off in extras against the Twins](https://www.youtube.com/watch?v=I5zl3Jkam6w)
-- **Pablo Torre Finds Out**: [“They want the issue always on the table...”](https://www.youtube.com/shorts/RphpnOinSp0)
-- **The PrimeTime**: [One shot games](https://www.youtube.com/shorts/BMv7fdxDCDc)
+- **GothamChess:** [THE GOAT IS BACK](https://www.youtube.com/watch?v=PYGjo1gA5Ns)
+- **House of Highlights:** [Tigers vs. Giants — full highlights](https://www.youtube.com/watch?v=iK1ZY-6Xabc) · [Brewers walk off the Twins](https://www.youtube.com/watch?v=I5zl3Jkam6w)
+- **Pablo Torre Finds Out:** [“They want the issue always on the table...”](https://www.youtube.com/shorts/RphpnOinSp0)
+- **The PrimeTime:** [One shot games](https://www.youtube.com/shorts/BMv7fdxDCDc)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **DistroWatch**: [DistroWatch Weekly, Issue 1185](https://www.tuxedocomputers.com/)
-- **gHacks**: [Apple rumored to launch an “Ultra” lineup](https://www.ghacks.net/2026/08/09/apple-rumored-to-launch-ultra-lineup-with-foldable-iphone-camera-airpods-and-touchscreen-macbook/)
-- **KnickerBlogger**: [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-09/)
+- **DistroWatch:** [DistroWatch Weekly, Issue 1185](https://www.tuxedocomputers.com/)
+- **gHacks:** [Meta says an AI model breached a company during a misconfigured cyber test](https://www.ghacks.net/2026/08/10/meta-confirms-one-of-its-ai-models-breached-a-company-during-a-misconfigured-cyber-test/) · [Windows 11 26H2 details](https://www.ghacks.net/2026/08/10/windows-11-26h2-ships-as-an-enablement-package-with-movable-taskbar-local-search-and-default-cloud-recovery/)
+- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-09/)
+- **The Indicator:** [Why is Trump paying to stop wind farms?](https://lnk.to/YjmHD0)
 
 ---
 
 ## 👋 SIGN-OFF
 
-Lights out, folks—the boardwalk gets another run tomorrow. Save the pork roll for sunrise.
+Hydrate before the Parkway starts shimmering, and save the pork roll for after the market opens. Have a good one, folks.
