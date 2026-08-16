@@ -34,51 +34,56 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-08-16T00:00:12-04:00_  
-_Source: `2026-08-16-midnight-dispatch.md`_
+_Originally generated: 2026-08-16T10:03:02+00:00_  
+_Source: `2026-08-16-daytime-dispatch.md`_
 
-# 🌙 THE MIDNIGHT DISPATCH — Sunday, August 16, 2026
-> “The night desk never sleeps; it just reheats the coffee.”
+# 🌅 THE MORNING DISPATCH — Sunday, August 16, 2026
+> “Sunday is for coffee, box scores, and checking the week ahead.”
 
 ---
 
-## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
+## ☀️ SHORE FORECAST & BEYOND
+
+**A warm Shore Sunday; Makati keeps the umbrella handy.**
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**CLEAR NOW, CLOUDS BY DAYBREAK.** Around 72°F with a light northwest breeze. Sunday turns overcast, high 80°F and low 70°F, with a 10% rain chance.
+Clear near 70°F early with a light 4 mph breeze. Overcast today, high 80°F, low 70°F; rain chance 10%.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**SHOWERS HOLD THE NIGHT SHIFT.** Light rain showers at 28°C, feeling like 32°C, with winds near 27 km/h. Sunday: showers, high 28°C, low 26°C, 65% rain chance.
+Light rain shower and 26°C, with winds near 28 km/h. High 28°C, low 26°C; rain chance 65%.
 
 ---
 
 ## 📰 TOP STORIES
 
+**Storm recovery, policy fights and a wary consumer lead the morning.**
+
 ### Headlines
-- **[Wealth management has a $3 trillion cash problem](https://www.wsj.com/personal-finance/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-ba18dbaf)** — Investors’ cash piles are frustrating money managers. (WSJ)
-- **[US consumers might be spent](https://www.pbs.org/newshour/economy/u-s-retail-sales-unexpectedly-post-largest-drop-in-more-than-a-year)** — Retail sales posted their biggest drop in more than a year. (Morning Brew)
-- **[Indiana death toll reaches at least six after flooding](https://www.newsnationnow.com/weather/indiana-flood-victims-recovery-historic-flooding/)** — Recovery continues after historic severe weather. (NewsNation)
-- **[Democrats put South Carolina first in the 2028 primary calendar](https://www.csmonitor.com/USA/2026/0815/Democrats-2028-presidential-calendar?icid=rss)** — The party reshuffled its opening presidential contest. (CS Monitor)
+- **[Wealth Management Has a $3 Trillion Problem](https://www.wsj.com/personal-finance/wealth-management-has-a-3-trillion-problem-investors-are-keeping-too-much-cash-ba18dbaf)** — Investors’ giant cash pile is frustrating money managers. (WSJ)
+- **[Despite health risks, raw milk is having a moment](https://apnews.com/article/raw-milk-legislation-outbreak-02c67adf7845d188c41ab0af06e97869)** — Demand is rising despite outbreak concerns. (Morning Brew)
+- **[Indiana death toll at least 6 after severe weather, flooding](https://www.newsnationnow.com/weather/indiana-flood-victims-recovery-historic-flooding/)** — Recovery continues after historic flooding. (NewsNation)
+- **[US government searches for migrant children as deportations mount](https://www.csmonitor.com/USA/Politics/2026/0816/ice-immigration-trump-children?icid=rss)** — Immigration enforcement raises new family-tracking questions. (CS Monitor)
 - **[Centcom commander visits USS Abraham Lincoln](https://thehill.com/policy/defense/6031712-adm-cooper-visits-uss-abraham-lincoln/)** — The visit comes amid questions about shipboard conditions. (The Hill)
-- **[Trump promised transparency; his administration keeps hiding records](https://reason.com/2026/08/15/trump-promised-transparency-his-administration-keeps-finding-new-ways-to-hide-records/)** — Reason examines federal disclosure practices. (Reason)
-- **[Titans lose two players to season-ending injuries](https://www.newsweek.com/sports/nfl/titans-lose-two-players-to-season-ending-injuries-12328421)** — Tennessee’s preseason delivered an early roster blow. (Newsweek)
+- **[Trump Promised Transparency. His Administration Keeps Finding New Ways to Hide Records.](https://reason.com/2026/08/15/trump-promised-transparency-his-administration-keeps-finding-new-ways-to-hide-records/)** — Records access takes center stage. (Reason)
+- **[Trump Pushes Senate on Daylight Savings](https://www.newsweek.com/trump-pushes-senate-on-daylight-savings-how-timeline-for-change-looks-12328515)** — A permanent-clock debate is back. (Newsweek)
 
 ### AI & Tech Desk
-- **[Anthropic could reportedly IPO at a $2 trillion valuation](https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/)** — AI’s valuation race keeps finding higher ceilings. (Ars Technica / Morning Brew)
-- **[Asynchronous I/O in DuckDB](https://duckdb.org/2026/07/31/asynchronous-io)** — DuckDB explains how it divides work across threads. (Hacker News)
-- **[Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)** — The research drew heavy overnight attention. (Hacker News)
+- **[So much solar: Every US power plant that went online this year](https://www.eia.gov/electricity/data/eia860m/)** — New federal data maps the generation buildout. (Ars Technica)
+- **[Asynchronous I/O in DuckDB](https://duckdb.org/2026/07/31/asynchronous-io)** — DuckDB explains how its new I/O work is organized. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
+## 📈 BUSINESS & MARKETS
+
+**The tape is closed; the week ahead starts near record territory.**
 
 ### Business Newswire
-- **[Interest rates in historical perspective](https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories)** — Charts put today’s borrowing costs in a longer frame. (MarketWatch)
-- **[The $35.6 billion force behind Disney’s next theme park](https://www.forbes.com/sites/carolinereid/2026/08/15/the-356-billion-driving-force-behind-disneys-next-theme-park/)** — Forbes traces the economics behind Disney’s expansion. (Forbes)
+- **[Think interest rates are high now? These charts offer perspective.](https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories)** — Today’s borrowing costs get a longer historical lens. (MarketWatch)
+- **[Watermark-removal scams follow Anthropic’s Claude watermarking](https://www.forbes.com/sites/lanceeliot/2026/08/16/lies-and-scams-taint-watermark-removal-apps-now-that-anthropic-started-watermarking-claude-ai-outputs/)** — A new AI safeguard is already attracting dubious workarounds. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -90,14 +95,14 @@ _Source: `2026-08-16-midnight-dispatch.md`_
 | [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 3,068.42 | +33.93 | +1.12% | 2,252.43–3,069.71 |
 
 ### Federal Funds Rate
-**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%
+**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%.
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---:|
-| 30-Year Treasury | 5.265% | +0.02 | 0.00%–5.281% |
-| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.697% | -0.02 | 0.00%–4.133% |
+| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.265% | +0.02 | 0.000%–5.281% |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.697% | -0.02 | 0.000%–4.133% |
 
 ### Forex (with 52W Range)
 
@@ -109,7 +114,7 @@ _Source: `2026-08-16-midnight-dispatch.md`_
 
 ### ETFs (with 52W Range)
 
-| ETF (Symbol — Name) | Price | Change | % | 52-Week Range |
+| ETF | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
 | [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | $105.32 | +0.14 | +0.13% | $81.45–$107.07 |
 | [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | $34.52 | +0.62 | +1.83% | $26.32–$34.54 |
@@ -121,111 +126,122 @@ _Source: `2026-08-16-midnight-dispatch.md`_
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | $225.16 | +$1.20 | +0.54% | $164.07–$236.54 |
-| [TSM](https://www.marketwatch.com/investing/stock/tsm) | $426.35 | +$6.31 | +1.50% | $223.70–$479.00 |
-| [AMD](https://www.marketwatch.com/investing/stock/amd) | $514.39 | +$31.03 | +6.42% | $149.22–$584.73 |
-| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | $262.65 | -$11.83 | -4.31% | $196.00–$287.20 |
-| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | $78.16 | +$4.02 | +5.42% | $65.08–$126.71 |
-| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | $342.27 | +$13.69 | +4.17% | $297.38–$498.83 |
-| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | $61.66 | +$2.59 | +4.38% | $38.46–$79.22 |
-| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | $504.03 | -$17.77 | -3.41% | $464.01–$537.74 |
-| [AXP](https://www.marketwatch.com/investing/stock/axp) | $342.48 | +$1.57 | +0.46% | $290.97–$387.49 |
-| [SCHW](https://www.marketwatch.com/investing/stock/schw) | $111.09 | +$3.49 | +3.24% | $83.96–$111.18 |
-| [RL](https://www.marketwatch.com/investing/stock/rl) | $388.92 | -$6.61 | -1.67% | $283.50–$421.60 |
-| [COST](https://www.marketwatch.com/investing/stock/cost) | $961.10 | +$13.28 | +1.40% | $844.06–$1,096.50 |
-| [UPS](https://www.marketwatch.com/investing/stock/ups) | $104.50 | $0.00 | 0.00% | $82.00–$122.41 |
+| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | $225.16 | +1.20 | +0.54% | $164.07–$236.54 |
+| [TSM](https://www.marketwatch.com/investing/stock/tsm) | $426.35 | +6.31 | +1.50% | $223.70–$479.00 |
+| [AMD](https://www.marketwatch.com/investing/stock/amd) | $514.39 | +31.03 | +6.42% | $149.22–$584.73 |
+| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | $262.65 | -11.83 | -4.31% | $196.00–$287.20 |
+| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | $78.16 | +4.02 | +5.42% | $65.08–$126.71 |
+| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | $342.27 | +13.69 | +4.17% | $297.38–$498.83 |
+| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | $61.66 | +2.59 | +4.38% | $38.46–$79.22 |
+| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | $504.03 | -17.77 | -3.41% | $464.01–$537.74 |
+| [AXP](https://www.marketwatch.com/investing/stock/axp) | $342.48 | +1.57 | +0.46% | $290.97–$387.49 |
+| [SCHW](https://www.marketwatch.com/investing/stock/schw) | $111.09 | +3.49 | +3.24% | $83.96–$111.18 |
+| [RL](https://www.marketwatch.com/investing/stock/rl) | $388.92 | -6.61 | -1.67% | $283.50–$421.60 |
+| [COST](https://www.marketwatch.com/investing/stock/cost) | $961.10 | +13.28 | +1.40% | $844.06–$1,096.50 |
+| [UPS](https://www.marketwatch.com/investing/stock/ups) | $104.50 | 0.00 | 0.00% | $82.00–$122.41 |
 
 ### Markets Analysis — Upcoming Week
-The S&P 500 and Russell 2000 enter the week just under 52-week highs, while SCHD, VBR and SCHW are also pressing their ceilings. Watch whether small caps can extend last week’s 1.12% gain and whether oil’s 5.40% weekly jump feeds inflation and rate worries.
+The S&P 500 and Russell 2000 enter the week just under their 52-week highs, while SCHD, VBR and SCHW are also knocking on the ceiling. Watch whether breadth can hold after small caps led last week, and whether WTI’s 5.40% weekly jump adds fresh inflation pressure.
 
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $63,059.43 | -$343.00 | -0.54% | $57,747.77–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $82.40 | -$0.80 | -0.96% | $54.98–$119.48 |
-
-### 📢 Major Move Alert
-📢 WTI rose 5.40% over the completed week to $82.40—a move worth watching for fresh pressure at the pump and in inflation expectations.
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $62,906.77 | -495.66 | -0.78% | $57,747.77–$126,198.07 |
+| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $82.40 | -0.80 | -0.96% | $54.98–$119.48 |
 
 ### Prediction Markets
-- Polymarket showed Team Falcons at 96% against Vici Gaming; Kalshi: *[Data unavailable]*.
+*[Data unavailable]*
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.69%
-- National regular: $4.0704 · New Jersey regular: $3.9733
-- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): $3.99
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.69% (Bankrate)
+- National regular: $4.0656; New Jersey regular: $3.9697 (AAA)
+- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** Friday’s closes leave the broad market near record territory, but Sunday’s tape is closed. The week ahead starts with oil hotter and the S&P only about 31 points below its 52-week high.
+**BOTTOM LINE:** Sunday’s quotes are the latest completed-week closes, not live moves. Major indexes sit near their annual highs; rates and oil are the pressure gauges when trading resumes.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
+
+**Baseball fills the board; cycling owns the wire.**
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Alexis Guérin wins Volta a Portugal stage 9](https://www.cyclingnews.com/pro-cycling/racing/volta-a-portugal-race-leader-alexis-guerin-climbs-to-second-stage-win-on-stage-9/)** — The race leader climbed to his second stage victory. (Cycling / Cyclingnews)
-- **[Thomas Silva takes Arctic Race stage 3 and the lead](https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-thomas-silva-holds-off-lennert-van-eetvelt-on-steep-uphill-sprint-to-win-stage-3-and-takes-race-lead/)** — Silva held off Lennert van Eetvelt uphill. (Cycling / Cyclingnews)
-- **[AJ August controls Czech Tour stage 3](https://www.cyclingnews.com/pro-cycling/racing/czech-tour-in-total-control-aj-august-launches-early-on-final-climb-to-win-stage-3/)** — An early final-climb attack delivered the win. (Cycling / Cyclingnews)
-- *[NBA, NCAAB, NFL, NCAAF, MLB, NHL, soccer, golf and tennis news unavailable]*
+- **[Volta a Portugal leader Alexis Guérin wins stage 9](https://www.cyclingnews.com/pro-cycling/racing/volta-a-portugal-race-leader-alexis-guerin-climbs-to-second-stage-win-on-stage-9/)** — Guérin climbed to his second stage victory. (Cycling / Cyclingnews)
+- **[Thomas Silva wins Arctic Race stage 3 and takes the lead](https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-thomas-silva-holds-off-lennert-van-eetvelt-on-steep-uphill-sprint-to-win-stage-3-and-takes-race-lead/)** — Silva held off Lennert van Eetvelt uphill. (Cycling / Cyclingnews)
+- **[AJ August wins Czech Tour stage 3](https://www.cyclingnews.com/pro-cycling/racing/czech-tour-in-total-control-aj-august-launches-early-on-final-climb-to-win-stage-3/)** — An early final-climb attack sealed it. (Cycling / Cyclingnews)
+
+Other league newswires: *[Data unavailable]*
 
 ### Scoreboard
 
 #### ⚾ MLB
-Standings: [MLB standings](https://www.mlb.com/standings)
+[Standings](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
-|---|---|---|
-| White Sox 4 at Tigers 3 | Final | [Full box score](https://www.mlb.com/gameday/824239) |
-| Cardinals 8 at Cubs 4 | Final | [Full box score](https://www.mlb.com/gameday/824644) |
-| Yankees 1 at Blue Jays 4 | Final | [Full box score](https://www.mlb.com/gameday/822775) |
-| Nationals 4 at Mets 5 | Final | [Full box score](https://www.mlb.com/gameday/823588) |
-| Mariners 10 at Astros 5 | Final | [Full box score](https://www.mlb.com/gameday/824157) |
-| Phillies 9 at Twins 1 | Final | [Full box score](https://www.mlb.com/gameday/823671) |
-| Diamondbacks 10 at Braves 3 | Final | [Full box score](https://www.mlb.com/gameday/824884) |
-| Rangers 4 at Athletics 3 | In progress | [Full box score](https://www.mlb.com/gameday/824966) |
+|---|---:|---|
+| White Sox @ Tigers | 4–3 Final | [Full box score](https://www.mlb.com/gameday/824239) |
+| Cardinals @ Cubs | 8–4 Final | [Full box score](https://www.mlb.com/gameday/824644) |
+| Yankees @ Blue Jays | 1–4 Final | [Full box score](https://www.mlb.com/gameday/822775) |
+| Rockies @ Giants | 1–7 Final | [Full box score](https://www.mlb.com/gameday/823184) |
+| Nationals @ Mets | 4–5 Final | [Full box score](https://www.mlb.com/gameday/823588) |
+| Orioles @ Rays | 4–3 Final | [Full box score](https://www.mlb.com/gameday/822941) |
+| Marlins @ Reds | 8–4 Final | [Full box score](https://www.mlb.com/gameday/824480) |
+| Padres @ Guardians | 1–6 Final | [Full box score](https://www.mlb.com/gameday/824400) |
+| Mariners @ Astros | 10–5 Final | [Full box score](https://www.mlb.com/gameday/824157) |
+| Phillies @ Twins | 9–1 Final | [Full box score](https://www.mlb.com/gameday/823671) |
+| Red Sox @ Pirates | 4–0 Final | [Full box score](https://www.mlb.com/gameday/823347) |
+| Diamondbacks @ Braves | 10–3 Final | [Full box score](https://www.mlb.com/gameday/824884) |
+| Brewers @ Dodgers | 4–1 Final | [Full box score](https://www.mlb.com/gameday/823914) |
+| Royals @ Angels | 0–1 Final | [Full box score](https://www.mlb.com/gameday/823990) |
+| Rangers @ Athletics | 5–3 Final | [Full box score](https://www.mlb.com/gameday/824966) |
 
-**Next up:** *[Start times and TV data unavailable]*
+Upcoming times/TV: *[Data unavailable]*
 
 #### 🚴 Cycling
-Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
+[Tour de France rankings](https://www.letour.fr/en/rankings)
 
-Mathieu van der Poel won Stage 21; Tadej Pogačar finished atop the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
+The 2026 Tour is complete. Mathieu van der Poel won Stage 21 in 1:58:49; Tadej Pogacar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
 ### Team Reports
 _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
 
-> **NJ DEVILS**  
-> Schedule data: *[Data unavailable]*  
-> [Alexander Command — Prospects Profile](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26) · [Trenten Bennett — Prospects Profile](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26)
+
+> **NY Mets:** Beat Washington 5–4. [Full box score](https://www.mlb.com/gameday/823588). Team schedule API and news: *[Data unavailable]*
+
+> **NJ Devils:** Team schedule API: *[Data unavailable]*. Prospect profiles: [Alexander Command](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26) · [Trenten Bennett](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26) · [Sigge Holmgren](https://www.nhl.com/devils/news/sigge-holmgren-prospects-profile-7-31-26)
+
+Other tracked-team reports: *[Data unavailable]*
 
 ---
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
-### Major Show Spotlight — Saturday Results
-- **[AEW Collision results](https://www.postwrestling.com/2026/08/15/aew-collision-8-15-results-continental-challenge-cup-quarterfinalists-set-trios-champions-retain-mcguinness-injury-doubt/)** — Continental Challenge Cup quarterfinalists were set; the trios champions retained. (POST Wrestling)
-- **[AAA results](https://www.postwrestling.com/2026/08/15/aaa-8-15-results-dominik-and-el-grande-brawl-penta-accepts-bronco-nima-challenge-la-parka-advances-in-wwe-world-title-tournament/)** — Dominik and El Grande brawled as La Parka advanced. (POST Wrestling)
+**The G1 has its winner; the weekly card rolls on.**
 
 ### Upcoming TV / PLE Schedule
 
 | Group | Next show | Verify |
 |---|---|---|
-| WWE / NXT / AAA | Raw Aug. 17; NXT Aug. 18; SmackDown Aug. 21 | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
-| AEW / ROH | Dynamite Aug. 19; ROH TV Aug. 20; Collision Aug. 22 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Aug. 20 | [TNA](https://tnawrestling.com/events/) |
-| NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México Aug. 16, 18, 21; Coliseo Aug. 22 | [CMLL](https://cmll.com/) |
+| WWE | Raw — Aug. 17; SmackDown — Aug. 21 | [WWE events](https://www.wwe.com/events) |
+| NXT | NXT TV — Aug. 18 | [WWE events](https://www.wwe.com/events) |
+| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
+| AEW | Dynamite — Aug. 19; Collision — Aug. 22 | [AEW events](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV — Aug. 20 | [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! — Aug. 20 | [TNA events](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | [NJPW schedule](https://www.njpw1972.com/schedule/) |
+| CMLL | Arena México — Aug. 16, 18, 21; Coliseo — Aug. 22 | [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[NJPW pulls Aaron Wolf from the G1 Climax 36 final show](https://www.fightful.com/wrestling-news/aaron-wolf-pulled-from-njpw-g1-climax-36-final-show)** (Fightful)
-- **[Nigel McGuinness injured during Continental Challenge Cup bout](https://411mania.com/wrestling/nigel-mcguinness-suffers-injury-during-continental-challenge-cup-bout-on-aew-collision/)** (411mania)
-- **[Dominik Mysterio vs. El Grande Americano set for Triplemania 34 Night Two](https://411mania.com/wrestling/dominik-mysterio-vs-el-grande-americano-for-aaa-mega-championship-confirmed-for-triplemania-34-night-two/)** (411mania)
+- **[NJPW] [Ryohei Oiwa wins G1 Climax 36](https://www.fightful.com/wrestling-news/ryohei-oiwa-wins-njpw-g1-climax-36-tournament-challenging-for-iwgp-heavyweight-title-at-king-of-pro-wrestling)** — Oiwa earns an IWGP title challenge. (Fightful)
+- **[AAA] [AAA 8/15 results](https://www.postwrestling.com/2026/08/15/aaa-8-15-results-dominik-and-el-grande-brawl-penta-accepts-bronco-nima-challenge-la-parka-advances-in-wwe-world-title-tournament/)** — Dominik and El Grande brawled as La Parka advanced. (POST Wrestling)
+- **[AEW] [Collision results](https://www.wrestlinginc.com/2237719/aew-collision-august-15-2026-results/)** — Continental Cup matches and Trios titles topped the card. (WrestlingInc)
 
 ### r/SquaredCircle
-- [Post-AEW Collision discussion](https://www.reddit.com/r/SquaredCircle/comments/1vpki4k/post_aew_collision_discussion_thread_august_15th/)
-- [Post-Lucha Libre AAA discussion](https://www.reddit.com/r/SquaredCircle/comments/1vplp55/post_lucha_libre_aaa_discussion_thread_august_15/)
+- [Post AEW Collision discussion](https://www.reddit.com/r/SquaredCircle/comments/1vpki4k/post_aew_collision_discussion_thread_august_15th/)
+- [Post NJPW G1 Climax 36 final discussion](https://www.reddit.com/r/SquaredCircle/comments/1vpset4/post_njpw_g1_climax_36_day_19_discussion_thread/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -235,37 +251,40 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Date | Rating | Match | Promotion | Event |
 |---|---:|---|---|---|
 | Aug. 7, 2026 | 5 | Team Mexico vs. Team World | CMLL | International Gran Prix |
-| Aug. 2, 2026 | 5 | Gabe Kidd vs. Henare | NJPW | G1 Climax 36 Night 11 |
+| Aug. 2, 2026 | 5 | Gabe Kidd vs. Henare | NJPW | G1 Climax Night 11 |
 | July 31, 2026 | 5 | Máscara Dorada vs. Komander | CMLL | Leyenda de Plata |
+| July 26, 2026 | 5 | Young Bucks vs. Death Riders | AEW | Redemption |
+| Jan. 4, 2026 | **6** | **Hiroshi Tanahashi vs. Kazuchika Okada** | **NJPW** | **Wrestle Kingdom 20** |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
+
+**The personal wire is equal parts Giants, Kubernetes and kitchen-table help.**
 
 ### Reddit — What's Trending
 #### r/TomsRiver
 - **[Restaurant recommendations to thank a Good Samaritan](https://www.reddit.com/r/TomsRiver/comments/1vpcldr/want_restaurant_recommendations_in_toms_river_to/)**
 
 #### r/NYGiants
-- **[Jaxson Dart questions repeated blue-tent checks](https://www.reddit.com/r/NYGiants/comments/1vpe808/raanan_jaxson_dart_says_he_respects_what_the_nfl/)**
-- **[Dart finds Malachi Fields for a preseason touchdown](https://www.reddit.com/r/NYGiants/comments/1vp9fjx/jaxson_dart_returns_from_the_blue_tent_and/)**
+- **[Jaxson Dart discusses repeated concussion checks](https://www.reddit.com/r/NYGiants/comments/1vpe808/raanan_jaxson_dart_says_he_respects_what_the_nfl/)**
+- **[Dart finds Malachi Fields for a preseason TD](https://www.reddit.com/r/NYGiants/comments/1vp9fjx/jaxson_dart_returns_from_the_blue_tent_and/)**
 
-#### r/chess
-- **[Magnus Carlsen wins the EWC Chess World Championship unbeaten](https://www.reddit.com/r/chess/comments/1vp7f19/magnus_carlsen_lifts_the_ewc_chess_world_champion/)**
+#### r/kubernetes
+- **[Kubernetes made sense after I stopped trying to learn everything](https://www.reddit.com/r/kubernetes/comments/1vprs2n/kubernetes_finally_started_making_sense_when_i/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **Moon**: [How Tech Billionaires Plan to Destroy America](https://www.youtube.com/watch?v=ejENM86i9Qs)
-- **Extra History**: [Take THAT Potato Salad!](https://www.youtube.com/watch?v=JrsF6jYu5R8)
-- **GothamChess**: [MAGNUS CARLSEN WINS THE CHESS CHAMPIONSHIP](https://www.youtube.com/watch?v=LYxo24eLcNs)
-- **The PrimeTime**: [Escaping the Sandbox is easy](https://www.youtube.com/shorts/W4K1kG0Dnk8)
+- **Moon:** [How Tech Billionaires Plan To Destroy Society](https://www.youtube.com/watch?v=ejENM86i9Qs)
+- **GothamChess:** [MAGNUS CARLSEN WINS THE CHESS CHAMPIONSHIP](https://www.youtube.com/watch?v=LYxo24eLcNs)
+- **House of Highlights:** [Nationals vs. Mets highlights](https://www.youtube.com/watch?v=Hxa5jJERNWI)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **Budget Bytes**: [Best Egg Recipes](https://www.budgetbytes.com/best-egg-recipes/)
-- **gHacks**: [Microsoft merges its two Copilot apps](https://www.ghacks.net/2026/08/15/microsoft-merges-its-two-copilot-apps-into-one-and-retires-podcasts-deep-research-and-group-chat/)
-- **KnickerBlogger**: [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-15/)
+- **Budget Bytes:** [Best Egg Recipes](https://www.budgetbytes.com/best-egg-recipes/)
+- **gHacks:** [Microsoft confirms Windows 11 bug breaks IE Mode](https://www.ghacks.net/2026/08/16/microsoft-confirms-windows-11-bug-breaks-ie-mode-in-microsoft-edge-for-some-users/)
+- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-15/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-Lights out, folks—the Shore gets clouds Sunday, but the pork roll still hits the griddle on time.
+Keep the umbrella near in Makati and the pork roll ready at the Shore. Have a good one, folks.
