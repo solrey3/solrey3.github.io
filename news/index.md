@@ -34,50 +34,52 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-08-16T22:02:52+00:00_  
-_Source: `2026-08-16-evening-dispatch.md`_
+_Originally generated: 2026-08-17T00:02:14-04:00_  
+_Source: `2026-08-17-midnight-dispatch.md`_
 
-# 🌙 THE EVENING BRIEF — Sunday, August 16, 2026
-> “Sunday night: when the weekend checks the clock and quietly heads for the door.”
+# 🌙 THE MIDNIGHT DISPATCH — Monday, August 17, 2026
+> "Midnight turns the page; the overnight desk keeps the porch light on."
 
 ---
 
-## 🌙 SHORE FORECAST & BEYOND
+## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**CLOUDS HOLD THE SHORE.** Cloudy and 75°F, with a 10 mph wind. Tonight bottoms out near 70°F; Monday brings patchy rain nearby, a high of 85°F, a low of 72°F and a 26% rain chance.
+**PATCHY RAIN STAYS IN THE PICTURE.** Now 73°F with a 12 mph wind. Monday runs 72–85°F with patchy nearby rain and a 26% rain chance; Tuesday follows at 71–82°F.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**KEEP THE UMBRELLA CLOSE.** Patchy rain and 26°C, with winds at 28 km/h. Monday calls for light rain, 26°C/25°C and a 79% rain chance.
+**KEEP THE UMBRELLA BY THE DOOR.** Now 26°C with heavy showers and 30 km/h wind. Monday holds near 25–26°C with light showers and a 78% rain chance; Tuesday brings heavier showers, 26–26°C and an 85% chance.
 
 ---
 
 ## 📰 TOP STORIES
 
 ### Headlines
-- **[Chatbots Are Replacing Therapists with Little Scientific Evidence Behind Them](https://www.wsj.com/health/wellness/chatbots-are-replacing-therapists-with-little-scientific-evidence-behind-them-584a1532)** — Mental-health bots are moving faster than the evidence supporting them. (WSJ)
-- **[Indiana death toll at least 6 after severe weather, flooding](https://www.newsnationnow.com/weather/indiana-flood-victims-recovery-historic-flooding/)** — Recovery continues as federal relief heads toward flood-hit Indiana. (NewsNation)
-- **[US government searches for migrant children as deportations mount](https://www.csmonitor.com/USA/Politics/2026/0816/ice-immigration-trump-children?icid=rss)** — Officials are trying to locate children amid an expanding deportation effort. (CS Monitor)
-- **[Flock tries to quell surveillance fears as questions pile up](https://thehill.com/policy/technology/6030740-civil-liberties-backlash-ai-surveillance/)** — Civil-liberties concerns are dogging the surveillance company. (The Hill)
-- **[Trump's Assault on Judicial Review Undermines a Crucial Safeguard Against Tyranny](https://reason.com/2026/08/16/trumps-assault-on-judicial-review-undermines-a-crucial-safeguard-against-tyranny/)** — Reason argues that judicial review is a critical check on executive power. (Reason)
-- **[Donald Trump's Net Approval Among Republicans Falls 8 Points—New Poll](https://www.newsweek.com/donald-trump-approval-rating-republicans-economy-poll-12329350)** — A new poll shows softer approval inside the president’s party. (Newsweek)
+- **[Chatbots Are Replacing Therapists with Little Scientific Evidence Behind Them](https://www.wsj.com/health/wellness/chatbots-are-replacing-therapists-with-little-scientific-evidence-behind-them-584a1532)** — Mental-health bots are growing faster than the evidence behind them. (WSJ)
+- **[Teens Seek Mental Health Help from Chatbots—That’s Dangerous, Says New Study](https://www.wsj.com/tech/ai/teens-seek-mental-health-help-from-chatbots-thats-dangerous-says-new-study-24d06f8d)** — Researchers warn about teens relying on automated counseling. (WSJ)
+- **[Despite health risks, raw milk is having a moment](https://apnews.com/article/raw-milk-legislation-outbreak-02c67adf7845d188c41ab0af06e97869)** — Raw milk’s revival is running against public-health warnings. (Morning Brew)
+- **[Indiana death toll at least 7 after severe weather, flooding](https://www.newsnationnow.com/weather/indiana-flood-victims-recovery-historic-flooding/)** — Recovery continues after deadly flooding. (NewsNation)
+- **[Top military commander visits long-deployed aircraft carrier](https://www.csmonitor.com/World/2026/0816/brad-cooper-uss-lincoln-mental-health?icid=rss)** — The visit puts crew strain aboard the USS Lincoln in focus. (CS Monitor)
+- **[Navy considers major aircraft carrier revamp to better suit Trump’s aesthetic](https://thehill.com/policy/defense/6032559-navy-reviews-carrier-island-design/)** — The Navy is reviewing the carrier-island design. (The Hill)
+- **[Trump's Assault on Judicial Review Undermines a Crucial Safeguard Against Tyranny](https://reason.com/2026/08/16/trumps-assault-on-judicial-review-undermines-a-crucial-safeguard-against-tyranny/)** — Reason argues that judicial review remains a vital restraint. (Reason)
+- **[Scottie Scheffler Reflects on Strong Season After St. Jude Championship Win](https://www.newsweek.com/sports/golf/scottie-scheffler-reflects-on-strong-season-after-st-jude-championship-win-12329786)** — Scheffler takes stock after another trophy. (Newsweek)
 
 ### AI & Tech Desk
-- **[VisionQuest trailer kicks off Disney's D23 fan event](https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/)** — Disney opened D23 with a fresh look at *VisionQuest*. (Ars Technica)
-- **[Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)** — Anthropic’s system-prompt notes drew heavy Hacker News attention. (Hacker News)
-- **[A 3rd World Embedded Engineer Responds to “RISC-V They Should Have Known Better”](https://rvembedded.com/blog_post/12/)** — An embedded engineer offers a ground-level rebuttal in the RISC-V debate. (Hacker News)
+- **[VisionQuest trailer kicks off Disney's D23 fan event](https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/)** — Disney opened D23 with a first look. (Ars Technica)
+- **[Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)** — A strong model gets dinged for taking the scenic route. (Hacker News)
+- **[The Life and Death of Direct File](https://www.ischool.berkeley.edu/sites/default/files/vinton_report_5.pdf)** — A report examines the tax-filing program’s rise and fall. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
+## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
 
 ### Business Newswire
-- **[Can I claim 50% of my husband’s Social Security now — and switch to my higher benefit at 70?](https://www.marketwatch.com/story/can-i-claim-50-of-my-husbands-social-security-now-and-switch-to-my-higher-benefit-at-70-5518700b?mod=mw_rss_topstories)** — A retirement-benefit timing question with real household stakes. (MarketWatch)
-- **[The Anti-AI Backlash Against ‘Supergirl,’ Explained](https://www.forbes.com/sites/danidiplacido/2026/08/16/the-anti-ai-backlash-against-supergirl-explained/)** — AI anxieties have spilled into the entertainment business again. (Forbes)
+- **[U.S. stock futures little changed as investors ponder the Fed’s next move](https://www.marketwatch.com/story/u-s-stock-futures-little-changed-as-investors-ponder-the-feds-next-move-27bcbea4?mod=mw_rss_topstories)** — Futures opened the week waiting on the Fed. (MarketWatch)
+- **[Disney Reveals Middle East Research For Abu Dhabi Theme Park](https://www.forbes.com/sites/carolinereid/2026/08/16/disney-reveals-middle-east-research-for-abu-dhabi-theme-park/)** — Disney detailed research behind its Abu Dhabi plans. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -85,28 +87,26 @@ _Source: `2026-08-16-evening-dispatch.md`_
 |---|---:|---:|---:|---:|
 | [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7,785.76 | +28.12 | +0.36% | 6,316.91–7,816.70 |
 | [Dow 30](https://www.marketwatch.com/investing/index/djia) | 53,732.41 | -304.52 | -0.56% | 44,579.03–54,744.33 |
-| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,729.16 | +38.54 | +0.14% | 20,690.25–27,190.21 |
-| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 3,068.42 | +33.93 | +1.12% | 2,252.43–3,069.71 |
-
-The S&P and Russell finished near their 52-week highs; small caps carried the stronger weekly pulse.
+| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,729.164 | +38.54 | +0.14% | 20,690.25–27,190.21 |
+| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 3,068.415 | +33.93 | +1.12% | 2,252.43–3,069.71 |
 
 ### Federal Funds Rate
-**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%.
+**Effective rate (EFFR): 3.63%; Fed target range: 3.50%–3.75%.**
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---:|
-| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.265% | +0.02 | 0.000%–5.281% |
-| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.697% | -0.02 | 0.000%–4.133% |
+| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.265% | +0.02 | 0.000–5.281% |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.697% | -0.02 | 0.000–4.133% |
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 61.417 | +0.61 | +1.01% | 52.100–61.923 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1567 | +0.00 | +0.10% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7322 | -0.02 | -0.23% | 6.7322–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 61.542 | +0.74 | +1.22% | 52.100–61.923 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1587 | 0.00 | +0.36% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7414 | -0.01 | -0.09% | 6.7292–7.1909 |
 
 ### ETFs (with 52W Range)
 
@@ -128,7 +128,7 @@ The S&P and Russell finished near their 52-week highs; small caps carried the st
 | [AMZN](https://www.marketwatch.com/investing/stock/amzn) | $262.65 | -11.83 | -4.31% | $196.00–$287.20 |
 | [NFLX](https://www.marketwatch.com/investing/stock/nflx) | $78.16 | +4.02 | +5.42% | $65.08–$126.71 |
 | [TSLA](https://www.marketwatch.com/investing/stock/tsla) | $342.27 | +13.69 | +4.17% | $297.38–$498.83 |
-| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | $61.66 | +2.59 | +4.38% | $38.46–$79.22 |
+| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | $61.66 | +2.59 | +4.38% | $38.46–$79.215 |
 | [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | $504.03 | -17.77 | -3.41% | $464.01–$537.74 |
 | [AXP](https://www.marketwatch.com/investing/stock/axp) | $342.48 | +1.57 | +0.46% | $290.97–$387.49 |
 | [SCHW](https://www.marketwatch.com/investing/stock/schw) | $111.09 | +3.49 | +3.24% | $83.96–$111.18 |
@@ -136,65 +136,69 @@ The S&P and Russell finished near their 52-week highs; small caps carried the st
 | [COST](https://www.marketwatch.com/investing/stock/cost) | $961.10 | +13.28 | +1.40% | $844.06–$1,096.50 |
 | [UPS](https://www.marketwatch.com/investing/stock/ups) | $104.50 | 0.00 | 0.00% | $82.00–$122.41 |
 
-### Markets Analysis — Upcoming Week
-Small caps and dividend shares enter Monday near 52-week highs, while the 30-year yield is also pressing its peak. Watch whether AMD’s 6.42% weekly jump holds, whether Amazon stabilizes after a 4.31% drop, and whether oil’s 5.40% weekly surge keeps inflation worries warm.
-
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $62,895.11 | -507.32 | -0.80% | $57,747.77–$126,198.07 |
-| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $82.40 | -0.80 | -0.96% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $63,385.63 | -16.54 | -0.03% | $57,747.766–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $82.41 | -0.86 | -1.03% | $54.98–$119.48 |
 
 ### Prediction Markets
-- Polymarket showed Alexandria Ocasio-Cortez at **20%** in its 2028 Democratic nominee market.
-- Kalshi: *[Data unavailable]*
+- Polymarket showed David Crowley at 76% in its Wisconsin governor-winner market. Kalshi: *[Data unavailable]*
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): **6.69%**.
-- AAA: national regular **$4.0656**; New Jersey regular **$3.9697**.
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.69% top listed rate.
+- National regular: $4.0656; New Jersey regular: $3.9697. (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** Friday’s close left the S&P and Russell near their yearly ceilings, but Sunday trading claims would be fool’s gold—the market was shut. Rates and oil are the pressure gauges to watch Monday.
+**BOTTOM LINE:** The S&P 500 and Russell 2000 sit just below their 52-week highs, while SCHD, VBR and SCHW are knocking on the ceiling too. The tape is elevated, not sleepy.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Rui Oliveira sprints to first pro win as Alexis Guérin secures Volta a Portugal](https://www.cyclingnews.com/pro-cycling/racing/volta-a-portugal-rui-oliveira-sprints-to-biggest-road-win-of-his-career-on-stage-10-as-alexis-guerin-secures-the-overall-victory/)** — Oliveira took Stage 10; Guérin sealed the overall. (Cycling / Cyclingnews)
-- **[Thomas Silva seals Arctic Race of Norway overall](https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-thomas-silva-seals-overall-as-cedrik-christophersen-climbs-to-stage-4-victory/)** — Cedrik Christophersen won Stage 4 while Silva protected the title. (Cycling / Cyclingnews)
+- **[Rui Oliveira sprints to first pro win as Alexis Guérin secures Volta a Portugal](https://www.cyclingnews.com/pro-cycling/racing/volta-a-portugal-rui-oliveira-sprints-to-biggest-road-win-of-his-career-on-stage-10-as-alexis-guerin-secures-the-overall-victory/)** — Oliveira won Stage 10; Guérin took the overall. (Cycling / Cyclingnews)
+- **[Thomas Silva seals Arctic Race of Norway overall](https://www.cyclingnews.com/pro-cycling/racing/arctic-race-of-norway-thomas-silva-seals-overall-as-cedrik-christophersen-climbs-to-stage-4-victory/)** — Cedrik Christophersen won Stage 4 while Silva secured the title. (Cycling / Cyclingnews)
 
-Other sports newswires: *[Data unavailable]*
+Other league newswires: *[Data unavailable]*
 
 ### Scoreboard
 
 #### ⚾ MLB
-[Standings: MLB](https://www.mlb.com/standings)
+[Standings](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
 |---|---:|---|
-| Nationals @ Mets | 4–5 | [Full box score](https://www.mlb.com/gameday/823588) |
-| Nationals @ Mets | 3–4 | [Full box score](https://www.mlb.com/gameday/823590) |
-| Yankees @ Blue Jays | 1–4 | [Full box score](https://www.mlb.com/gameday/822775) |
-| Yankees @ Blue Jays | 4–3 | [Full box score](https://www.mlb.com/gameday/822774) |
-| Phillies @ Twins | 9–1 | [Full box score](https://www.mlb.com/gameday/823671) |
-| Mariners @ Astros | 10–5 | [Full box score](https://www.mlb.com/gameday/824157) |
+| Orioles @ Rays | BAL 10–2 | [Full box score](https://www.mlb.com/gameday/822940) |
+| Red Sox @ Pirates | PIT 8–3 | [Full box score](https://www.mlb.com/gameday/823344) |
+| Diamondbacks @ Braves | ATL 5–3 | [Full box score](https://www.mlb.com/gameday/824880) |
+| Yankees @ Blue Jays | NYY 4–3 | [Full box score](https://www.mlb.com/gameday/822774) |
+| Nationals @ Mets | NYM 4–3 | [Full box score](https://www.mlb.com/gameday/823590) |
+| Padres @ Guardians | SD 5–0 | [Full box score](https://www.mlb.com/gameday/824397) |
+| White Sox @ Tigers | CWS 7–5 | [Full box score](https://www.mlb.com/gameday/824236) |
+| Marlins @ Reds | MIA 7–1 | [Full box score](https://www.mlb.com/gameday/824477) |
+| Phillies @ Twins | PHI 7–5 | [Full box score](https://www.mlb.com/gameday/823670) |
+| Cardinals @ Cubs | STL 11–4 | [Full box score](https://www.mlb.com/gameday/824642) |
+| Rockies @ Giants | COL 13–7 | [Full box score](https://www.mlb.com/gameday/823182) |
+| Rangers @ Athletics | ATH 5–2 | [Full box score](https://www.mlb.com/gameday/824965) |
+| Royals @ Angels | KC 3–0 | [Full box score](https://www.mlb.com/gameday/823991) |
+| Brewers @ Dodgers | MIL 6–2 | [Full box score](https://www.mlb.com/gameday/823912) |
+| Mariners @ Astros | SEA 3–2 | [Full box score](https://www.mlb.com/gameday/824156) |
 
-The Mets swept both listed games by one run. Remaining MLB results were fetched, but this is the tight evening-board cut.
+Upcoming start times and TV: *[Data unavailable]*
 
-#### 🚴 Tour de France
-[Rankings: Tour de France](https://www.letour.fr/en/rankings)
+#### 🚴 Tour de France — Final Classification
+[Rankings](https://www.letour.fr/en/rankings)
 
-The completed Tour’s final classification has **Tadej Pogacar** first in 73h 56m 26s, ahead of Remco Evenepoel by 6m 26s. Mathieu van der Poel won Stage 21 in 1h 58m 49s.
+Mathieu van der Poel won Stage 21 in 1:58:49. Tadej Pogačar won the Tour in 73:56:26, ahead of Remco Evenepoel by 6:26 and Isaac del Toro Romero by 9:42.
 
-#### Team Reports — NJ Devils
-- **[Alexander Command — Prospects Profile](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26)**
-- **[Trenten Bennett — Prospects Profile](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26)**
-
-Schedules and other tracked-team reports: *[Data unavailable]*
+> **NJ DEVILS REPORT**
+>
+> Schedule data: *[Data unavailable]*  
+> **[Alexander Command — Prospect Profile](https://www.nhl.com/devils/news/alexander-command-prospects-profile-8-5-26)** · **[Trenten Bennett — Prospect Profile](https://www.nhl.com/devils/news/trenten-bennett-prospects-profile-8-3-26)**
 
 ---
 
@@ -202,17 +206,25 @@ Schedules and other tracked-team reports: *[Data unavailable]*
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Next up | Verify |
+| Group | Upcoming TV / PLE window | Watch / verify |
 |---|---|---|
-| WWE / NXT / AAA | Raw Aug. 17; NXT Aug. 18; SmackDown Aug. 21 | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
+| WWE / NXT / AAA | Raw Aug. 17; NXT Aug. 18; SmackDown Aug. 21; AAA varies | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
 | AEW / ROH | Dynamite Aug. 19; ROH TV Aug. 20; Collision Aug. 22 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
 | TNA | iMPACT! Aug. 20 | [TNA](https://tnawrestling.com/events/) |
 | NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México Aug. 16, 18, 21; Coliseo Aug. 22 | [CMLL](https://cmll.com/) |
+| CMLL | Arena México Aug. 18, 21, 23; Coliseo Aug. 22 | [CMLL](https://cmll.com/) |
 
-- **[WWE] [Chad Gable vs. Rey Mysterio title match added to Raw](https://www.postwrestling.com/2026/08/16/chad-gable-vs-rey-mysterio-title-match-sol-ruca-vs-lyra-valkyria-added-to-wwe-raw/)**
-- **[NXT] [ZARIA says she is ready for a WWE main-roster call-up](https://www.fightful.com/wrestling-news/zaria-feels-shes-more-than-ready-for-wwe-main-roster-call-up)**
-- **[NJPW] [G1 Climax 36 Day 19 final discussion](https://www.reddit.com/r/SquaredCircle/comments/1vpset4/post_njpw_g1_climax_36_day_19_discussion_thread/)**
+### Headlines
+- **[Chad Gable Explains Why He Created The El Grande Americano Gimmick](https://www.fightful.com/wrestling-news/chad-gable-explains-why-he-created-the-el-grande-americano-gimmick)** (Fightful)
+- **[G1 Climax 36 Final Review](https://www.postwrestling.com/2026/08/16/g1-climax-36-final-review/)** (POST Wrestling)
+- **[AEW's Bandido Discusses Emotional Impact Of Wrestling At Arena Mexico](https://www.wrestlinginc.com/2237846/aew-cmll-bandido-arena-mexico-emotional-impact/)** (WrestlingInc)
+- **[Carmelo Hayes lost in his hometown on SmackDown — so what?](https://www.cagesideseats.com/wwe/469136/carmelo-hayes-hometown-loss-smackdown-baron-corbin)** (Cageside Seats)
+- **[Shingo Takagi Calls Out Claudio Castagnoli After NJPW G1 Climax 36 Finals](https://411mania.com/wrestling/shingo-takagi-calls-out-claudio-castagnoli-njpw-g1-climax-36-final/)** (411mania)
+
+### r/squaredcircle
+- **[Bronson Reed on X: “I'm a problem”](https://www.reddit.com/r/SquaredCircle/comments/1vqf7kl/bronson_reed_on_x_im_a_problem/)**
+- **[Eric Bischoff on Roman Reigns: “I'm bored with him”](https://www.reddit.com/r/SquaredCircle/comments/1vq66ga/eric_bischoff_on_roman_reigns_im_bored_with_him_i/)**
+- **[Cody Rhodes does the ALS Ice Bucket Challenge](https://www.reddit.com/r/SquaredCircle/comments/1vq7rw5/cody_rhodes_does_the_als_ice_bucket_challenge_in/)**
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -221,36 +233,37 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 
 | Date | Rating | Match | Promotion | Event |
 |---|---:|---|---|---|
-| Aug. 7, 2026 | 5 | Team Mexico vs. Team World | CMLL | International Gran Prix |
+| Aug. 7, 2026 | 5 | Team Mexico vs. Team World | CMLL | International Gran Prix 2026 |
 | Aug. 2, 2026 | 5 | Gabe Kidd vs. Henare | NJPW | G1 Climax 36 Night 11 |
-| July 31, 2026 | 5 | Máscara Dorada vs. Komander | CMLL | Leyenda de Plata |
+| July 31, 2026 | 5 | Máscara Dorada vs. Komander | CMLL | Leyenda de Plata 2026 |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
 ### Reddit — What's Trending
-#### r/newjersey
-- **[A kitten and his mother are looking for a home together](https://www.reddit.com/r/newjersey/comments/1vq71ip/5_mo_kitten_and_his_2_yo_mom_looking_for_their/)**
-
-#### r/nba
-- **[Fans seek smarter basketball conversation beyond viral argument](https://www.reddit.com/r/nba/comments/1vq4d7g/escobedo_as_espn_cuts_expert_voices_and_rewards/)**
-
-#### r/Nix
-- **[Everything is Nix if you squint hard enough](https://www.reddit.com/r/Nix/comments/1vq81ih/everything_is_nix_if_you_squint_hard_enough_talk/)**
+#### r/TomsRiver
+- **[Trunk tamales?](https://www.reddit.com/r/TomsRiver/comments/1vqd11t/trunk_tamales/)**
+#### r/netsec
+- **[CVE-2026-33696: From a Schema Name to RCE in n8n](https://www.reddit.com/r/netsec/comments/1vpx6ku/cve202633696_from_a_schema_name_to_rce_in_n8n/)**
+#### r/Python
+- **[What are some Python automations you built for your life?](https://www.reddit.com/r/Python/comments/1vqggbo/what_are_some_python_automations_you_built_for/)**
+#### r/nyc
+- **[What’s that green light in the sky?](https://www.reddit.com/r/nyc/comments/1vqgd14/whats_that_green_light_in_the_sky/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **Moon**: [The AI Bubble Is About To Destroy San Francisco](https://www.youtube.com/watch?v=ejENM86i9Qs)
-- **GothamChess**: [Hikaru Sacrifices The Roooooook](https://www.youtube.com/shorts/m0nP3zsCupU)
-- **House of Highlights**: [Washington Nationals vs. New York Mets — Full Game Highlights](https://www.youtube.com/watch?v=YY_4euiCLRo)
+- **Glenn Greenwald:** [This Is Why Israel Is Misleading Trump with DECEITFUL MOSSAD INTEL](https://www.youtube.com/watch?v=0kL1RLvUefs)
+- **GothamChess:** [Hikaru Sacrifices The Roooooook](https://www.youtube.com/shorts/m0nP3zsCupU)
+- **House of Highlights:** [Yankees vs. Blue Jays highlights](https://www.youtube.com/watch?v=8np21UL_yEs)
+- **The PrimeTime:** [Meccha chameleon hack](https://www.youtube.com/shorts/vp4CuUZfcD8)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **Cover Me**: [Vera Blue Covers Radiohead’s “Creep”](https://www.covermesongs.com/2026/08/vera-blue-covers-radioheads-creep-on-like-a-version.html)
-- **gHacks**: [Microsoft Confirms Windows 11 Bug Breaks IE Mode](https://www.ghacks.net/2026/08/16/microsoft-confirms-windows-11-bug-breaks-ie-mode-in-microsoft-edge-for-some-users/)
-- **DistroWatch**: [Distribution Release: PrismLinux 2026.08.15](https://www.tuxedocomputers.com/)
+- **Cover Me:** [Vera Blue Covers Radiohead’s “Creep”](https://www.covermesongs.com/2026/08/vera-blue-covers-radioheads-creep-on-like-a-version.html)
+- **gHacks:** [Microsoft Confirms Windows 11 Bug Breaks IE Mode](https://www.ghacks.net/2026/08/16/microsoft-confirms-windows-11-bug-breaks-ie-mode-in-microsoft-edge-for-some-users/)
+- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-16/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-That’s all for tonight, folks. Lock the screen door, leave the pork roll for breakfast, and keep an ear out for Monday’s rain.
+Lights out, folks—the boardwalk gets another run tomorrow. Save the pork roll for sunrise.
