@@ -34,56 +34,50 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-08-29T22:03:15+00:00_  
-_Source: `2026-08-29-evening-dispatch.md`_
+_Originally generated: 2026-08-30T00:00:12-04:00_  
+_Source: `2026-08-30-midnight-dispatch.md`_
 
-# 🌙 THE EVENING BRIEF — Saturday, August 29, 2026
-> “The week rang the closing bell; the Shore kept the porch light on.”
+# 🌙 THE MIDNIGHT DISPATCH — Sunday, August 30, 2026
+> “The last light is off on the boardwalk, but the overnight desk still has coffee.”
 
 ---
 
-## 🌙 SHORE FORECAST & BEYOND
+## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**SUN GIVES WAY TO A COOL NIGHT.** Sunny near 83°F with a light 5 mph breeze. Tonight heads toward 62°F; Sunday brings sunshine, a high of 88°F, a low of 63°F and just a 1% rain chance.
+**CLEAR AND COOL, THEN A BEACH DAY.** Now 65°F with a light 4 mph breeze. Sunday turns sunny, high 88°F, low 60°F, with just a 2% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**SHOWERS STICK AROUND.** Light rain showers at 27°C with winds near 30 km/h. Sunday stays showery, high 28°C and low 26°C, with a 65% rain chance.
+**SHOWERS STICK AROUND.** Light rain at 29°C, feeling like 34°C, with 33 km/h wind. Sunday: light rain showers, high 29°C, low 26°C, 45% rain chance.
 
 ---
 
 ## 📰 TOP STORIES
 
 ### Headlines
-
-- **[Warsh says the Fed may not be done fighting inflation](https://www.wsj.com/economy/central-banking/warsh-says-the-fed-may-not-be-done-fighting-inflation-c60a0b51)** — The inflation fight may still require tighter policy. (WSJ)
-- **[Coyote vs. Acme finally opens after a multiyear detour](https://variety.com/2026/film/columns/coyote-vs-acme-cast-funeral-screening-warner-bros-1236844790/)** — The shelved film finally reached theaters. (Morning Brew)
-- **[Law-enforcement leaders clash over Flock cameras](https://www.newsnationnow.com/katie-pavlich-tonight/cities-flock-cameras-use-debate/)** — Police value and privacy concerns are colliding. (NewsNation)
-- **[Cities reward good drivers with green lights](https://www.csmonitor.com/USA/2026/0829/Cities-pilot-rest-in-red-program-that-rewards-good-drivers-with-green-lights?icid=rss)** — “Rest in red” pilots turn patience into quicker greens. (CS Monitor)
-- **[Walmart settles DOJ opioid lawsuit for $50 million](https://thehill.com/regulation/court-battles/6059138-walmart-opioid-lawsuit-settlement/)** — The retailer resolved the federal case. (The Hill)
-- **[Federal court rules speech-based deportations violate the First Amendment](https://reason.com/volokh/2026/08/29/federal-court-rules-speech-based-deportations-violate-the-first-amendment/)** — The ruling draws a constitutional line around deportation decisions. (Reason)
-- **[Clarence Thomas may revisit a case he opposed 22 years ago](https://www.newsweek.com/clarence-thomas-supreme-court-case-locke-bethany-hall-overturn-12384554)** — An old Supreme Court dispute may return in a new form. (Newsweek)
+- **[Warsh Says the Fed May Not Be Done Fighting Inflation](https://www.wsj.com/economy/central-banking/warsh-says-the-fed-may-not-be-done-fighting-inflation-c60a0b51)** — The inflation fight may still demand higher rates. (WSJ)
+- **[Fed’s Warsh hints that interest rates might go up](https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html)** — Rate expectations are back under the microscope. (Morning Brew)
+- **[Law enforcement leaders clash over privacy concerns, value of Flock cameras](https://www.newsnationnow.com/katie-pavlich-tonight/cities-flock-cameras-use-debate/)** — Public safety and surveillance privacy collide. (NewsNation)
+- **[Cities pilot ‘rest in red’ program that rewards good drivers with green lights](https://www.csmonitor.com/USA/2026/0829/Cities-pilot-rest-in-red-program-that-rewards-good-drivers-with-green-lights?icid=rss)** — Cities are testing traffic lights that reward patience. (CS Monitor)
+- **[Tucker Carlson: Trump needs to be removed from office ‘immediately’](https://thehill.com/media/6059334-carlson-says-trump-should-be-removed/)** — Carlson’s declaration jolts the political weekend. (The Hill)
+- **[Federal Court Rules Speech-Based Deportations Violate the First Amendment](https://reason.com/volokh/2026/08/29/federal-court-rules-speech-based-deportations-violate-the-first-amendment/)** — A federal ruling reinforces speech protections for noncitizens. (Reason)
+- **[Chiefs Trade for More Reinforcements for QB Patrick Mahomes](https://www.newsweek.com/sports/nfl/chiefs-trade-for-more-reinforcements-for-qb-patrick-mahomes-12384876)** — Kansas City adds help around its quarterback. (Newsweek)
 
 ### AI & Tech Desk
-
-- **[Court rules Kalshi sports bets are gambling, not swaps](https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/28/25-7516.pdf)** — The label changed; the court’s view of the wager did not. (Ars Technica)
-- **[Cities terminate Flock contracts at record pace](https://docs.google.com/spreadsheets/d/1cg67JW-8_9BnObb2v3yU5jJdpDDIZMC6/edit?usp=drivesdk&ouid=118328836220657927964&rtpof=true&sd=true)** — August brought a sharp municipal retreat from camera contracts. (Ars Technica)
-- **[Tencent open-sources Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)** — The release drew 79 points on Hacker News. (Hacker News)
-- **[vLLM v0.28.0 ships](https://github.com/vllm-project/vllm/releases/tag/v0.28.0)** — The inference engine’s latest release drew 55 points. (Hacker News)
+- **[Court rules Kalshi sports bets aren't “swaps,” just gambling with a different name](https://cdn.ca9.uscourts.gov/datastore/opinions/2026/08/28/25-7516.pdf)** — A court strips away the financial-market label. (Ars Technica)
+- **[Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)** — Tencent’s open-source preview drew strong Hacker News interest. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
+## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
 
 ### Business Newswire
-
-- **[Am I too old for Roth conversions?](https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories)** — An $8 million retirement portfolio raises a late-life tax-planning question. (MarketWatch)
-- **[A dementia diagnosis leaves a $100,000 stock certificate locked](https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories)** — Custody paperwork becomes the obstacle. (MarketWatch)
-- **[AI is driving up prices as much as tariffs, Fed analysis reveals](https://www.forbes.com/sites/maryroeloffs/2026/08/29/ai-is-driving-up-prices-as-much-as-tariffs-fed-analysis-reveals/)** — AI spending joins tariffs in the inflation conversation. (Forbes)
+- **[Am I too old for Roth conversions?](https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories)** — Tax strategy remains relevant deep into retirement. (MarketWatch)
+- **[Federer Enters Tennis Hall Of Fame As Contemporaries Play US Open](https://www.forbes.com/sites/merlisalawrencecorbett/2026/08/29/roger-federer-enterstennis-hall-of-fame-as-contemporaries-play-us-open/)** — Federer’s induction supplies the weekend’s sports-business crossover. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -108,9 +102,9 @@ _Source: `2026-08-29-evening-dispatch.md`_
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.2490 | +0.59 | +0.96% | 52.107–62.414 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.249 | +0.59 | +0.96% | 52.107–62.414 |
 | [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1587 | -0.01 | -0.81% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7208 | -0.00 | -0.00% | 6.7198–7.1909 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7205 | -0.00 | -0.01% | 6.7198–7.1909 |
 
 ### ETFs (with 52W Range)
 
@@ -140,80 +134,71 @@ _Source: `2026-08-29-evening-dispatch.md`_
 | [COST](https://www.marketwatch.com/investing/stock/cost) | 945.47 | -2.27 | -0.24% | 844.06–1,096.50 |
 | [UPS](https://www.marketwatch.com/investing/stock/ups) | 105.33 | +3.32 | +3.25% | 82.00–122.41 |
 
-### Weekly Market Review
-
-**BIG BOARDS UP, SMALL CAPS DOWN.** The S&P 500 gained 0.49%, Dow 0.53% and Nasdaq 0.85%; Russell 2000 fell 1.51%. Oil lost 4.90%, Bitcoin gained 0.50%, and PayPal’s 12.82% slide was the standout stock move. The S&P finished near its 52-week high; PHP/USD sat just below its range high.
+### Markets Analysis — Upcoming Week
+The latest completed week left the S&P 500 up 0.49% and near its 52-week high, while the Russell 2000 fell 1.51%. Watch whether megacap strength broadens—and whether Warsh’s inflation warning keeps long rates elevated. PHP/USD also sits near its 52-week high.
 
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $78,159.26 | -$405.72 | -0.52% | $57,747.77–$126,198.07 |
-| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $83.40 | -$1.61 | -1.89% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $78,135.05 | -$892.37 | -1.13% | $57,747.77–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $83.40 | +$1.04 | +1.26% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-
-📢 **PYPL -12.82% for the week**, crossing the stock-alert line and leaving PayPal at $53.66—well below the midpoint of its 52-week range.
+📢 PYPL fell 12.82% in the completed week, crossing the stock-alert threshold and putting PayPal much closer to its 52-week low than its high.
 
 ### Prediction Markets
-*[Data unavailable: fetched Polymarket output contained no usable probabilities or movement; Kalshi extraction failed.]*
+*[Data unavailable]*
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.74% (Bankrate top listed rate)
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.73% (Bankrate top listed rate)
 - National regular: $4.0810; New Jersey regular: $4.0652 (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** Large caps closed the week higher and near their annual peaks, while small caps and PayPal took the rougher road. Oil eased; rates remained elevated.
+**BOTTOM LINE:** Sunday opens with the S&P near its yearly ceiling but small caps lagging. Rates—not fireworks—hold the keys to the coming week.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
+- **[Tadej Pogačar suffers neck fracture and concussion in crash that ends his Vuelta a España](https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-abandons-the-vuelta-a-espana-after-crash-on-stage-8/)** — The race leader’s Stage 8 crash forced a sobering exit. (Cycling / Cyclingnews)
+- **[Vuelta a España: Bryan Coquard edges out Mads Pedersen to win crash-marred stage 8](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-bryan-coquard-edges-mads-pedersen-to-win-crash-marred-stage-8-as-tadej-pogacar-abandons/)** — Coquard won the stage as the red jersey changed hands. (Cycling / Cyclingnews)
 
-- **[Pogačar abandons the Vuelta after a stage 8 crash](https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-abandons-the-vuelta-a-espana-after-crash-on-stage-8/)** — Cyclingnews reports a broken collarbone and concussion. (Cycling / Cyclingnews)
-- **[Bryan Coquard wins crash-marred Vuelta stage 8](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-bryan-coquard-edges-mads-pedersen-to-win-crash-marred-stage-8-as-tadej-pogacar-abandons/)** — Coquard edged Mads Pedersen as the red jersey changed hands. (Cycling / Cyclingnews)
-
-*[Data unavailable for the other sports newswires.]*
+*Other sports newswires: [Data unavailable]*
 
 ### Scoreboard
 
 #### ⚾ MLB
 [Standings: MLB](https://www.mlb.com/standings)
 
-**Completed / live snapshot:**
-
 | Matchup | Final/Status | Box Score |
-|---|---|---|
-| Reds @ Cubs | 10–8 Final | [Full box score](https://www.mlb.com/gameday/824638) |
-| Dodgers @ Tigers | 2–1 Final | [Full box score](https://www.mlb.com/gameday/824231) |
-| Marlins @ Nationals | 2–9 Final | [Full box score](https://www.mlb.com/gameday/822691) |
-| Royals @ Guardians | 3–0 Final | [Full box score](https://www.mlb.com/gameday/824396) |
-| Astros @ Mets | 3–1 Final | [Full box score](https://www.mlb.com/gameday/823583) |
-| Red Sox @ Yankees | 0–1 Final | [Full box score](https://www.mlb.com/gameday/823504) |
+|---|---:|---|
 | Red Sox @ Yankees | 6–0 Final | [Full box score](https://www.mlb.com/gameday/823539) |
-| Phillies @ Angels | 5–3 Final | [Full box score](https://www.mlb.com/gameday/823985) |
-| Diamondbacks @ Giants | 4–0 In Progress | [Full box score](https://www.mlb.com/gameday/823177) |
-| Astros @ Mets | 1–4 In Progress | [Full box score](https://www.mlb.com/gameday/823582) |
-| Padres @ Rays | 6–3 In Progress | [Full box score](https://www.mlb.com/gameday/822936) |
+| Red Sox @ Yankees | 2–9 Final | [Full box score](https://www.mlb.com/gameday/823501) |
+| Dodgers @ Tigers | 1–2 Final | [Full box score](https://www.mlb.com/gameday/824230) |
+| White Sox @ Twins | 3–2 Final | [Full box score](https://www.mlb.com/gameday/823665) |
+| Pirates @ Cardinals | 6–2 Final | [Full box score](https://www.mlb.com/gameday/823011) |
+| Reds @ Cubs | 5–17 Final | [Full box score](https://www.mlb.com/gameday/824637) |
+| Mariners @ Blue Jays | 3–4 Final | [Full box score](https://www.mlb.com/gameday/822770) |
+| Diamondbacks @ Giants | 7–1 Final | [Full box score](https://www.mlb.com/gameday/823177) |
+| Marlins @ Nationals | 4–5 Final | [Full box score](https://www.mlb.com/gameday/822690) |
+| Royals @ Guardians | 8–3 Final | [Full box score](https://www.mlb.com/gameday/824392) |
+| Astros @ Mets | 2–6 Final | [Full box score](https://www.mlb.com/gameday/823582) |
+| Padres @ Rays | 6–7 Final | [Full box score](https://www.mlb.com/gameday/822936) |
+| Rockies @ Braves | 1–2 Final | [Full box score](https://www.mlb.com/gameday/824874) |
+| Rangers @ Brewers | 3–5 Final | [Full box score](https://www.mlb.com/gameday/823741) |
+| Diamondbacks @ Giants | 2–4 In progress | [Full box score](https://www.mlb.com/gameday/823176) |
+| Orioles @ Athletics | 4–2 In progress | [Full box score](https://www.mlb.com/gameday/824961) |
+| Phillies @ Angels | 1–0 In progress | [Full box score](https://www.mlb.com/gameday/823986) |
 
-The Mets split the raw snapshot the hard way: one loss in the books, another game showing them ahead live.
+**Mets 6, Astros 2:** That’ll play in Queens after midnight. Upcoming start times and TV: *[Data unavailable]*
 
-#### 🚴 Cycling
-[Rankings: Tour de France](https://www.letour.fr/en/rankings)
-
-**TOUR BOOK CLOSED.** Stage 21 winner Mathieu van der Poel finished in 1:58:49; Tadej Pogačar won the 2026 general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
-
-### Team Reports
-_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
-
-
-> **NJ DEVILS** — Team schedule API: *[Data unavailable]*  
-> [Free-agency notebook](https://www.nhl.com/devils/news/free-agency-notebook-7-1-26) · [12 national broadcasts announced](https://www.nhl.com/devils/news/devils-2026-27-national-games-release-8-26-26) · [Hughes and Hischier named top-20 centers](https://www.nhl.com/devils/news/hughes-hischier-top-20-centers-blog-8-25-26)
-
-*Seton Hall, Giants, Mets, Inter Miami, Barcelona and Arsenal team APIs: [Data unavailable].*
+> **🏒 NJ DEVILS TEAM REPORT**  
+> Schedule data: *[Data unavailable]*  
+> [Devils featured in 12 exclusive national broadcasts in 2026–27](https://www.nhl.com/devils/news/devils-2026-27-national-games-release-8-26-26) · [Hughes and Hischier named among NHL Network’s top 20 centers](https://www.nhl.com/devils/news/hughes-hischier-top-20-centers-blog-8-25-26)
 
 ---
 
@@ -221,21 +206,22 @@ _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](htt
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Upcoming | Watch / verify |
+| Group | Next up | Verify |
 |---|---|---|
 | WWE / NXT / AAA | Raw Aug. 31; NXT Sep. 1; SmackDown Sep. 4; AAA varies | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
-| AEW / ROH | Collision Aug. 29; Dynamite Sep. 2; ROH TV Sep. 3 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
+| AEW / ROH | Dynamite Sep. 2; ROH Sep. 3; Collision Sep. 5 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
 | TNA | iMPACT! Sep. 3 | [TNA](https://tnawrestling.com/events/) |
 | NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
 | CMLL | Arena México Aug. 30, Sep. 1 and Sep. 4 | [CMLL](https://cmll.com/) |
 
 ### Headlines
+- **[AEW Collision 8/29 Results](https://www.postwrestling.com/2026/08/29/aew-collision-8-29-results-tbs-title-match-added-to-all-in-during-last-stop-before-wembley-stadium/)** — A TBS title match was added to All In. (POST Wrestling)
+- **[AEW updates injury status for Willow Nightingale](https://www.cagesideseats.com/aew/472503/aew-updates-injury-status-for-willow-nightingale-collision-all-in-mercedes-mone)** — The All In injury picture gets an update. (Cageside Seats)
+- **[Updated All In lineup after Collision](https://411mania.com/wrestling/aew-all-in-london-updated-lineup-following-collision-tbs-championship-more/)** — The Wembley card adds a title match and Buy-In tags. (411mania)
 
-- **[WWE SmackDown 8/28/26 review](https://www.postwrestling.com/2026/08/28/wwe-smackdown-8-28-26-review-rasd-xl-live-1035pm-et/)** (POST Wrestling)
-- **[Darby Allin embraces the pressure of his AEW title reign](https://www.wrestlinginc.com/2244333/aew-darby-allin-frantic-pace-world-title-reign-love-pressure/)** (WrestlingInc)
-- **[AJ Styles reportedly working WWE at AAA and NXT in Texas](https://www.cagesideseats.com/wwe/472420/report-aj-styles-working-for-wwe-aaa-nxt-in-texas)** (Cageside Seats)
-- **[Kevin Owens shares Shawn Michaels’ comeback advice](https://411mania.com/wrestling/kevin-owens-comeback-advice-shawn-michaels/)** (411mania)
-- **[Post-SmackDown discussion](https://www.reddit.com/r/SquaredCircle/comments/1w19n6t/post_wwe_smackdown_discussion_thread_august_28th/)** (r/SquaredCircle)
+### r/squaredcircle
+- [Post AEW Collision Discussion Thread — August 29, 2026](https://www.reddit.com/r/SquaredCircle/comments/1w24o26/post_aew_collision_discussion_thread_august_29th/)
+- [Live DDT PRO “Last Summer Standing” discussion](https://www.reddit.com/r/SquaredCircle/comments/1w24ncr/live_ddt_pro_last_summer_standing_summers/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -247,40 +233,33 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 17 |
 | Aug. 16, 2026 | 5.5 | Yuya Uemura vs. Ryohei Oiwa | NJPW | G1 Climax 36 Final |
 | Aug. 8, 2026 | 5 | Sareee vs. Mio Momono | Marvelous | Korakuen Hall Show |
-| Jan. 4, 2026 | **6** | **Hiroshi Tanahashi vs. Kazuchika Okada** | **NJPW** | **Wrestle Kingdom 20** |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
 ### Reddit — What's Trending
+#### r/mets
+- **[YEAH BABY!!](https://www.reddit.com/r/mets/comments/1w21rzn/yeah_baby/)**
 
-#### r/NYGiants
-- **[Giants trade for DT C.J. Okoye](https://www.reddit.com/r/NYGiants/comments/1w1namc/garafolo_another_john_harbaugh_reunion_the_giants/)**
-- **[Darius Slayton’s roster spot may not be secure](https://www.reddit.com/r/NYGiants/comments/1w1p2k2/schwartz_the_roster_spot_for_the_longesttenured/)**
+#### r/newjersey
+- **[A senior citizen protest this morning in Belmar](https://www.reddit.com/r/newjersey/comments/1w1zc4b/a_senior_citizen_antiprotest_this_morning_in/)**
 
-#### r/linux
-- **[Introducing ReactOS 0.4.16](https://www.reddit.com/r/linux/comments/1w1v5fb/introducing_reactos_0416/)**
-
-#### r/Philippines
-- **[Man dies after falling into open drainage on a flooded Angeles City road](https://www.reddit.com/r/Philippines/comments/1w1g9ci/man_dies_after_falling_into_open_drainage_while/)**
+#### r/sports
+- **[Tadej Pogačar abandons the Vuelta after a Stage 8 crash](https://www.reddit.com/r/sports/comments/1w1ssso/race_leader_tadej_pogacar_has_abandoned_the/)**
 
 ### 📺 YouTube — Past 24 Hours
-
-**Breaking Points:** [Norm Finkelstein loses it over Iran war, Trump Gaza takeover](https://www.youtube.com/watch?v=W-B5LucmPLk)  
-**Extra History:** [Jewish Pirates — complete](https://www.youtube.com/watch?v=n4OH4-NZXCg)  
-**GothamChess:** [Top 0.00003% chess player](https://www.youtube.com/watch?v=BhVEEs8iuyY)  
-**House of Highlights:** [Reds vs. Cubs full-game highlights](https://www.youtube.com/watch?v=Gtd4FwL4yTk)  
-**Unsupervised Learning:** [The Missing Piece Is Ideal State](https://www.youtube.com/watch?v=z6yBDU7HZA4)
+**Breaking Points**: [Norm Finkelstein LOSES IT Over Iran War, Trump Gaza Takeover](https://www.youtube.com/watch?v=W-B5LucmPLk)  
+**Extra History**: [Jewish Pirates — Complete](https://www.youtube.com/watch?v=n4OH4-NZXCg)  
+**GothamChess**: [TOP 0.00003% CHESS PLAYER](https://www.youtube.com/watch?v=BhVEEs8iuyY)
 
 ### 🔗 Around the Web — Past 24 Hours
-
-**Budget Bytes:** [12 eggplant recipes you need to try](https://www.budgetbytes.com/eggplant-recipes/)  
-**gHacks:** [Ubuntu 26.04.1 LTS opens upgrades](https://www.ghacks.net/2026/08/29/canonical-releases-ubuntu-26-04-1-lts-opening-upgrades-for-noble-numbat-users/)  
-**KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-29/)
+**Budget Bytes**: [12 Eggplant Recipes You Need to Try](https://www.budgetbytes.com/eggplant-recipes/)  
+**gHacks**: [LibreOffice 26.8 launches with no AI features](https://www.ghacks.net/2026/08/29/libreoffice-26-8-launches-with-writer-paragraph-composer-and-no-ai-features/)  
+**KnickerBlogger**: [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-29/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-That’s all for tonight, folks. Sunday’s coming in sunny—put the coffee on, slice the pork roll, and leave the market noise at the curb.
+Lights out, folks—the pork roll can wait till breakfast, but the boardwalk gets another run tomorrow.
