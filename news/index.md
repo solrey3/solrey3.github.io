@@ -34,59 +34,50 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-08-30T22:02:50+00:00_  
-_Source: `2026-08-30-evening-dispatch.md`_
+_Originally generated: 2026-08-31T04:02:23+00:00_  
+_Source: `2026-08-31-midnight-dispatch.md`_
 
-# 🌙 THE EVENING BRIEF — Sunday, August 30, 2026
-> “Sunday night: when the weekend hands the keys back to Monday.”
+# 🌙 THE MIDNIGHT DISPATCH — Monday, August 31, 2026
+> "The calendar flipped; the overnight desk did not."
 
 ---
 
-## 🌙 SHORE FORECAST & BEYOND
+## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**A warm, damp finish.** Patchy rain nearby at 83°F with an 11 mph breeze. Tonight heads toward 58°F; Monday turns partly cloudy, high 85°F and low 68°F, with a 6% rain chance.
+**DRIZZLE GIVES WAY.** Light drizzle and 73°F, feels like 78°F, with a 4 mph breeze. Monday turns partly cloudy, high 84°F and low 70°F, with a 5% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**Keep the umbrella by the door.** Light rain at 27°C with winds near 30 km/h. Monday brings nearby thunderstorms, a 30°C high and 27°C low, with a 19% rain chance.
+**THUNDER CLOSE BY.** 30°C, feels like 35°C, with nearby storms and winds at 36 km/h. Monday brings light rain showers, high 30°C and low 27°C; rain chance 29%.
 
 ---
 
 ## 📰 TOP STORIES
 
 ### Headlines
-
-- **[El Niño Is the Next Risk Hanging Over the Global Economy](https://www.wsj.com/business/energy-oil/el-nino-is-the-next-risk-hanging-over-the-global-economy-810c4b47)** — Another climate risk moves onto the global economy’s worry board. (WSJ)
-- **[Heat Waves Are Becoming a Chronic Drag on the Economy](https://www.wsj.com/business/energy-oil/heat-waves-are-becoming-a-chronic-drag-on-the-economy-f5000335)** — Extreme heat is increasingly an economic cost, not merely a weather story. (WSJ)
-- **[Netflix wants a piece of the pigskin](https://sports.yahoo.com/articles/netflix-stream-five-nfl-games-185256043.html)** — Netflix is set to stream five NFL games. (Morning Brew)
-- **[Rising health care costs could take a bigger bite out of workers' paychecks](https://www.newsnationnow.com/business/your-money/increased-healthcare-costs-affect-workers-paychecks/)** — Benefit costs threaten another squeeze on take-home pay. (NewsNation)
-- **[US strikes Iranian rocket launchers on the Strait of Hormuz](https://www.newsnationnow.com/world/ap-us-forces-strike-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks/)** — The action was described as the first U.S. military strike in weeks. (NewsNation)
+- **[El Niño Is the Next Risk Hanging Over the Global Economy](https://www.wsj.com/business/energy-oil/el-nino-is-the-next-risk-hanging-over-the-global-economy-810c4b47)** — Another climate risk moves onto the global economic watchlist. (WSJ)
+- **[Netflix wants a piece of the pigskin](https://sports.yahoo.com/articles/netflix-stream-five-nfl-games-185256043.html)** — The streamer is eyeing five NFL games. (Morning Brew)
+- **[US strikes Iranian rocket launchers on the Strait of Hormuz](https://www.newsnationnow.com/world/ap-us-forces-strike-iranian-rocket-launchers-on-the-strait-of-hormuz-in-first-military-action-in-weeks/)** — The action was described as the first U.S. military strike there in weeks. (NewsNation)
 - **[Hong Kong’s indie bookstores come under scrutiny](https://www.csmonitor.com/World/Asia-Pacific/2026/0830/Hong-Kong-s-indie-bookstores-come-under-scrutiny-amid-a-broader-crackdown-on-dissent?icid=rss)** — Independent booksellers face pressure amid a broader dissent crackdown. (CS Monitor)
-- **[Markey trounces Moulton in Massachusetts Senate primary poll](https://thehill.com/homenews/campaign/6060059-markey-leading-moulton-poll/)** — A new survey gives Markey a commanding primary lead. (The Hill)
-- **[What J.D. Vance Gets Wrong About Hamilton](https://reason.com/volokh/2026/08/30/what-j-d-vance-gets-wrong-about-hamilton-markets-and-milton-friedman/)** — The argument revisits Hamilton, markets and Milton Friedman. (Reason)
+- **[Approximately 15 people may be missing after Grand Canyon flash flood](https://thehill.com/homenews/state-watch/6060286-grand-canyon-flash-floods-missing/)** — The Park Service reported a search after severe flooding. (The Hill)
+- **[What J.D. Vance Gets Wrong About Hamilton, Markets and Milton Friedman](https://reason.com/volokh/2026/08/30/what-j-d-vance-gets-wrong-about-hamilton-and-markets-and-milton-friedman/)** — A critique of Vance's reading of economic history. (Reason)
 - *[Data unavailable: Newsweek]*
 
 ### AI & Tech Desk
-
-- **[Why it matters that President Trump just dialed into a NASA news conference](https://www.youtube.com/watch?v=dnAJJwgpHs4)** — Presidential attention puts NASA’s announcement under a brighter lamp. (Ars Technica)
-- **[Inside Meta’s push to put robots to work in data centers](https://www.wired.com/story/how-data-centers-broke-american-politics/)** — Meta is exploring more automation inside the infrastructure powering AI. (Ars Technica)
-- **[Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies)** — The day’s Hacker News leader drew 747 points. (Hacker News)
-- **[Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6)** — The alternative operating system shipped a new beta. (Hacker News)
+- **[A 12TB Steam “teraleak” spills lost PC gaming history](https://arstechnica.com/gaming/2018/07/steam-data-leak-reveals-precise-player-count-for-thousands-of-games/)** — A massive data spill exposes more than a decade of gaming history. (Ars Technica)
+- **[Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/)** — A technical look under the hood drew Hacker News attention. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
+## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
 
 ### Business Newswire
-
-- **[My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?](https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories)** — A family gift collides with control over investment decisions. (MarketWatch)
-- **[My mother, 91, has dementia. Every bank says I need her signature](https://www.marketwatch.com/story/my-mother-91-has-dementia-every-bank-says-i-need-her-signature-to-unlock-her-100-000-stock-certificate-what-can-i-do-4a2b702f?mod=mw_rss_topstories)** — An old stock certificate becomes an estate-planning bind. (MarketWatch)
-- **[Rays’ Ballpark Funding Closes A Tough Major League Baseball Chapter](https://www.forbes.com/sites/barrymbloom/2026/08/30/rays-ballpark-funding-closes-a-tough-major-league-baseball-chapter/)** — Stadium financing brings a difficult Rays chapter toward resolution. (Forbes)
-- **[Northern Lights Could Be Visible From These Nine States Tonight](https://www.forbes.com/sites/zacharyfolk/2026/08/30/northern-lights-could-be-visible-from-these-nine-states-tonight/)** — A possible aurora watch reaches nine states. (Forbes)
+- **[U.S. stock futures slip as chances of rate hike rise](https://www.marketwatch.com/story/u-s-stock-futures-flat-as-chances-of-rate-hike-rise-after-warshs-jackson-hole-comments-1f5287f2?mod=mw_rss_topstories)** — Warsh's inflation warning put higher-rate risk back on the board. (MarketWatch)
+- **[College Football Week 1 guarantee games pay as much as $1.9 million](https://www.forbes.com/sites/tomlayberger/2026/08/30/2026-college-football-week-1-guarantee-games-pay-as-much-as-19-million/)** — Early-season scheduling remains big business. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -94,12 +85,11 @@ _Source: `2026-08-30-evening-dispatch.md`_
 |---|---:|---:|---:|---:|
 | [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7,711.76 | +37.39 | +0.49% | 6,316.91–7,816.70 |
 | [Dow 30](https://www.marketwatch.com/investing/index/djia) | 53,559.99 | +282.98 | +0.53% | 44,948.16–54,744.33 |
-| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,402.42 | +221.96 | +0.85% | 20,690.25–27,190.21 |
-| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,972.37 | -45.50 | -1.51% | 2,303.46–3,069.71 |
+| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,402.424 | +221.96 | +0.85% | 20,690.25–27,190.21 |
+| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,972.372 | -45.50 | -1.51% | 2,303.46–3,069.71 |
 
 ### Federal Funds Rate
-
-**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%
+**EFFR:** 3.63% · **Fed target range:** 3.50%–3.75%.
 
 ### Treasury Rates (with 52W Range)
 
@@ -112,9 +102,9 @@ _Source: `2026-08-30-evening-dispatch.md`_
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.277 | +0.62 | +1.01% | 52.107–62.414 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1583 | -0.01 | -0.85% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7255 | 0.00 | +0.07% | 6.7198–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.249 | +0.60 | +0.97% | 52.107–62.414 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1596 | -0.01 | -0.62% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.72 | -0.00 | -0.03% | 6.7086–7.1909 |
 
 ### ETFs (with 52W Range)
 
@@ -136,7 +126,7 @@ _Source: `2026-08-30-evening-dispatch.md`_
 | [AMZN](https://www.marketwatch.com/investing/stock/amzn) | 266.43 | +7.80 | +3.02% | 196.00–287.20 |
 | [NFLX](https://www.marketwatch.com/investing/stock/nflx) | 81.72 | +2.13 | +2.68% | 65.08–126.71 |
 | [TSLA](https://www.marketwatch.com/investing/stock/tsla) | 348.75 | -14.11 | -3.89% | 297.38–498.83 |
-| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | 53.66 | -7.89 | -12.82% | 38.46–79.22 |
+| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | 53.66 | -7.89 | -12.82% | 38.46–79.215 |
 | [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | 505.00 | +9.18 | +1.85% | 464.01–537.74 |
 | [AXP](https://www.marketwatch.com/investing/stock/axp) | 333.20 | -2.80 | -0.83% | 290.97–387.49 |
 | [SCHW](https://www.marketwatch.com/investing/stock/schw) | 110.16 | -2.14 | -1.91% | 83.96–114.53 |
@@ -144,138 +134,104 @@ _Source: `2026-08-30-evening-dispatch.md`_
 | [COST](https://www.marketwatch.com/investing/stock/cost) | 945.47 | -2.27 | -0.24% | 844.06–1,096.50 |
 | [UPS](https://www.marketwatch.com/investing/stock/ups) | 105.33 | +3.32 | +3.25% | 82.00–122.41 |
 
-### Markets Analysis — Upcoming Week
-
-**Big stocks enter Monday with momentum, small caps do not.** The completed week lifted the S&P 500 0.49%, Dow 0.53% and Nasdaq 0.85%, while the Russell 2000 fell 1.51%. Watch whether leadership broadens beyond the near-high S&P, ONEQ, SCHD and VXUS—and whether PYPL steadies after its 12.82% weekly drop.
-
-Oil’s 4.20% weekly retreat and the 30-year yield’s move to 5.206% set the macro watch. PHP/USD sits almost at its 52-week extreme, another pressure point for the week ahead.
-
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $78,593.97 | -$433.45 | -0.55% | $57,747.77–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $83.40 | +$1.04 | +1.26% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $77,728.34 | -$2,529.20 | -3.15% | $57,747.766–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $85.08 | +$2.85 | +3.47% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-
-📢 **PYPL -12.82% for the completed week.** PayPal was the lone Stock Watch name past the 10% alert line, leaving shares in the lower half of their 52-week range.
+📢 **PYPL -12.82%**—the only tracked asset past the alert line, putting PayPal much closer to its 52-week low than its high.
 
 ### Prediction Markets
-
-- Polymarket returned discussion and news text, but no verified contract odds or price movement. *[Data unavailable]*
-- Kalshi: *[Data unavailable]*
+- Polymarket surfaced a September Fed-decision market, but usable odds or movement data were not fetched.
+- *[Data unavailable: Kalshi]*
 
 ### ⛽ Mortgage & Gas
-
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): **6.73%** (Bankrate top listed rate)
-- AAA: **$4.0787** national regular · **$4.0827** New Jersey regular
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.73% (Bankrate top listed rate)
+- National regular: $4.0787; New Jersey regular: $4.0827 (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** The latest completed week favored the big indexes while small caps lagged. The S&P 500 sits just 1.3% below its 52-week high; Monday’s test is whether that strength can spread.
+**BOTTOM LINE:** The S&P 500 sits near its 52-week high, but small caps fell 1.51% and rate-hike anxiety followed traders into the new week. This tape looks calm on top and less comfortable underneath.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-
-- **[Enric Mas outsprints Oscar Onley to win Vuelta a España stage 9](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-race-leader-enric-mas-outsprints-oscar-onley-to-win-stage-9-on-alto-de-aitana/)** — The race leader won atop Alto de Aitana. (Cycling / Cyclingnews)
-- **[Pavel Sivakov narrowly misses Vuelta stage win for injured Pogačar](https://www.cyclingnews.com/pro-cycling/racing/i-was-motivated-to-do-this-for-tadej-for-the-team-and-for-myself-pavel-sivakov-narrowly-misses-vuelta-a-espana-stage-win-for-injured-pogacar/)** — Sivakov rode for his injured teammate but came up short. (Cycling / Cyclingnews)
-- **[Pogačar posts update from Barcelona hospital](https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-transferred-to-barcelona-hospital-by-ambulance-as-question-marks-linger-over-cause-of-crash-and-rest-of-season-after-vuelta-a-espana-abandon/)** — Questions remain after his Vuelta withdrawal. (Cycling / Cyclingnews)
+- **[Enric Mas wins Vuelta a España stage 9](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-race-leader-enric-mas-outsprints-oscar-onley-to-win-stage-9-on-alto-de-aitana/)** — The race leader outsprinted Oscar Onley atop Alto de Aitana. (Cycling / Cyclingnews)
+- **[Pavel Sivakov narrowly misses a Vuelta stage win](https://www.cyclingnews.com/pro-cycling/racing/i-was-motivated-to-do-this-for-tadej-for-the-team-and-for-myself-pavel-sivakov-narrowly-misses-vuelta-a-espana-stage-win-for-injured-pogacar/)** — Sivakov rode for injured teammate Tadej Pogačar but came up short. (Cycling / Cyclingnews)
 - *[Data unavailable: other sports newswires]*
 
 ### Scoreboard
 
 #### ⚾ MLB
-[Standings: MLB](https://www.mlb.com/standings)
+Standings: [MLB standings](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
 |---|---:|---|
-| Red Sox @ Yankees | 6–0 Final | [Full box score](https://www.mlb.com/gameday/823539) |
-| Red Sox @ Yankees | 2–9 Final | [Full box score](https://www.mlb.com/gameday/823501) |
-| Dodgers @ Tigers | 1–2 Final | [Full box score](https://www.mlb.com/gameday/824230) |
-| White Sox @ Twins | 3–2 Final | [Full box score](https://www.mlb.com/gameday/823665) |
-| Pirates @ Cardinals | 6–2 Final | [Full box score](https://www.mlb.com/gameday/823011) |
-| Reds @ Cubs | 5–17 Final | [Full box score](https://www.mlb.com/gameday/824637) |
-| Mariners @ Blue Jays | 3–4 Final | [Full box score](https://www.mlb.com/gameday/822770) |
-| Diamondbacks @ Giants | 7–1 Final | [Full box score](https://www.mlb.com/gameday/823177) |
-| Diamondbacks @ Giants | 2–7 Final | [Full box score](https://www.mlb.com/gameday/823176) |
-| Marlins @ Nationals | 4–5 Final | [Full box score](https://www.mlb.com/gameday/822690) |
-| Royals @ Guardians | 8–3 Final | [Full box score](https://www.mlb.com/gameday/824392) |
-| Astros @ Mets | 2–6 Final | [Full box score](https://www.mlb.com/gameday/823582) |
-| Padres @ Rays | 6–7 Final | [Full box score](https://www.mlb.com/gameday/822936) |
-| Rockies @ Braves | 1–2 Final | [Full box score](https://www.mlb.com/gameday/824874) |
-| Rangers @ Brewers | 3–5 Final | [Full box score](https://www.mlb.com/gameday/823741) |
-| Orioles @ Athletics | 5–3 Final | [Full box score](https://www.mlb.com/gameday/824961) |
-| Phillies @ Angels | 4–2 Final | [Full box score](https://www.mlb.com/gameday/823986) |
-| Marlins @ Nationals | 6–2 Final | [Full box score](https://www.mlb.com/gameday/822688) |
-| Rockies @ Braves | 2–3 Final | [Full box score](https://www.mlb.com/gameday/824876) |
-| Red Sox @ Yankees | 1–16 Final | [Full box score](https://www.mlb.com/gameday/823502) |
-| Mariners @ Blue Jays | 0–7 Final | [Full box score](https://www.mlb.com/gameday/822766) |
-| Royals @ Guardians | 1–11 Final | [Full box score](https://www.mlb.com/gameday/824393) |
-| Dodgers @ Tigers | 6–1 Final | [Full box score](https://www.mlb.com/gameday/824232) |
-| Padres @ Rays | 4–5 Final | [Full box score](https://www.mlb.com/gameday/822933) |
-| White Sox @ Twins | 1–5 Final | [Full box score](https://www.mlb.com/gameday/823662) |
-| Rangers @ Brewers | 7–4 Final | [Full box score](https://www.mlb.com/gameday/823740) |
-| Pirates @ Cardinals | 5–4 Final | [Full box score](https://www.mlb.com/gameday/823010) |
-| Astros @ Mets | 6–3 In progress | [Full box score](https://www.mlb.com/gameday/823580) |
-| Orioles @ Athletics | 7–5 In progress | [Full box score](https://www.mlb.com/gameday/824959) |
-| Phillies @ Angels | 2–1 In progress | [Full box score](https://www.mlb.com/gameday/823987) |
-| Reds @ Cubs | 0–0 Pre-game | [Game page](https://www.mlb.com/gameday/824636) |
+| Marlins @ Nationals | MIA 6–2 | [Full box score](https://www.mlb.com/gameday/822688) |
+| Rockies @ Braves | ATL 3–2 | [Full box score](https://www.mlb.com/gameday/824876) |
+| Red Sox @ Yankees | NYY 16–1 | [Full box score](https://www.mlb.com/gameday/823502) |
+| Mariners @ Blue Jays | TOR 7–0 | [Full box score](https://www.mlb.com/gameday/822766) |
+| Royals @ Guardians | CLE 11–1 | [Full box score](https://www.mlb.com/gameday/824393) |
+| Dodgers @ Tigers | LAD 6–1 | [Full box score](https://www.mlb.com/gameday/824232) |
+| Padres @ Rays | TB 5–4 | [Full box score](https://www.mlb.com/gameday/822933) |
+| White Sox @ Twins | MIN 5–1 | [Full box score](https://www.mlb.com/gameday/823662) |
+| Rangers @ Brewers | TEX 7–4 | [Full box score](https://www.mlb.com/gameday/823740) |
+| Pirates @ Cardinals | PIT 5–4 | [Full box score](https://www.mlb.com/gameday/823010) |
+| Astros @ Mets | HOU 6–3 | [Full box score](https://www.mlb.com/gameday/823580) |
+| Orioles @ Athletics | BAL 8–5 | [Full box score](https://www.mlb.com/gameday/824959) |
+| Phillies @ Angels | PHI 5–2 | [Full box score](https://www.mlb.com/gameday/823987) |
+| Reds @ Cubs | CIN 7–5 | [Full box score](https://www.mlb.com/gameday/824636) |
 
-No separate upcoming block was fetched. The Mets took the finished game 6–2; their second game was still in progress at fetch time.
+**Next up:** *[Data unavailable: start times and TV networks]*
 
 #### 🚴 Cycling
-[Rankings: Tour de France](https://www.letour.fr/en/rankings)
+Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 
-**Tour final:** Mathieu van der Poel won Stage 21 in 1:58:49. Tadej Pogačar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel; Isaac del Toro Romero finished third at +9:42.
+The completed 2026 Tour ended with Mathieu van der Poel winning Stage 21 in 1:58:49. Tadej Pogačar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
-### Team Reports
-_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
-
-
-> **NJ DEVILS**  
-> Schedule/API: *[Data unavailable]*  
-> **[Devils land 12 exclusive national broadcasts](https://www.nhl.com/devils/news/devils-2026-27-national-games-release-8-26-26)** · **[Hughes and Hischier named among NHL Network’s top 20 centers](https://www.nhl.com/devils/news/hughes-hischier-top-20-centers-blog-8-25-26)**
-
-Seton Hall, Giants, Mets, Inter Miami, Barcelona and Arsenal team APIs/news: *[Data unavailable]*
+#### 🏒 NJ Devils Team Report
+- **[Devils featured in 12 exclusive national broadcasts](https://www.nhl.com/devils/news/devils-2026-27-national-games-release-8-26-26)** — The club published its 2026–27 national TV slate.
+- **[Hughes, Hischier named among NHL Network's top 20 centers](https://www.nhl.com/devils/news/hughes-hischier-top-20-centers-blog-8-25-26)** — Two Devils made the network ranking.
+- *[Data unavailable: team schedule API]*
 
 ---
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
-### Major Show Spotlight — AEW All In London
-
-- **[Will Ospreay defeats Kenny Omega to win the AEW World Championship](https://www.fightful.com/wrestling-news/will-ospreay-defeats-kenny-omega-to-win-the-aew-world-championship-at-aew-all-in)** — Wembley closed with a new world champion.
-- **[AEW All In London 2026 results](https://www.postwrestling.com/2026/08/30/aew-all-in-london-2026-results-will-ospreay-takes-aew-world-title-off-rival-kenny-omega-at-wembley-stadium/)** — POST Wrestling’s full results recap leads the night’s coverage.
+### Major Show Spotlight — AEW All In: London 2026
+- **[Review, results and analysis](https://www.postwrestling.com/2026/08/30/aew-all-in-london-2026-review-results-analysis-live-9pm-et/)** — POST Wrestling covered the show live.
+- **[Post-show discussion](https://www.reddit.com/r/SquaredCircle/comments/1w2torj/post_aew_all_in_2026_discussion_thread/)** — Fans broke down the card after the bell.
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Upcoming | Watch / Verify |
+| Group | Upcoming | Watch / verify |
 |---|---|---|
-| WWE | Raw Aug. 31; SmackDown Sep. 4 | Netflix / USA / Peacock · [Events](https://www.wwe.com/events) |
-| NXT | NXT TV Sep. 1 | CW / Peacock · [Events](https://www.wwe.com/events) |
-| AAA | Cards vary | [Official](https://www.luchalibreaaa.com/) |
-| AEW | Dynamite Sep. 2; Collision Sep. 5 | TBS / TNT / PPV · [Events](https://www.allelitewrestling.com/aew-events) |
-| ROH | ROH TV Sep. 3 | HonorClub · [Official](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Sep. 3 | AXS / TNA+ · [Events](https://tnawrestling.com/events/) |
+| WWE | Raw Aug. 31; SmackDown Sept. 4 | Netflix / USA / Peacock · [Events](https://www.wwe.com/events) |
+| NXT | NXT TV Sept. 1 | The CW / Peacock · [Events](https://www.wwe.com/events) |
+| AAA | Cards vary | [Official site](https://www.luchalibreaaa.com/) |
+| AEW | Dynamite Sept. 2; Collision Sept. 5 | TBS / TNT / PPV · [Events](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV Sept. 3 | HonorClub · [Official site](https://www.ringofhonor.com/) |
+| TNA | iMPACT! Sept. 3 | AXS TV / TNA+ · [Events](https://tnawrestling.com/events/) |
 | NJPW | Calendar-based tour cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México Aug. 30, Sep. 1/4; Coliseo Sep. 5 | CMLL / YouTube · [Official](https://cmll.com/) |
+| CMLL | Arena México Sept. 1, 4, 6; Coliseo Sept. 5 | CMLL/YouTube · [Official site](https://cmll.com/) |
 
-### Results & Headlines
-
-- **[AEW] [Mercedes Moné captures the Women’s World Title](https://411mania.com/wrestling/mercedes-mone-beats-willow-nightingale-captures-womens-world-title-aew-all-in-london/)** — Moné defeated Willow Nightingale at All In.
-- **[NXT] [Jackson Drake wins the North American title](https://www.wrestlinginc.com/2247159/wwe-nxt-heatwave-jackson-drake-north-american-title-myles-borne-tavion-heights/)** — Heatwave also saw Myles Borne turn on Tavion Heights.
-- **[AAA] [Ola de Calor results](https://www.postwrestling.com/2026/08/30/aaa-ola-de-calor-results-matches-added-to-triplemania-34-lucha-brothers-dragon-lee-stand-tall-over-los-perros-del-mal/)** — Triplemania 34 gained matches as the Lucha Brothers and Dragon Lee stood tall.
-- **[Post AEW All In discussion](https://www.reddit.com/r/SquaredCircle/comments/1w2torj/post_aew_all_in_2026_discussion_thread/)** · **[Post NXT Heatwave discussion](https://www.reddit.com/r/SquaredCircle/comments/1w2uqdb/post_wwe_nxt_heatwave_2026_discussion_thread/)** (r/SquaredCircle)
+### Headlines
+- **[AEW] [Kofi and Austin Creed explain why they left WWE for AEW](https://www.cagesideseats.com/aew/472990/kofi-austin-creed-why-they-left-wwe-for-aew-all-in-london-trios-champions)** (Cageside Seats)
+- **[AEW] [Kenny Omega comments on his world-title loss](https://www.wrestlinginc.com/2247211/kenny-omega-aew-all-in-2026-world-title-loss-entrance-my-hero-academia/)** (WrestlingInc)
+- **[WWE] [Kevin Owens helped backstage at a house show](https://www.fightful.com/wrestling-news/kevin-owens-helped-to-the-backstage-area-at-wwe-house-show)** (Fightful)
+- **[NXT] [Halloween Havoc set for Oct. 31](https://www.postwrestling.com/2026/08/30/wwe-nxt-halloween-havoc-set-for-oct-31/)** (POST Wrestling)
+- **[EC3 hospitalized with a leg infection](https://411mania.com/wrestling/ec3-hospitalized-leg-infection/)** (411mania)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
 
-[ List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)
+[List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)
 
 | Date | Rating | Match | Promotion | Event |
 |---|---:|---|---|---|
@@ -284,45 +240,32 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Aug. 8, 2026 | 5 | Sareee vs. Mio Momono | Marvelous | Korakuen Hall Show |
 | Aug. 7, 2026 | 5 | Team Mexico vs. Team World | CMLL | International Gran Prix 2026 |
 | Aug. 2, 2026 | 5 | Gabe Kidd vs. Henare | NJPW | G1 Climax 36 Night 11 |
-| **Jan. 4, 2026** | **6** | **Hiroshi Tanahashi vs. Kazuchika Okada** | **NJPW** | **Wrestle Kingdom 20** |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
 ### Reddit — What's Trending
-
-#### r/BreakingPointsNews
-- **[Ferry Capsizes Off Northern Cyprus](https://www.reddit.com/r/BreakingPointsNews/comments/1w2reke/ferry_capsizes_off_northern_cyprus/)**
-
-#### r/devils
-- **[Rumor: NJ Devils Hometown Remix may invert the Stadium Series jerseys](https://www.reddit.com/r/devils/comments/1w2oanc/rumor_njdevils_hometown_remix_will_be_an_inverse/)**
-
-#### r/selfhosted
-- **[Reitti v5.3.1 adds custom maps, multi-segment trips and H3 coverage](https://www.reddit.com/r/selfhosted/comments/1w2gj0x/reitti_v531_is_out_custom_map_styles_multisegment/)**
-
-#### r/sports
-- **[Aaron Donald reportedly returning to the Rams](https://www.reddit.com/r/sports/comments/1w2rrh1/hes_back_rams_star_aaron_donald_is_coming_out_of/)**
-
-#### r/sysadmin
-- **[Disaster recovery from M365 tenant deauthentication](https://www.reddit.com/r/sysadmin/comments/1w2cu9m/disaster_recovery_from_m365_tenant/)**
-- **[Is ESXi still worth learning for a beginner?](https://www.reddit.com/r/sysadmin/comments/1w2jbc1/is_esxi_still_worth_learning_for_a_beginner_and/)**
+- **r/TomsRiver:** [South Jersey moms discuss the measles outbreak in Pennsylvania](https://www.reddit.com/r/TomsRiver/comments/1w30054/south_jersey_moms_how_are_we_feeling_about/)
+- **r/NYGiants:** [Odell posts after making the roster](https://www.reddit.com/r/NYGiants/comments/1w2x0r0/odell_new_post_on_instagram_story_after_making/)
+- **r/nba:** [Jaylen Brown hosts a farewell block party](https://www.reddit.com/r/nba/comments/1w2ww0r/jaylen_brown_hosted_a_block_party_in_boston_today/)
+- **r/NixOS:** [A newcomer's Nix setup](https://www.reddit.com/r/NixOS/comments/1w2mql5/ive_been_trying_out_nix_for_a_few_weeks_now_my/)
+- **r/loseit:** [A seven-year weight milestone](https://www.reddit.com/r/loseit/comments/1w30avp/for_the_first_time_in_7_years_my_weight_doesnt/)
 
 ### 📺 YouTube — Past 24 Hours
-
-**GothamChess:** [The Story of GothamChess](https://www.youtube.com/shorts/4GKwSpWYpzM)  
-**House of Highlights:** [Dodgers vs. Tigers highlights](https://www.youtube.com/watch?v=pUai3FlyzfU) · [Red Sox vs. Yankees highlights](https://www.youtube.com/watch?v=gLvm1vTVUIk)  
-**Mischa van den Berg:** [Is Omarchy safe to use?](https://www.youtube.com/watch?v=nejsxsTrWBM)  
-**NPR Music:** [When a cover eclipses the original](https://www.youtube.com/shorts/u-CvQKQtgao)  
-**The PrimeTime:** [Everything is solved](https://www.youtube.com/shorts/OjH_nxaIlWE)
+- **GothamChess:** [The Story of GothamChess](https://www.youtube.com/shorts/4GKwSpWYpzM)
+- **House of Highlights:** [Red Sox vs. Yankees highlights](https://www.youtube.com/watch?v=gLvm1vTVUIk)
+- **Mischa van den Berg:** [Is Omarchy safe to use?](https://www.youtube.com/watch?v=nejsxsTrWBM)
+- **NPR Music:** [When a cover eclipses the original](https://www.youtube.com/shorts/u-CvQKQtgao)
+- **The PrimeTime:** [Everything is solved](https://www.youtube.com/shorts/OjH_nxaIlWE)
 
 ### 🔗 Around the Web — Past 24 Hours
-
-**KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-30/)  
-**Planet Money:** [Dolly Parton’s “9 to 5,” the true story behind the anthem](https://lnk.to/nR7HsmWE)
+- **DistroWatch:** [DistroWatch Weekly, Issue 1188](https://www.tuxedocomputers.com/)
+- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/08/knicks-morning-news-2026-08-30/)
+- **Planet Money:** [The true story behind Dolly Parton's “9 to 5”](https://lnk.to/nR7HsmWE)
 
 ---
 
 ## 👋 SIGN-OFF
 
-That’s all for tonight, folks. Set the coffee, check the umbrella, and leave the last pork roll sandwich for Monday morning.
+Lights out, folks—the boardwalk gets another run tomorrow. Save the pork roll for sunrise.
