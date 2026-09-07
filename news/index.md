@@ -34,58 +34,64 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-09-07T06:00:12-04:00_  
-_Source: `2026-09-07-daytime-dispatch.md`_
+_Originally generated: 2026-09-07T12:00:12-04:00_  
+_Source: `2026-09-07-noon-dispatch.md`_
 
-# 🌅 THE MORNING DISPATCH — Monday, September 7, 2026
-> “Labor Day: sunshine at the Shore, rain in Makati, and no bell on Wall Street.”
+# 🕛 THE NOON DISPATCH — Monday, September 7, 2026
+> "Lunch tastes better when the tape is green and the Shore sky is blue."
 
 ---
 
-## ☀️ SHORE FORECAST & BEYOND
-
-**A Shore Day Worth Clocking Out For**
+## 🕛 MIDDAY SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-Partly cloudy and about 61°F early, with a light northwest breeze. **Today:** Sunny, high 81°F, low 59°F; rain chance 1%.
+**SUN'S OUT, SHORE'S OPEN.** Sunny and 70°F with a light southeast wind near 6 mph. Today's box: **83°F high, 59°F low**, sunny, with a 2% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-Patchy rain nearby and 27°C, feeling like 31°C, with winds near 21 km/h. **Today:** Patchy rain, high 29°C, low 26°C; rain chance 32%.
-
-**BOTTOM LINE:** Toms River gets the cookout weather. Makati keeps the umbrella by the door.
+**KEEP THE UMBRELLA CLOSE.** Light rain showers and 26°C, feeling like 28°C, with northeast winds at 26 km/h. Expect patchy nearby rain through the day, **29°C high, 26°C low**, and a 32% rain chance.
 
 ---
 
 ## 📰 TOP STORIES
 
-**Ukraine Talks Return to Center Stage**
-
 ### Headlines
-- **[August jobs report shows a bright spot](https://www.wsj.com/economy/jobs/august-jobs-report-unemployment-c9da2f0c)** — The latest labor report offered an encouraging economic signal. (WSJ)
-- **[Girls flag football is on a remarkable run](https://blankfoundation.org/blog/a-league-of-their-own-the-fastest-growing-sport-in-america-is-girls-flag-football/)** — One of America’s fastest-growing sports keeps gaining ground. (Morning Brew)
-- **[Danny Lewin’s final act aboard Flight 11 remembered](https://www.newsnationnow.com/us-news/sept11-anniversary/danny-lewin-first-casualty-of-9-11-flight-hijackers/)** — A remembrance arrives ahead of the 25th anniversary of 9/11. (NewsNation)
-- **[Putin meets US envoys for renewed Ukraine talks](https://www.csmonitor.com/World/2026/0905/putin-peace-talk-kushner-witkoff-envoys?icid=rss)** — Diplomacy resumes around a possible end to the war. (CS Monitor)
-- **[Witkoff confident in a “good resolution”](https://thehill.com/homenews/administration/6074505-witkoff-kushner-confident-ukraine-war-talks/)** — US officials voiced optimism about trilateral talks. (The Hill)
-- **[Brickbat: Itchy Taser Finger](https://reason.com/2026/09/07/brickbat-itchy-taser-finger/)** — Reason’s morning civil-liberties quick hit. (Reason)
-- **[Homeowners prepare for a “supersized” El Niño](https://www.newsweek.com/how-millions-of-homeowners-should-prepare-for-supersized-el-nino-this-winter-12404435)** — Winter planning starts early amid a potentially powerful weather cycle. (Newsweek)
+
+**THE WORLD ISN'T TAKING A HOLIDAY.**
+
+- **[August jobs report shows a bright spot for the economy](https://www.wsj.com/economy/jobs/august-jobs-report-unemployment-c9da2f0c)** — The latest labor report delivered an encouraging economic signal. (WSJ)
+- **[NHTSA opens probe into Tesla's Cybercab rollout](https://www.wsj.com/business/autos/nhtsa-opens-probe-into-teslas-cybercab-rollout-06aa6eac)** — Federal safety regulators are scrutinizing the rollout. (WSJ)
+- **[Girls flag football is on a remarkable run](https://blankfoundation.org/blog/a-league-of-their-own-the-fastest-growing-sport-in-america-is-girls-flag-football/)** — The sport's rapid growth is reshaping youth athletics. (Morning Brew)
+- **[Trump proposal would pay some parents to stay home with children](https://www.newsnationnow.com/politics/trump-administration-drafts-proposal-pay-at-home-parents/)** — A draft administration plan reportedly targets at-home parents. (NewsNation)
+- **[Iran vows response to US strikes](https://www.csmonitor.com/USA/Military/2026/0907/iran-us-war-strike-energy-strait-gulf?icid=rss)** — Tehran says American facilities are exposed as tensions rise. (CS Monitor)
+- **[German far-right candidate thanks Musk after state election win](https://thehill.com/policy/international/6074993-afd-wins-german-election-elon-musk/)** — The AfD victory is increasing pressure on Chancellor Merz. (The Hill)
+- **[Help workers by breaking down barriers to labor mobility](https://reason.com/volokh/2026/09/07/help-workers-by-breaking-down-barriers-to-labor-mobility-4/)** — The case centers on making it easier for workers to move where opportunity is. (Reason)
+- **[Common food additive may increase fat absorption](https://www.newsweek.com/common-food-additive-may-make-you-absorb-more-fat-study-finds-12412155)** — New research points to a possible nutritional effect. (Newsweek)
 
 ### AI & Tech Desk
-- **[Europe gets its first fully commercial orbital launch](https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/)** — A German company logged a milestone for Europe’s private space sector. (Ars Technica)
-- **[Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)** — The Internet Archive’s funding appeal led Hacker News with 456 points. (Hacker News)
+
+**SERVERS, ROCKETS AND A BETTER ZIP FILE.**
+
+- **[The complex corporate web behind a $3.2 billion AI data center](https://www.yahoo.com/news/us/articles/chief-lake-mariner-fire-exposed-035900037.html)** — A costly data-center project comes with a complicated ownership story. (Ars Technica)
+- **[German company launches Europe's first fully commercial orbital rocket](https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/)** — Europe's private launch business cleared a milestone. (Ars Technica)
+- **[Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)** — The Internet Archive is making a matched-fundraising push. (Hacker News)
+- **[bzip3](https://github.com/iczelia/bzip3)** — A new-generation compression tool drew developer interest. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS
-
-**Holiday Tape, Friday’s Numbers**
+## 📈 BUSINESS & MARKETS — LUNCH-HOUR TAPE
 
 ### Business Newswire
-- **[Oil touched a near seven-week high](https://www.marketwatch.com/story/oil-prices-hit-near-seven-week-highs-before-edging-lower-as-iran-plans-to-increase-control-of-hormuz-5070167c?mod=mw_rss_topstories)** — Hormuz concerns pushed crude higher before it eased. (MarketWatch)
-- **[Labor Day should mean more than a toast](https://www.forbes.com/sites/maryjosephs/2026/09/07/this-labor-day-do-more-than-toast-to-american-workers/)** — A holiday argument for investing in American workers. (Forbes)
+
+**MONEY LESSONS, THE HARD WAY.**
+
+- **[Three siblings inherited an IRA—can they cash it out?](https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories)** — An executor faces the tax and distribution questions that follow an inherited account. (MarketWatch)
+- **[A death without a will leaves a best friend powerless](https://www.marketwatch.com/story/please-dont-let-this-happen-to-you-my-best-friend-died-without-a-will-her-neglectful-family-gets-everything-a4e6753e?mod=mw_rss_topstories)** — The cautionary tale underscores why estate planning matters. (MarketWatch)
+- **[How Nift turns a gift into customers and loyalty](https://www.forbes.com/sites/pamdanziger/2026/09/07/how-nift-turns-a-gift-into-new-customers-for-one-brand-and-loyalty-for-another/)** — The marketing model trades gifts for customer acquisition and retention. (Forbes)
+- **[Aaron Judge nears Yankees return from fractured rib](https://www.forbes.com/sites/barrymbloom/2026/09/07/aaron-judge-on-verge-of-returning-to-the-yankees-from-a-fractured-rib/)** — A marquee return could arrive soon in the Bronx. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -96,25 +102,24 @@ Patchy rain nearby and 27°C, feeling like 31°C, with winds near 21 km/h. **Tod
 | [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,506.99 | +104.57 | +0.40% | 20,690.25–27,190.21 |
 | [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,975.65 | +3.28 | +0.11% | 2,303.46–3,069.71 |
 
-The S&P 500 and Russell 2000 sit near their 52-week highs. These are the latest fetched quotes, not fresh Labor Day trading.
-
 ### Federal Funds Rate
-**EFFR:** 3.63% · **Fed target range:** 3.50%–3.75%.
+
+**RATE CHECK:** Effective federal funds rate **3.63%**; Fed target range **3.50%–3.75%**.
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---:|
-| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.246% | -0.00 | 0.000%–5.326% |
-| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.757% | +0.02 | 0.000%–3.943% |
+| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.246% | -0.00 | 4.528%–5.326% |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.757% | +0.02 | 3.507%–3.943% |
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.564 | +0.26 | +0.42% | 52.409–62.762 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1624 | +0.00 | +0.05% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6988 | -0.03 | -0.40% | 6.6984–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.5950 | +0.29 | +0.47% | 52.409–62.762 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1631 | +0.00 | +0.11% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6991 | -0.03 | -0.40% | 6.6984–7.1909 |
 
 ### ETFs (with 52W Range)
 
@@ -148,39 +153,43 @@ The S&P 500 and Russell 2000 sit near their 52-week highs. These are the latest 
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $79,355.00 | -1,916.74 | -2.36% | $57,747.77–$126,198.07 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $78,847.19 | -2,424.55 | -2.98% | $57,747.77–$126,198.07 |
 | [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $91.48 | +1.26 | +1.40% | $54.98–$119.48 |
 
 ### Prediction Markets
-- Polymarket showed Alexandria Ocasio-Cortez at 18% in its 2028 Democratic nominee market; no verified movement was fetched.
-- Kalshi: *[Data unavailable]*
+
+*[Data unavailable]* — Kalshi failed, and Polymarket returned no verified significant mover.
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.84% top listed rate.
-- National regular: $4.1505; New Jersey regular: $4.2699. (AAA)
+
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): **6.84%** (Bankrate top listed rate)
+- National regular: **$4.1505**; New Jersey regular: **$4.2699** (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** Friday’s broad indexes barely moved, but several benchmarks and VXUS remain close to yearly highs. Markets are closed for Labor Day; don’t mistake stale tape for morning action.
+**BOTTOM LINE:** Stocks are mixed but steady; the S&P 500 sits within 1.3% of its 52-week high. VXUS is also near its high, while the peso quote is pressed against the edge of its yearly range.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + TODAY’S CARD
-
-**Baseball Handles the Holiday Shift**
+## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Wout van Aert wins Vuelta stage 15](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-wout-van-aert-wins-stage-15-from-a-five-rider-breakaway/)** — Van Aert finished off a five-rider breakaway. (Cycling / Cyclingnews)
-- **[Nils Politt wins as Tim Wellens seals Tour of Britain](https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-nils-politt-strikes-for-solo-stage-5-win-while-tim-wellens-secures-overall-title/)** — Politt took the stage; Wellens took the overall crown. (Cycling / Cyclingnews)
-- **[Tadej Pogačar’s 2026 season is over](https://www.cyclingnews.com/pro-cycling/teams-riders/tadej-pogacar-wont-race-again-in-2026-after-vuelta-a-espana-crash-but-extends-uae-contract-until-2032/)** — A Vuelta crash ended his campaign, though his UAE deal now runs through 2032. (Cycling / Cyclingnews)
 
-Other sports newswires: *[Data unavailable]*
+**THE PELOTON OWNS THE WIRE.** Most league feeds were unavailable; cycling delivered the usable headlines.
+
+- **[Jonas Vingegaard consoles a young fan](https://www.cyclingnews.com/pro-cycling/teams-riders/jonas-vingegaard-consoles-young-fan-dont-worry-i-wont-stop-riding/)** — Vingegaard reassured the fan that he isn't ready to stop riding. (Cycling / Cyclingnews)
+- **[Wout van Aert wins Vuelta stage 15](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-wout-van-aert-wins-stage-15-from-a-five-rider-breakaway/)** — Van Aert finished off a five-rider breakaway. (Cycling / Cyclingnews)
+- **[Nils Politt wins Tour of Britain stage 5 as Tim Wellens takes the title](https://www.cyclingnews.com/pro-cycling/racing/tour-of-britain-men-nils-politt-strikes-for-solo-stage-5-win-while-tim-wellens-secures-overall-title/)** — A solo stage victory shared the bill with Wellens' overall triumph. (Cycling / Cyclingnews)
+- **[Vuelta stage 15 shortened by 70km in extreme heat](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-stage-15-shortened-by-70km-to-protect-the-health-of-the-riders-in-extreme-heat/)** — Organizers cut the route to protect riders. (Cycling / Cyclingnews)
+- **[Van der Poel and Pogacar illuminate Paris](https://www.letour.fr/en/news/2026/stage-21/van-der-poel-and-pogacar-illuminate-paris/1356643)** — The Tour finale crowned its champions on the Champs-Élysées. (Cycling / Tour de France)
 
 ### Scoreboard
 
 #### ⚾ MLB
-[Standings](https://www.mlb.com/standings)
+[Standings: MLB](https://www.mlb.com/standings)
+
+**FIFTEEN FINALS, PLENTY OF CROOKED NUMBERS.**
 
 | Matchup | Final/Status | Box Score |
 |---|---:|---|
@@ -200,46 +209,52 @@ Other sports newswires: *[Data unavailable]*
 | Twins @ White Sox | CWS 10–1 | [Full box score](https://www.mlb.com/gameday/824552) |
 | Nationals @ Dodgers | LAD 7–5 | [Full box score](https://www.mlb.com/gameday/823903) |
 
-Upcoming MLB games were present only as scheduled rows without fetched start times or TV; *[Data unavailable]*.
+Upcoming start times and TV: *[Data unavailable]*
 
 #### 🚴 Cycling
-[Tour de France rankings](https://www.letour.fr/en/rankings)
+[Rankings: Tour de France](https://www.letour.fr/en/rankings)
 
-The completed 2026 Tour’s final GC: Tadej Pogačar won in 73:56:26, 6:26 ahead of Remco Evenepoel. Mathieu van der Poel won Stage 21 in 1:58:49.
+**PARIS BOOK CLOSED.** Mathieu van der Poel won Stage 21 in 1:58:49. Tadej Pogacar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
 ### Team Reports
 _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
 
 
-> **🏒 NJ DEVILS**  
-> Schedule data: *[Data unavailable]*  
-> **[Camp Meier — Summer in Herisau, Part 4](https://www.nhl.com/devils/news/part-4-camp-meier-summer-in-herisau-9-6-26)** — The Devils’ summer series continues.
+> **NY METS** — Beat San Francisco **W 4–2**. [Full box score](https://www.mlb.com/gameday/823578). Full team schedule feed: *[Data unavailable]*
 
-Other tracked team reports: *[Data unavailable]*
+> **NJ DEVILS** — **[Summer in Herisau: Part 5 — Training](https://www.nhl.com/devils/news/part-5-training-summer-in-herisau-9-7-26)**. Full team schedule feed: *[Data unavailable]*
+
+Other tracked-team reports: *[Data unavailable]*
 
 ---
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
-**Bronson Reed Crashes the Party**
-
 ### Upcoming TV / PLE Schedule
 
-| Group | Upcoming | Watch / Verify |
+| Group | Upcoming TV / PLE window | Watch / verify |
 |---|---|---|
-| WWE | Raw Sep. 7; SmackDown Sep. 11 | Netflix / USA / Peacock · [Events](https://www.wwe.com/events) |
-| NXT | TV Sep. 8 | CW / Peacock · [Events](https://www.wwe.com/events) |
-| AAA | Cards vary | [Official](https://www.luchalibreaaa.com/) |
-| AEW | Dynamite Sep. 9; Collision Sep. 12 | TBS / TNT / PPV · [Events](https://www.allelitewrestling.com/aew-events) |
-| ROH | TV Sep. 10 | HonorClub · [Official](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Sep. 10 | AXS / TNA+ · [Events](https://tnawrestling.com/events/) |
-| NJPW | Calendar-based tour cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
-| CMLL | Sep. 8, 11, 12, 13 | CMLL / YouTube · [Official](https://cmll.com/) |
+| WWE / NXT / AAA | Raw Sep. 7; NXT Sep. 8; SmackDown Sep. 11; AAA cards vary | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
+| AEW / ROH | Dynamite Sep. 9; ROH TV Sep. 10; Collision Sep. 12 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! Sep. 10 | [TNA](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
+| CMLL | Arena México Sep. 8, 11, 13; Coliseo Sep. 12 | [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[WWE SNME results: Orton beats Rhodes; Reed returns](https://www.postwrestling.com/2026/09/06/wwe-sunday-nights-main-event-2026-live-results-breakker-faces-oba-orton-vs-rhodes/)** — Sunday’s major angles in one recap. (POST Wrestling)
-- **[Bronson Reed: “The Vision Is Whole”](https://www.fightful.com/wrestling-news/bronson-reed-the-vision-is-whole)** — Reed spoke after his return. (Fightful)
-- **[AEW wrestler Andy Williams dead at 48](https://www.reddit.com/r/SquaredCircle/comments/1w8ux2s/aew_wrestler_andy_williams_dead_at_48/)** — The wrestling community mourns The Butcher. (r/SquaredCircle)
+
+**THE BELL RINGS TONIGHT.**
+
+- **[WWE Raw preview: a major women's title run is in jeopardy](https://www.cagesideseats.com/wwe/474214/wwe-raw-preview-sept-7-2026-labor-day-liv-morgan-vaquer-womens-world-title-money-in-the-bank)** (WWE / Cageside Seats)
+- **[AEW announces first Green Bay TV taping](https://www.postwrestling.com/2026/09/07/aew-announces-first-ever-green-bay-tv-taping-for-november-21/)** (AEW / POST Wrestling)
+- **[CMLL Domingo Familiar results](https://www.fightful.com/wrestling-news/cmll-domingo-familiar-results-9-6-2026-volador-jr-villanos-vs-titan-star-jr-neon-fuerza-tapatia-vs-maquina-de-la-destruccion-more)** (CMLL / Fightful)
+- **[TNA's Zoey Serrano says fear held her back in WWE](https://www.wrestlinginc.com/2252133/tna-zoey-serrano-stark-wwe-held-herself-back-scared-push-limit/)** (TNA / WrestlingInc)
+- **[Alexa Bliss responds to retirement rumors](https://411mania.com/wrestling/alexa-bliss-responds-rumors-retirement/)** (WWE / 411mania)
+
+### r/SquaredCircle
+
+- **[Post–WWE Sunday Night's Main Event discussion](https://www.reddit.com/r/SquaredCircle/comments/1w9eyly/post_wwe_sunday_nights_main_event_discussion/)**
+- **[CM Punk's tribute to Andy “The Butcher” Williams](https://www.reddit.com/r/SquaredCircle/comments/1w990aa/cm_punks_tribute_to_andy_the_butcher/)**
+- **[Statement from Enjoy Wrestling on Andy Williams](https://www.reddit.com/r/SquaredCircle/comments/1w9vh7j/ricky_sayer_kdka_reporter_from_pittsburgh_with_a/)**
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -251,34 +266,43 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Aug. 30, 2026 | **6.5** | Will Ospreay vs. Kenny Omega | AEW | All In |
 | Aug. 30, 2026 | 5 | Mercedes Moné vs. Willow Nightingale | AEW | All In |
 | Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 17 |
-| Dec. 27, 2025 | 5 | Kyle Fletcher vs. Jon Moxley | AEW | Worlds End |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
-**The Scroll Before the Commute**
+### Reddit — What's Trending
 
-### Reddit — What’s Trending
-- **r/BreakingPointsNews:** [Witkoff and Kushner arrive in Kyiv](https://www.reddit.com/r/BreakingPointsNews/comments/1w96j7d/witkoff_and_kushner_arrive_in_kyiv/)
-- **r/MMA:** [Alexa Grasso knocks out Maycee Barber](https://www.reddit.com/r/MMA/comments/1w9dw3k/alexa_grasso_knocks_out_maycee_barber/)
-- **r/NixOS:** [A blazingly fast NixOS launcher](https://www.reddit.com/r/NixOS/comments/1w9fzqc/a_launcher_that_works_blazingly_fast_on_nixos/)
-- **r/kubernetes:** [A mental model for Kubernetes, Slurm, Ray and Spark](https://www.reddit.com/r/kubernetes/comments/1w9m7zf/a_mental_model_for_distributed_compute_kubernetes/)
-- **r/sysadmin:** [Can anybody else get useful information from the logs?](https://www.reddit.com/r/sysadmin/comments/1w9l0wy/am_i_the_only_person_here_who_can_get_anything/)
+#### r/NixOS
+- **[devenv 2.3: Portless and TUI configuration](https://www.reddit.com/r/NixOS/comments/1w9sf5b/devenv_23_portless_and_tui_configuration/)**
+
+#### r/DataScienceJobs
+- **[[Hiring] Staff Data Scientist at Oscilar — Remote, $210K–$250K](https://www.reddit.com/r/DataScienceJobs/comments/1w9sv1y/hiring_staff_data_scientist_at_oscilar_remote/)**
+
+#### r/MMA
+- **[Douglas Lima knocks out Michael “Venom” Page](https://www.reddit.com/r/MMA/comments/1w9uztm/douglas_lima_knocks_out_michael_venom_page/)**
+
+#### r/vintageobscura
+- **[Akiko — Mellow Mellow (1995)](https://www.reddit.com/r/vintageobscura/comments/1w9uxxg/akiko_mellow_mellow_japan_jpop_rb_new_jack_swing/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **GothamChess:** [Want to be 1800 in Chess?](https://www.youtube.com/watch?v=cHZr-Lp8Sa8)
-- **House of Highlights:** [Giants vs. Mets full-game highlights](https://www.youtube.com/watch?v=uzCNOrHeK1o)
-- **The PrimeTime:** [Your CS Degree Is Teaching You the Wrong Things](https://www.youtube.com/watch?v=ZKxq7lgqpIM)
+
+**GothamChess**: [Want to be 1800 in Chess?](https://www.youtube.com/watch?v=cHZr-Lp8Sa8)
+
+**House of Highlights**: [Nationals vs. Dodgers — full game highlights](https://www.youtube.com/watch?v=hDeCTFv17DQ)
+
+**Doug Polk Poker**: [Runner runner](https://www.youtube.com/shorts/ryJ5CiNqBtg)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **DistroWatch:** [NetBSD 9.5 released](https://www.tuxedocomputers.com/)
-- **gHacks:** [Windows 11 will auto-enable Memory Integrity](https://www.ghacks.net/2026/09/07/windows-11-will-auto-enable-memory-integrity-starting-in-october-with-possible-gaming-impact-on-older-cpus/)
-- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/09/knicks-morning-news-2026-09-06/)
-- **The Indicator:** [Which jobs are future-proofed?](https://www.bls.gov/ooh/)
+
+**Budget Bytes**: [Butternut Squash Lasagna](https://www.budgetbytes.com/butternut-squash-lasagna/)
+
+**Cover Me**: [John Mayer covers “I Will Always Love You” for Dolly Parton](https://www.covermesongs.com/2026/09/john-mayer-covers-i-will-always-love-you-for-dolly-parton.html)
+
+**gHacks**: [Windows 11 will auto-enable Memory Integrity in October](https://www.ghacks.net/2026/09/07/windows-11-will-auto-enable-memory-integrity-starting-in-october-with-possible-gaming-impact-on-older-cpus/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-Sunny skies, a full baseball slate, and enough time for pork roll before first pitch. Have a good one, folks.
+**Finish that sandwich and keep moving, folks.** The sun's working the afternoon shift in Toms River—and the pork roll won't eat itself.
