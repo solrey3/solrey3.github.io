@@ -34,60 +34,54 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-09-09T18:00:12-04:00_  
-_Source: `2026-09-09-evening-dispatch.md`_
+_Originally generated: 2026-09-10T00:00:12-04:00_  
+_Source: `2026-09-10-midnight-dispatch.md`_
 
-# 🌙 THE EVENING BRIEF — Wednesday, September 9, 2026
-> "The closing bell rang, but the oil market kept everybody awake."
+# 🌙 THE MIDNIGHT DISPATCH — Thursday, September 10, 2026
+> “The late shift keeps the coffee hot and one eye on the scoreboard.”
 
 ---
 
-## 🌙 SHORE FORECAST & BEYOND
-
-**A WARM SHORE NIGHT, THEN SHOWERS KNOCK**
+## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-Overcast and 85°F with a northeast breeze near 12 mph. Tonight heads toward 64°F; Thursday brings patchy nearby rain, a high of 81°F, low of 72°F and 28% rain chance.
+**CLOUDS NOW, SHOWERS MAYBE LATER.** Overcast and 74°F, with an 11 mph breeze. Thursday brings patchy nearby rain, a high of 81°F, a low of 72°F and a 28% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-Light rain showers and 25°C, with a 12 km/h northerly wind. Thursday stays showery: high 25°C, low 24°C, rain chance 68%.
+**KEEP THE UMBRELLA HANDY.** Light rain showers and 26°C, with a 4 km/h breeze. Thursday stays showery, high 26°C and low 24°C, with a 58% rain chance; Friday reaches 27°C with a 24°C low.
 
 ---
 
 ## 📰 TOP STORIES
 
-**APPLE BENDS THE PHONE; POLITICS STAYS RIGID**
-
 ### Headlines
-- **[Apple to debut a foldable iPhone, new CEO and new prices](https://www.wsj.com/tech/apple-to-debut-new-foldable-iphone-new-ceo-and-new-prices-b2485b9f)** — Apple unveiled its long-rumored $2,000 foldable. (WSJ)
-- **[States rethink billions in data-center tax breaks](https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9)** — Governments are revisiting costly incentive deals. (WSJ)
-- **[Canada’s $20 billion retaliatory tariffs take effect](https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html)** — A fresh trade fight targets a jetmaker. (Morning Brew)
-- **[Fight for Congress takes center stage at GOP convention](https://www.newsnationnow.com/politics/gop-midterm-convention-fight-control-of-congress/)** — The midterm battle moved to Dallas. (NewsNation)
-- **[In Mexico, dual citizenship becomes a political liability](https://www.csmonitor.com/World/Americas/2026/0909/mexico-nationality-citizenship-sovereignty-dual-citizen?icid=rss)** — Sovereignty politics are sharpening the debate. (CS Monitor)
-- **[Missouri’s GOP-friendly congressional map returns to Supreme Court](https://thehill.com/regulation/court-battles/6080134-supreme-court-missouri-redistricting-republicans/)** — Redistricting is back before the justices. (The Hill)
-- **[The Feds Are Spying on Your Bank Account](https://reason.com/2026/09/09/the-feds-are-spying-on-your-bank-account/)** — Reason examines federal financial surveillance. (Reason)
-- *[Data unavailable: Newsweek]*
+- **[Apple to debut a foldable iPhone, new CEO and new prices](https://www.wsj.com/tech/apple-to-debut-new-foldable-iphone-new-ceo-and-new-prices-b2485b9f)** — Apple’s new foldable carries a reported $2,000 price tag. (WSJ)
+- **[States rethink billions in data-center tax breaks](https://www.wsj.com/politics/policy/states-that-gave-data-centers-billions-in-tax-breaks-are-now-ripping-up-the-deals-4879c4f9)** — The AI infrastructure bargain is getting a second look. (WSJ)
+- **[Canada’s $20 billion retaliatory tariffs take effect](https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html)** — A fresh trade front puts an aircraft maker in Washington’s sights. (Morning Brew)
+- **[Trump promises a $5K dividend if Republicans win](https://www.newsnationnow.com/politics/trump-5k-dividend-republicans-win-midterms/)** — The pledge landed as control of Congress dominated the GOP convention. (NewsNation)
+- **[Dual citizenship becomes a political liability in Mexico](https://www.csmonitor.com/World/Americas/2026/0909/mexico-nationality-citizenship-sovereignty-dual-citizen?icid=rss)** — Nationality and sovereignty are colliding in public debate. (CS Monitor)
+- **[Fetterman says he’ll remain in the Democratic caucus](https://thehill.com/homenews/senate/6080746-fetterman-democrat-caucus-gop-midterm-video/)** — He answered questions after appearing by video at the GOP convention. (The Hill)
+- **[ATF firearm rules ruled invalid](https://reason.com/volokh/2026/09/09/second-amendment-roundup-atfs-firearm-and-frame-or-receiver-rules-invalid/)** — A legal roundup examines the agency’s “frame or receiver” rules. (Reason)
+- **[Yankees make a call-up amid Jazz Chisholm Jr. injury news](https://www.newsweek.com/sports/mlb/yankees-making-bold-call-up-amid-jazz-chisholm-jr-injury-news-12423570)** — New York adjusts its roster down the stretch. (Newsweek)
 
 ### AI & Tech Desk
-- **[Six Chinese AI firms accused of copying U.S. frontier models](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a)** — A cybersecurity advisory puts model replication in focus. (Ars Technica)
-- **[Apple’s foldable becomes the $2,000 iPhone Duo](https://arstechnica.com/gadgets/2024/07/report-apple-begins-serious-work-on-a-foldable-iphone/)** — The long-rumored device is now reality. (Ars Technica)
-- **[Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)** — The developer-tool deal topped Hacker News attention. (Hacker News)
-- **[AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/)** — Apple introduced open-ear active noise cancellation. (Hacker News)
+- **[Four groups used the same Chrome and Windows exploit kit](https://www.proofpoint.com/us/blog/threat-insight/once-bluemoon-multiple-state-aligned-threat-actors-rapidly-adopt-novel-exploit)** — State-aligned actors rapidly adopted the toolset. (Ars Technica)
+- **[Six Chinese AI firms accused of copying U.S. frontier models](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-251a)** — Model replication claims sharpen the AI rivalry. (Ars Technica)
+- **[Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)** — The front-end framework joins the commerce platform. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
-
-**OIL SURGES; STOCKS MOSTLY HOLD THE LINE**
+## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
 
 ### Business Newswire
-- **[Oil above $100 fuels fresh inflation fears](https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories)** — Crude’s jump complicates the interest-rate outlook. (MarketWatch)
-- **[The bull market’s biggest enemy could be Bessent’s interventions](https://www.marketwatch.com/story/the-bull-markets-biggest-enemy-right-now-could-be-bessents-interventions-134bbe78?mod=mw_rss_topstories)** — Policy intervention is emerging as a market risk. (MarketWatch)
-- **[Apple’s new Siri AI can recap conversations](https://www.forbes.com/sites/antoniopequenoiv/2026/09/09/apples-new-siri-ai-can-recap-your-conversations-what-to-know/)** — Apple added a consequential AI capability. (Forbes)
+- **[Trump promises $5,000 checks if Republicans win](https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories)** — MarketWatch notes earlier tariff and “DOGE” dividend talk did not produce checks. (MarketWatch)
+- **[Hunter Biden memecoin loses 95% within hours](https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories)** — $LAPTOP delivered a near-instant crypto wipeout. (MarketWatch)
+- **[Diesel hits another record high](https://www.marketwatch.com/story/diesel-prices-hit-another-record-high-if-youre-shocked-wait-until-you-see-your-grocery-bill-afee7076?mod=mw_rss_topstories)** — Freight costs threaten another grocery-price squeeze. (MarketWatch)
+- **[Trump promises a $5,000 dividend for every adult citizen](https://www.forbes.com/sites/siladityaray/2026/09/09/trump-promises-5000-dividend-for-every-adult-citizen-if-republicans-win-midterms/)** — The campaign pledge is tied to a Republican midterm victory. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -98,10 +92,8 @@ Light rain showers and 25°C, with a 12 km/h northerly wind. Thursday stays show
 | [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,253.34 | +153.57 | +0.59% | 20,690.25–27,190.21 |
 | [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,921.23 | +1.10 | +0.04% | 2,303.46–3,069.71 |
 
-The S&P 500 and Nasdaq remain near their 52-week highs.
-
 ### Federal Funds Rate
-**Effective rate (EFFR): 3.63% · Fed target range: 3.50%–3.75%.**
+**EFFR:** 3.63% · **Fed target range:** 3.50%–3.75%
 
 ### Treasury Rates (with 52W Range)
 
@@ -110,77 +102,74 @@ The S&P 500 and Nasdaq remain near their 52-week highs.
 | 30-Year Treasury | 5.286% | +0.02 | 4.528%–5.326% |
 | [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.805% | +0.03 | 3.507%–3.940% |
 
-The long bond is pressing its 52-week ceiling.
-
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.443 | -0.04 | -0.06% | 52.409–62.809 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.164 | +0.01 | +0.47% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6977 | -0.02 | -0.32% | 6.6942–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.477 | +0.08 | +0.13% | 52.409–62.809 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1641 | +0.00 | +0.11% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6969 | -0.02 | -0.33% | 6.6965–7.1909 |
 
 ### ETFs (with 52W Range)
 
 | ETF (Symbol — Name) | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | 103.52 | +0.67 | +0.65% | 81.45–107.07 |
-| [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | 34.09 | -0.72 | -2.07% | 26.32–35.31 |
-| [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | 87.41 | +0.70 | +0.81% | 72.08–88.62 |
-| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | 241.89 | -1.75 | -0.72% | 198.76–251.85 |
-| [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | 94.94 | -1.36 | -1.41% | 86.84–101.80 |
+| [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | $103.52 | +$0.67 | +0.65% | $81.45–$107.07 |
+| [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | $34.09 | -$0.72 | -2.07% | $26.32–$35.31 |
+| [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | $87.41 | +$0.70 | +0.81% | $72.08–$88.62 |
+| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | $241.89 | -$1.75 | -0.72% | $198.76–$251.85 |
+| [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | $94.94 | -$1.36 | -1.41% | $86.84–$101.80 |
 
 ### Stock Watch (with 52W Range)
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | 223.67 | +6.23 | +2.87% | 164.27–236.54 |
-| [TSM](https://www.marketwatch.com/investing/stock/tsm) | 435.36 | +21.36 | +5.16% | 257.75–479.00 |
-| [AMD](https://www.marketwatch.com/investing/stock/amd) | 521.10 | +61.49 | +13.38% | 149.85–584.73 |
-| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | 252.40 | -2.52 | -0.99% | 196.00–287.20 |
-| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | 76.03 | -4.78 | -5.92% | 65.08–126.70 |
-| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | 367.81 | +11.72 | +3.29% | 297.38–498.83 |
-| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | 52.17 | -0.23 | -0.44% | 38.46–79.22 |
-| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | 506.72 | +4.39 | +0.87% | 464.01–537.74 |
-| [AXP](https://www.marketwatch.com/investing/stock/axp) | 321.80 | -2.39 | -0.74% | 290.97–387.49 |
-| [SCHW](https://www.marketwatch.com/investing/stock/schw) | 106.54 | -1.74 | -1.61% | 83.96–114.53 |
-| [RL](https://www.marketwatch.com/investing/stock/rl) | 335.61 | -5.21 | -1.53% | 299.98–421.60 |
-| [COST](https://www.marketwatch.com/investing/stock/cost) | 902.60 | -37.36 | -3.97% | 844.06–1,096.50 |
-| [UPS](https://www.marketwatch.com/investing/stock/ups) | 99.22 | -3.44 | -3.35% | 82.00–122.41 |
+| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | $223.67 | +$6.23 | +2.87% | $164.27–$236.54 |
+| [TSM](https://www.marketwatch.com/investing/stock/tsm) | $435.36 | +$21.36 | +5.16% | $257.98–$479.00 |
+| [AMD](https://www.marketwatch.com/investing/stock/amd) | $521.10 | +$61.49 | +13.38% | $149.85–$584.73 |
+| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | $252.40 | -$2.52 | -0.99% | $196.00–$287.20 |
+| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | $76.03 | -$4.78 | -5.92% | $65.08–$125.35 |
+| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | $367.81 | +$11.72 | +3.29% | $297.38–$498.83 |
+| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | $52.17 | -$0.23 | -0.44% | $38.46–$79.22 |
+| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | $506.72 | +$4.39 | +0.87% | $464.01–$537.74 |
+| [AXP](https://www.marketwatch.com/investing/stock/axp) | $321.80 | -$2.39 | -0.74% | $290.97–$387.49 |
+| [SCHW](https://www.marketwatch.com/investing/stock/schw) | $106.54 | -$1.74 | -1.61% | $83.96–$114.53 |
+| [RL](https://www.marketwatch.com/investing/stock/rl) | $335.61 | -$5.21 | -1.53% | $299.98–$421.60 |
+| [COST](https://www.marketwatch.com/investing/stock/cost) | $902.60 | -$37.36 | -3.97% | $844.06–$1,096.50 |
+| [UPS](https://www.marketwatch.com/investing/stock/ups) | $99.22 | -$3.44 | -3.35% | $82.00–$122.41 |
 
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $78,159.95 | -$1,663.92 | -2.08% | $57,747.77–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $96.67 | +$5.37 | +5.88% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $78,278.47 | -$2,071.58 | -2.58% | $57,747.77–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $96.11 | +$4.63 | +5.06% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-📢 **AMD +13.38% and WTI +5.88%:** chip shares ripped while oil’s surge revived inflation pressure—the market’s two hottest burners were pointed in opposite economic directions.
+📢 **AMD +13.38%** cleared the individual-stock threshold, while **WTI +5.06%** crossed the commodity line—chips ran hot and fuel got pricier.
 
 ### Prediction Markets
-*[Data unavailable: no reliably extracted notable movers]*
+- Polymarket showed the 2028 Democratic nominee market with Alexandria Ocasio-Cortez at 19%; no verified movement figure was fetched.
+- Kalshi: *[Data unavailable]*
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.83% (Bankrate)
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.85%
 - National regular: $4.2245; New Jersey regular: $4.3182 (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** Tech kept the broad market steady, but the Dow slipped and oil delivered the day’s jolt. The S&P remains close to its yearly high; so do long-term Treasury yields.
+**BOTTOM LINE:** The S&P 500 sits near its 52-week high, but the quiet index finish hid a 13% AMD surge and a 5% oil jump. The PHP quote is also near its 52-week extreme.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
-
-**BASEBALL FILLS THE BOARD; BRENNAN OWNS THE SPRINT**
+## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Matthew Brennan storms to a fifth Vuelta stage victory](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-matthew-brennan-storms-to-an-extraordinary-fifth-victory-on-stage-17-after-a-furious-sprint-into-sevilla/)** — Brennan won Stage 17 in Sevilla. (Cycling / Cyclingnews)
-- **[Vuelta Stage 18 time-trial start times](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-18-time-trial-start-times/)** — The race turns to the clock next. (Cycling / Cyclingnews)
-- **[Pogačar’s absence reshapes World Championship tactics](https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-absence-changes-everything-how-will-world-championships-strategies-and-tactics-be-rewritten-in-montreal/)** — Montreal’s strategic picture just opened up. (Cycling / Cyclingnews)
-- *[Data unavailable: other sports newswires]*
+- **[Vuelta Stage 18 time-trial start times](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-2026-stage-18-time-trial-start-times/)** — The clock becomes the opponent in Thursday’s race. (Cycling / Cyclingnews)
+- **[Matthew Brennan storms to a fifth Vuelta stage win](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-matthew-brennan-storms-to-an-extraordinary-fifth-victory-on-stage-17-after-a-furious-sprint-into-sevilla/)** — Brennan ruled the Stage 17 sprint into Sevilla. (Cycling / Cyclingnews)
+- **[Pogačar’s absence reshapes world-championship tactics](https://www.cyclingnews.com/pro-cycling/racing/tadej-pogacars-absence-changes-everything-how-will-world-championships-strategies-and-tactics-be-rewritten-in-montreal/)** — Montreal’s contenders face a radically different race. (Cycling / Cyclingnews)
+- Other league newswires: *[Data unavailable]*
 
 ### Scoreboard
 
@@ -188,65 +177,46 @@ _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.let
 Standings: [MLB standings](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
-|---|---|---|
-| Guardians @ Orioles | Cleveland 9–5 | [Full box score](https://www.mlb.com/gameday/824792) |
-| Twins @ Tigers | Minnesota 3–2 | [Full box score](https://www.mlb.com/gameday/824228) |
-| Astros @ Phillies | Houston 6–5 | [Full box score](https://www.mlb.com/gameday/823414) |
-| Mets @ Marlins | New York 7–5 | [Full box score](https://www.mlb.com/gameday/823821) |
-| Angels @ Red Sox | Los Angeles 6–1 | [Full box score](https://www.mlb.com/gameday/824714) |
-| Rockies @ Yankees | New York 5–3 | [Full box score](https://www.mlb.com/gameday/823500) |
-| Rays @ Braves | Tampa Bay 7–1 | [Full box score](https://www.mlb.com/gameday/824875) |
-| Diamondbacks @ Royals | Arizona 5–3 | [Full box score](https://www.mlb.com/gameday/824063) |
-| Pirates @ White Sox | Pittsburgh 9–3 | [Full box score](https://www.mlb.com/gameday/824551) |
-| Cubs @ Brewers | Milwaukee 4–3 | [Full box score](https://www.mlb.com/gameday/823738) |
-| Nationals @ Padres | San Diego 5–4 | [Full box score](https://www.mlb.com/gameday/823250) |
-| Rangers @ Mariners | Texas 10–5 | [Full box score](https://www.mlb.com/gameday/823092) |
-| Blue Jays @ Athletics | Toronto 4–2 | [Full box score](https://www.mlb.com/gameday/824957) |
-| Cardinals @ Giants | San Francisco 2–1 | [Full box score](https://www.mlb.com/gameday/823174) |
-| Reds @ Dodgers | Los Angeles 3–2 | [Full box score](https://www.mlb.com/gameday/823901) |
-| Twins @ Tigers | Detroit 7–2 | [Full box score](https://www.mlb.com/gameday/824226) |
-| Blue Jays @ Athletics | Athletics 2–0 | [Full box score](https://www.mlb.com/gameday/824956) |
-| Cardinals @ Giants | In progress: STL 6–1 | [Full box score](https://www.mlb.com/gameday/823172) |
-| Nationals @ Padres | In progress: SD 7–2 | [Full box score](https://www.mlb.com/gameday/823251) |
-| Rangers @ Mariners | In progress: SEA 3–1 | [Full box score](https://www.mlb.com/gameday/823090) |
+|---|---:|---|
+| Mets @ Marlins | NYM 15, MIA 14 | [Full box score](https://www.mlb.com/gameday/823818) |
+| Astros @ Phillies | PHI 11, HOU 7 | [Full box score](https://www.mlb.com/gameday/823416) |
+| Cubs @ Brewers | MIL 8, CHC 6 | [Full box score](https://www.mlb.com/gameday/823739) |
+| Reds @ Dodgers | LAD 11, CIN 1 — In progress | [Full box score](https://www.mlb.com/gameday/823900) |
 
-Upcoming start times and TV: *[Data unavailable]*
+**Late-inning mood:** The Mets survived a 29-run pinball game in Miami. Full remaining scoreboard data was fetched, but the overnight card above carries the marquee late results.
 
 #### 🚴 Cycling
 Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 
-The completed Tour’s Stage 21 went to Mathieu van der Poel in 1:58:49. Tadej Pogačar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
+The completed Tour’s Stage 21 went to Mathieu van der Poel in 1:58:49; Tadej Pogačar won the general classification in 73:56:26. At the Vuelta, Brennan claimed Stage 17 and Stage 18’s time trial is next.
 
-> **NJ DEVILS TEAM REPORT**  
-> Schedule/results: *[Data unavailable]*  
-> **[Part 5: Training — Summer in Herisau](https://www.nhl.com/devils/news/part-5-training-summer-in-herisau-9-7-26)** · **[Part 4: Camp Meier](https://www.nhl.com/devils/news/part-4-camp-meier-summer-in-herisau-9-6-26)**
+#### Team Reports — NJ Devils
+- **[Part 5: Training — Summer in Herisau](https://www.nhl.com/devils/news/part-5-training-summer-in-herisau-9-7-26)** — The club’s offseason series checks in on training.
+- Team schedule: *[Data unavailable]*
+- Other tracked team reports: *[Data unavailable]*
 
 ---
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
-**DYNAMITE TONIGHT; THE CALENDAR STAYS PACKED**
+### Major Show Spotlight — AEW Rebel Heart
+- **[Rebel Heart results](https://www.postwrestling.com/2026/09/09/aew-dynamite-rebel-heart-live-results-ospreay-vs-finlay-trios-title-match/)** — New Level and Strickland retained trios gold; Steven Borden made his in-ring debut.
+- **[Post-show discussion](https://www.reddit.com/r/SquaredCircle/comments/1wc5wlq/post_aew_rebel_heart_dynamite_september_09_2026/)** — The squared-circle night shift weighs in.
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Upcoming TV / PLE window | Watch / verify |
+| Group | Next show/window | Watch / verify |
 |---|---|---|
-| WWE | SmackDown Sep. 11; Raw Sep. 14 | Netflix / USA / Peacock · [WWE events](https://www.wwe.com/events) |
-| NXT | NXT TV Sep. 15 | The CW / Peacock · [WWE events](https://www.wwe.com/events) |
-| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
-| AEW | Dynamite Sep. 9; Collision Sep. 12 | TBS / TNT / PPV · [AEW events](https://www.allelitewrestling.com/aew-events) |
-| ROH | ROH TV Sep. 10 | HonorClub · [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Sep. 10 | AXS TV / TNA+ · [TNA events](https://tnawrestling.com/events/) |
-| NJPW | Calendar-based tour cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
-| CMLL | Sep. 11–15 Arena México/Coliseo cards | [CMLL](https://cmll.com/) |
+| WWE / NXT / AAA | SmackDown Sep. 11; Raw Sep. 14; NXT Sep. 15; AAA varies | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
+| AEW / ROH | ROH Sep. 10; Collision Sep. 12; Dynamite Sep. 16 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! Sep. 10 | [TNA](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
+| CMLL | Arena México Sep. 11, 13, 15; Coliseo Sep. 12 | [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[WWE] [WWE launches its first Spanish-language podcast](https://www.fightful.com/wrestling-news/wwe-launches-wwe-ahora-first-ever-spanish-language-podcast)** (Fightful)
-- **[AEW] [Celebration of Life announced for Andy Williams](https://www.cagesideseats.com/aew/474736/celebration-of-life-announced-for-andy-the-butcher-williams-as-aews-memorials-begin)** (Cageside Seats)
-- **[CMLL] [Tessa Blanchard to face Starlight Kid](https://411mania.com/wrestling/tessa-blanchard-set-face-starlight-kid-cmll/)** (411mania)
-- **[AEW] [Taya Valkyrie joins The Traitors Canada](https://www.postwrestling.com/2026/09/09/aews-taya-valkyrie-to-appear-on-reality-show-the-traitors-canada-beginning-sept-21/)** (POST Wrestling)
-- **[NXT post-show discussion](https://www.reddit.com/r/SquaredCircle/comments/1wb897z/post_wwe_nxt_982026_show_discussion_thread/)** (r/SquaredCircle)
-- **[GoFundMe for Mercedes Martinez’s knee surgery](https://www.reddit.com/r/SquaredCircle/comments/1wbtx4j/gofundme_for_mercedes_martinezs_knee_surgery_as/)** (r/SquaredCircle)
+- **[AEW books Jericho–Wayne and Death Riders–United Empire](https://www.postwrestling.com/2026/09/09/death-riders-vs-united-empire-jericho-vs-nick-wayne-booked-for-9-16-aew-dynamite/)** — Dynamite’s Sep. 16 card takes shape. **[AEW]**
+- **[Collision will honor Andy Williams](https://www.fightful.com/wrestling-news/aew-collision-butcher-327540)** — Saturday’s show is set as a tribute to The Butcher. **[AEW]**
+- **[Steven Borden wins his TV debut](https://www.cagesideseats.com/aew/474837/steven-borden-jr-sting-son-wins-aew-tv-debut-match-scorpion-coffin-drop-finisher-young-bucks)** — Sting’s son teamed with Darby Allin on Dynamite. **[AEW]**
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -259,42 +229,37 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Aug. 30, 2026 | 5 | Mercedes Moné vs. Willow Nightingale | AEW | All In |
 | Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 17 |
 | Aug. 16, 2026 | 5.5 | Yuya Uemura vs. Ryohei Oiwa | NJPW | G1 Climax 36 Final |
+| Dec. 27, 2025 | 5 | Kyle Fletcher vs. Jon Moxley | AEW | Worlds End |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
-**THE PERSONAL WIRE**
-
 ### Reddit — What's Trending
 #### r/TomsRiver
 - **[Not using sidewalks](https://www.reddit.com/r/TomsRiver/comments/1wbpnt5/not_using_sidewalks/)**
-#### r/Bitcoin
-- **[What are your thoughts on the actual inflation rate?](https://www.reddit.com/r/Bitcoin/comments/1wbhys5/what_are_your_thoughts_on_the_actual_inflation/)**
-#### r/devops
-- **[Do experienced engineers actually write YAML like this?](https://www.reddit.com/r/devops/comments/1wbu37v/beginner_devops_question_do_experienced_engineers/)**
-#### r/iphone
-- **[Apple announces foldable iPhone Duo](https://www.reddit.com/r/iphone/comments/1wbsyos/apple_announces_foldable_iphone_duo/)**
-#### r/mets
-- **[Mets discussion after the Mendoza firing](https://www.reddit.com/r/mets/comments/1wbtbnu/the_mets_are_3331_since_firing_mendoza_had/)**
+
+#### r/NixOS
+- **[Switching to GUIX made me realize the things Nix lacks](https://www.reddit.com/r/NixOS/comments/1wbpdc0/switching_to_guix_made_me_realize_the_things_nix/)**
+- **[Review a pull request by booting it](https://www.reddit.com/r/NixOS/comments/1wc3ap2/review_a_pull_request_by_booting_it/)**
+
+#### r/selfhosted
+- **[Automattic CEO Matt Mullenweg put on leave by board](https://www.reddit.com/r/selfhosted/comments/1wc01x4/wordpress_automattic_ceo_matt_mullenweg_put_on/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **Breaking Points:** [Iran launches biggest strikes yet as oil spikes](https://www.youtube.com/watch?v=ejxMTDx3imU)
-- **fern:** [The FBI Agent Who Infiltrated the Mafia](https://www.youtube.com/watch?v=hK8kzWOBi-U)
-- **Fireship:** [I built the same game with Astra and Fable 5.1](https://www.youtube.com/watch?v=2Xiljy4xzbc)
-- **Glenn Greenwald:** [What are AI leaders really up to?](https://www.youtube.com/watch?v=icQzNybpVhI)
-- **Pablo Torre Finds Out:** [Clippers vs. NBA, Steve Ballmer and ESPN](https://www.youtube.com/watch?v=96mgCDr7G7M)
+**Fireship**: [I built the same game with Astra and Fable 5.1... only one was fun](https://www.youtube.com/watch?v=2Xiljy4xzbc)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **Budget Bytes:** [Chicken Tenders](https://www.budgetbytes.com/chicken-tenders/)
-- **Dedoimedo:** [Tame Firefox UI ergonomics](https://www.dedoimedo.com/computers/firefox-ergonomics-themes.html)
-- **gHacks:** [WhatsApp tests guest calls without accounts](https://www.ghacks.net/2026/09/09/whatsapp-is-testing-guest-calls-that-let-people-join-without-an-account/)
-- **Jersey Digs:** [Three-tower Jersey City project unveils renderings](https://jerseydigs.com/310-washington-jersey-city-rendering/)
-- **Planet Money:** [Cost-cutting, quiet guilt and the inflation generation](https://lnk.to/i3AukBdD)
-- **xkcd:** [Fault Taunting](https://xkcd.com/3296/)
+**Budget Bytes**: [Chicken Tenders](https://www.budgetbytes.com/chicken-tenders/)
+
+**Jersey Digs**: [Three-tower Jersey City project unveils new renderings](https://jerseydigs.com/310-washington-jersey-city-rendering/)
+
+**gHacks**: [WhatsApp tests guest calls without an account](https://www.ghacks.net/2026/09/09/whatsapp-is-testing-guest-calls-that-let-people-join-without-an-account/)
+
+**Planet Money**: [Cost-cutting, quiet guilt and the inflation generation](https://lnk.to/i3AukBdD)
 
 ---
 
 ## 👋 SIGN-OFF
 
-That’s all for tonight, folks. Tomorrow brings Shore showers—keep the umbrella by the pork roll.
+Lights out, folks—the Shore is cloudy, the Mets’ scorekeeper needs a nap, and the boardwalk gets another run tomorrow.
