@@ -34,57 +34,53 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-09-10T22:02:35+00:00_  
-_Source: `2026-09-10-evening-dispatch.md`_
+_Originally generated: 2026-09-11T04:02:16+00:00_  
+_Source: `2026-09-11-midnight-dispatch.md`_
 
-# 🌙 THE EVENING BRIEF — Thursday, September 10, 2026
-> “The closing bell rang, the box scores landed, and the Shore is still warm.”
+# 🌙 THE MIDNIGHT DISPATCH — Friday, September 11, 2026
+> “The day changes, the overnight desk keeps the light on.”
 
 ---
 
-## 🌙 SHORE FORECAST & BEYOND
+## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**HOT DAY GIVES WAY TO CLOUDS.** Sunny and 90°F with a southeast breeze near 9 mph. Tonight bottoms out near 73°F; Friday turns overcast, high 85°F and low 66°F, with a 10% rain chance.
+**CLEAR NOW, CLOUDS AHEAD:** 74°F with a 5 mph breeze. Friday turns overcast, high 83°F, low 70°F, with a 10% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**SHOWERS STICK AROUND.** Light rain and 25°C, feeling like 29°C, with wind near 7 km/h. Friday brings patchy nearby rain, high 28°C and low 24°C, with a 24% rain chance.
+**KEEP THE UMBRELLA CLOSE:** Patchy rain nearby, 26°C with an 8 km/h breeze. Friday brings light rain showers, high 28°C, low 24°C, and a 35% rain chance.
 
 ---
 
 ## 📰 TOP STORIES
 
 ### Headlines
-
-- **[Anthropic researcher quits over out-of-control AI fears](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)** — The AI-doomsday debate moved from theory to a high-profile resignation. (WSJ)
-- **[Apple hopes you’ll see this new iPhone and fold](https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date)** — Apple’s foldable phone took center stage. (Morning Brew)
-- **[Canada makes military deal with Ukraine as Russian attacks escalate](https://www.newsnationnow.com/world/russia-at-war/canada-military-deal-ukraine-russia-kyiv/)** — Ottawa deepened defense ties with Kyiv. (NewsNation)
-- **[Why Saudi Arabia and the Houthis in Yemen are heading toward war](https://www.csmonitor.com/World/Middle-East/2026/0910/yemen-houthis-saudi-iran-shipping-red-sea?icid=rss)** — Red Sea tensions are pushing the rivals closer to open conflict. (CS Monitor)
-- **[Lummis ramps up pressure on Democrats over crypto bill](https://thehill.com/policy/technology/6083142-lummis-pushes-democrats-clarity-act/)** — The Senate’s crypto fight tightened around the CLARITY Act. (The Hill)
-- **[First Circuit refuses to stay injunction against Trump’s mail-in voting order](https://reason.com/volokh/2026/09/10/first-circuit-refuses-to-stay-district-court-injunction-against-trumps-executive-order-on-mail-in-voting/)** — The lower-court block remains in place. (Reason)
+- **[Anthropic researcher quits over out-of-control AI fears](https://www.wsj.com/tech/ai/anthropic-researcher-quits-over-out-of-control-ai-fears-707b7628)** — AI-risk anxiety moves from theory to resignation letter. (WSJ)
+- **[Trump advisers confront possibility Iran war lasts through end of term](https://www.wsj.com/world/middle-east/trumps-top-advisers-confront-possibility-that-iran-war-lasts-through-end-of-term-5f4e23d7)** — The White House weighs a conflict without a quick exit. (WSJ)
+- **[Apple hopes you’ll see this new iPhone and fold](https://www.theverge.com/tech/991203/iphone-duo-foldable-news-specs-price-release-date)** — Apple enters the foldable-phone fight. (Morning Brew)
+- **[Gilgo Beach killer busted for drugs, smuggling: Report](https://www.newsnationnow.com/us-news/northeast/gilgo-beach-killer-rex-heuermann-smuggling-drugs-prison/)** — A new prison allegation lands in the high-profile case. (NewsNation)
+- **[Why Saudi Arabia and the Houthis are heading toward war](https://www.csmonitor.com/World/Middle-East/2026/0910/yemen-houthis-saudi-iran-shipping-red-sea?icid=rss)** — Red Sea tensions threaten another regional front. (CS Monitor)
+- **[RNC finale ‘all about Vance’ as GOP base looks to 2028](https://thehill.com/homenews/campaign/6083650-vance-rnc-keynote-2028-chatter/)** — Midterms share the stage with the next presidential race. (The Hill)
+- **[Marijuana contracts are not enforceable in federal court](https://reason.com/volokh/2026/09/10/8401150/)** — State legalization still collides with federal law. (Reason)
 - *[Data unavailable: Newsweek]*
 
 ### AI & Tech Desk
-
-- **[Europe will go it alone on Venus mission after NASA yanks radar instrument](https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/)** — Europe is pressing ahead without the U.S. payload. (Ars Technica)
-- **[Android can now securely migrate logins between password managers](https://blog.google/products-and-platforms/platforms/android/switch-password-managers/)** — Switching password vaults just got less painful. (Ars Technica)
-- **[Cognition launches SWE-2](https://cognition.com/blog/swe-2)** — The new coding model drew heavy attention on Hacker News. (Hacker News)
-- **[Can researchers trust OpenAI with unpublished math?](https://mathstodon.xyz/@andreasthom/117240535270608201)** — Questions over research handling dominated the discussion. (Hacker News)
+- **[Europe will go it alone on Venus mission](https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/)** — Europe presses ahead after NASA removes its radar instrument. (Ars Technica)
+- **[Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)** — Native mobile development wins back a major shop. (Hacker News)
+- **[Can researchers trust OpenAI with unpublished math?](https://mathstodon.xyz/@andreasthom/117240535270608201)** — Researchers debate confidentiality around unfinished work. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — THE DAY’S CLOSE
+## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
 
 ### Business Newswire
-
-- **[Oracle’s AI bet pays off](https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories)** — Cloud momentum lifted Oracle’s outlook. (MarketWatch)
-- **[Adobe’s latest earnings leave Wall Street wanting more](https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories)** — Results failed to clear investors’ higher bar. (MarketWatch)
-- **[Apple walks a pricing tightrope](https://www.marketwatch.com/story/apples-stock-rises-after-iphone-reveal-the-company-is-walking-a-tightrope-on-pricing-say-analysts-813898ac?mod=mw_rss_topstories)** — Analysts focused on what buyers will tolerate. (MarketWatch)
-- **[Two World War II aircraft fly over HMS Queen Elizabeth](https://www.forbes.com/sites/petersuciu/2026/09/10/two-world-war-ii-aircraft-conducted-flyover-of-hms-queen-elizabeth/)** — A historic flyover supplied Forbes’ lead business-feed item. (Forbes)
+- **[Oracle’s AI bet pays off](https://www.marketwatch.com/story/oracles-ai-bet-pays-off-as-cloud-momentum-helps-drive-a-rosier-forecast-cc41a4aa?mod=mw_rss_topstories)** — Cloud momentum brightened the forecast. (MarketWatch)
+- **[Adobe’s earnings leave Wall Street wanting more](https://www.marketwatch.com/story/adobes-latest-earnings-leave-wall-street-wanting-more-137ea782?mod=mw_rss_topstories)** — Results failed to clear a demanding bar. (MarketWatch)
+- **[Israelis and Palestinians build ventures against the odds](https://www.forbes.com/sites/richardbehar/2026/09/10/unlikely-partners-israelis-and-palestinians-build-ventures-against-the-odds/)** — Entrepreneurs pursue cooperation amid conflict. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -95,32 +91,27 @@ _Source: `2026-09-10-evening-dispatch.md`_
 | [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,081.73 | -136.11 | -0.52% | 20,690.25–27,190.21 |
 | [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,890.95 | -62.22 | -2.11% | 2,303.46–3,069.71 |
 
-The S&P remained near its 52-week high despite the drop; small caps took the hardest index hit.
-
 ### Federal Funds Rate
-
-**Effective rate (EFFR): 3.63% · Fed target range: 3.50%–3.75%.**
+**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%.
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---:|
-| 30-Year Treasury | 5.361% | +0.12 | 4.528%–5.366% |
-| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.845% | +0.10 | 3.507%–3.940% |
-
-The 30-year yield finished essentially at its 52-week ceiling.
+| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.361% | +0.12 | 4.528%–5.366% |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.845% | +0.10 | 3.507%–3.935% |
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.587 | +0.19 | +0.31% | 52.409–62.809 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.161 | -0.00 | -0.15% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7056 | -0.01 | -0.20% | 6.6948–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.69 | +0.09 | +0.14% | 52.409–62.809 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1605 | -0.00 | -0.08% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7003 | -0.01 | -0.16% | 6.699–7.1909 |
 
 ### ETFs (with 52W Range)
 
-| ETF (Symbol — Name) | Price | Change | % | 52-Week Range |
+| ETF | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
 | [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | $102.87 | -$0.45 | -0.44% | $81.45–$107.07 |
 | [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | $33.99 | -$1.02 | -2.91% | $26.32–$35.31 |
@@ -150,82 +141,55 @@ The 30-year yield finished essentially at its 52-week ceiling.
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $77,076.83 | -$3,273.22 | -4.07% | $57,747.77–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $103.93 | +$12.45 | +13.61% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $76,869.83 | -$2,246.02 | -2.84% | $57,747.77–$126,198.07 |
+| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $103.39 | +$10.36 | +11.14% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-
-📢 **WTI +13.61%** to $103.93 as oil surged toward the upper end of its yearly range; **AMD +10.18%** was the standout equity while the Russell 2000 fell 2.11%.
+📢 **WTI +11.14%** puts energy inflation back under the porch light; **AMD +10.18%** supplied the tape’s bright spot while the Russell 2000 fell 2.11%.
 
 ### Prediction Markets
-
-- Men’s U.S. Open market: Alexander Zverev at 51%.
-- Kalshi: *[Data unavailable]*
+*[Data unavailable: no verified notable mover; Kalshi fetch failed.]*
 
 ### ⛽ Mortgage & Gas
-
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.85% (Bankrate)
-- National regular: $4.2770; New Jersey regular: $4.3653 (AAA)
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.85%.
+- National regular: $4.2770; New Jersey regular: $4.3653. (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** Sellers controlled the close, especially in small caps and dividend funds, while oil ripped higher and long rates pressed yearly highs. The S&P is still only about 3% below its 52-week peak.
+**BOTTOM LINE:** Stocks finished red, small caps hardest hit, while oil surged. The S&P remains near its 52-week high; the 30-year yield is virtually at its high.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-
-- **[Stefan Küng wins Vuelta stage 18 time trial](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-stefan-kung-wins-stage-18-time-trial-while-enric-mas-maintains-lead-over-inspired-ride-by-primoz-roglic/)** — Enric Mas retained the overall lead over Primož Roglič. (Cycling / Cyclingnews)
-- **[World Championships warm-up opens without Pogačar](https://www.cyclingnews.com/pro-cycling/teams-riders/a-big-world-championships-warm-up-where-pogacars-absence-opens-the-field-significantly-riders-to-watch-at-the-grands-prix-de-quebec-and-montreal/)** — His absence reshapes the Québec and Montréal fields. (Cycling / Cyclingnews)
-- Other league newswires: *[Data unavailable]*
+- **[Küng wins Vuelta stage 18 time trial; Mas keeps the lead](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-stefan-kung-wins-stage-18-time-trial-while-enric-mas-maintains-lead-over-inspired-ride-by-primoz-roglic/)** — The clock belonged to Küng, the red jersey stayed with Mas. (Cycling / Cyclingnews)
+- **[Pogačar’s absence opens the Montréal field](https://www.cyclingnews.com/pro-cycling/teams-riders/a-big-world-championships-warm-up-where-pogacars-absence-opens-the-field-significantly-riders-to-watch-at-the-grands-prix-de-quebec-and-montreal/)** — The World Championships warm-up suddenly looks wide open. (Cycling / Cyclingnews)
+- *[Data unavailable: other sports newswires]*
 
 ### Scoreboard
 
 #### ⚾ MLB
-[Standings](https://www.mlb.com/standings)
+Standings: [MLB standings](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
-|---|---|---|
-| Twins @ Tigers | 2–7 Final | [Full box score](https://www.mlb.com/gameday/824226) |
-| Blue Jays @ Athletics | 0–2 Final | [Full box score](https://www.mlb.com/gameday/824956) |
-| Cardinals @ Giants | 6–7 Final | [Full box score](https://www.mlb.com/gameday/823172) |
-| Nationals @ Padres | 2–9 Final | [Full box score](https://www.mlb.com/gameday/823251) |
-| Rangers @ Mariners | 2–3 Final | [Full box score](https://www.mlb.com/gameday/823090) |
-| Guardians @ Orioles | 5–9 Final | [Full box score](https://www.mlb.com/gameday/824791) |
-| Astros @ Phillies | 7–11 Final | [Full box score](https://www.mlb.com/gameday/823416) |
-| Mets @ Marlins | 15–14 Final | [Full box score](https://www.mlb.com/gameday/823818) |
-| Angels @ Red Sox | 6–4 Final | [Full box score](https://www.mlb.com/gameday/824713) |
-| Rockies @ Yankees | 1–6 Final | [Full box score](https://www.mlb.com/gameday/823497) |
-| Rays @ Braves | 7–2 Final | [Full box score](https://www.mlb.com/gameday/824871) |
-| Diamondbacks @ Royals | 2–5 Final | [Full box score](https://www.mlb.com/gameday/824064) |
-| Pirates @ White Sox | 4–2 Final | [Full box score](https://www.mlb.com/gameday/824549) |
-| Cubs @ Brewers | 6–8 Final | [Full box score](https://www.mlb.com/gameday/823739) |
-| Reds @ Dodgers | 1–14 Final | [Full box score](https://www.mlb.com/gameday/823900) |
+|---|---:|---|
 | Rays @ Braves | 1–3 Final | [Full box score](https://www.mlb.com/gameday/824872) |
 | Astros @ Phillies | 2–1 Final | [Full box score](https://www.mlb.com/gameday/823413) |
-| Rangers @ Mariners | 3–1 In progress | [Full box score](https://www.mlb.com/gameday/823088) |
-| Rockies @ Yankees | Pre-game | [Game page](https://www.mlb.com/gameday/823499) |
-| Pirates @ White Sox | Pre-game | [Game page](https://www.mlb.com/gameday/824550) |
+| Rangers @ Mariners | 3–4 Final | [Full box score](https://www.mlb.com/gameday/823088) |
+| Rockies @ Yankees | 3–10 Final | [Full box score](https://www.mlb.com/gameday/823499) |
+| Pirates @ White Sox | 2–0 Final | [Full box score](https://www.mlb.com/gameday/824550) |
 
-The Mets won the evening’s pinball game, 15–14; the Dodgers supplied the rout.
+Upcoming games were listed without verified start times or TV, so the overnight desk leaves them off rather than guessing.
 
 #### 🚴 Cycling
-[Tour de France rankings](https://www.letour.fr/en/rankings)
+Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 
-The completed Tour’s final GC had Tadej Pogačar first in 73:56:26, followed by Remco Evenepoel (+6:26) and Isaac Del Toro Romero (+9:42). Mathieu van der Poel won stage 21 in 1:58:49.
+**Tour final:** Mathieu van der Poel won Stage 21 in 1:58:49. Tadej Pogačar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
-### Team Reports
-_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
-
-
-> **NJ DEVILS**  
-> Schedule data: *[Data unavailable]*  
-> [Training — Summer in Herisau](https://www.nhl.com/devils/news/part-5-training-summer-in-herisau-9-7-26) · [Camp Meier](https://www.nhl.com/devils/news/part-4-camp-meier-summer-in-herisau-9-6-26)
-
-Seton Hall, Giants, Mets, Inter Miami, Barcelona and Arsenal team APIs/news: *[Data unavailable]*
+### Team Reports — NJ Devils
+**[SUMMER IN HERISAU: Part 5 — Training](https://www.nhl.com/devils/news/part-5-training-summer-in-herisau-9-7-26)** — The Devils’ offseason series checks in from Switzerland. Schedule data: *[Data unavailable]*
 
 ---
 
@@ -233,32 +197,22 @@ Seton Hall, Giants, Mets, Inter Miami, Barcelona and Arsenal team APIs/news: *[D
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Next show/window | Watch / verify |
+| Group | Next up | Watch / verify |
 |---|---|---|
-| WWE | SmackDown Sep. 11; Raw Sep. 14 | Netflix / USA / Peacock · [WWE](https://www.wwe.com/events) |
-| NXT | NXT TV Sep. 15 | CW / Peacock · [WWE](https://www.wwe.com/events) |
-| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
-| AEW | Collision Sep. 12; Dynamite Sep. 16 | TBS / TNT / PPV · [AEW](https://www.allelitewrestling.com/aew-events) |
-| ROH | ROH TV Sep. 10 | HonorClub · [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Sep. 10 | AXS / TNA+ · [TNA](https://tnawrestling.com/events/) |
+| WWE / NXT / AAA | SmackDown Sep. 11; Raw Sep. 14; NXT Sep. 15 | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
+| AEW / ROH | Collision Sep. 12; Dynamite Sep. 16; ROH Sep. 17 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! Sep. 17 | [TNA](https://tnawrestling.com/events/) |
 | NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
 | CMLL | Arena México Sep. 11, 13, 15; Coliseo Sep. 12 | [CMLL](https://cmll.com/) |
 
 ### Headlines
-
-- **[AEW announces Rebel charity card](https://www.fightful.com/wrestling-news/upper-deck-and-aew-rebel-card)** — All proceeds go to I AM ALS and Team Gleason. (Fightful)
-- **[AEW signs Janai Kai; Jarrett joins CMLL anniversary](https://www.postwrestling.com/2026/09/10/post-news-espn-to-launch-paul-brothers-show-aew-signs-janai-kai-jarrett-joins-cmll-anniversary/)** — Thursday’s roundup crossed AEW and CMLL lines. (POST Wrestling)
-- **[Unsigned talent expected for AAA TripleMania Night 2](https://www.wrestlinginc.com/2255359/aaa-triplemania-night-2-unsigned-talent-participate/)** — The upcoming AAA card may add outside names. (WrestlingInc)
-- **[Cope ambushed backstage at AEW Dynamite](https://www.cagesideseats.com/aew/474999/adam-copeland-ambushed-backstage-aew-dynamite-edge-mlp-maclin)** — The attack supplied a post-Dynamite angle. (Cageside Seats)
-- **[Rusev cleared to return](https://411mania.com/wrestling/cj-perry-confirms-rusev-suffered-an-injury-says-hes-now-cleared-to-return/)** — CJ Perry confirmed the injury and clearance. (411mania)
+- **[TNA iMPACT results: Nemeth retains against Hardy](https://www.postwrestling.com/2026/09/10/tna-impact-9-10-results-nic-nemeth-beats-matt-hardy-to-retain-tna-title-xia-brookside-defends-knockouts-title-against-gabby-forza/)** — Xia Brookside also retained the Knockouts title. **[TNA]**
+- **[AEW signs Janai Kai; Jarrett joins CMLL anniversary](https://www.postwrestling.com/2026/09/10/post-news-espn-to-launch-paul-brothers-show-aew-signs-janai-kai-jarrett-joins-cmll-anniversary/)** — Two promotions make roster and event news. **[AEW] [CMLL]**
+- **[Moose puts his TNA career on the line](https://www.fightful.com/wrestling-news/moose-putting-tna-career-on-the-line-knockouts-tv-title-bout-more-set-for-9-17-thursday-night-impact)** — The stipulation headlines next week’s iMPACT. **[TNA]**
 
 ### r/SquaredCircle
-
-- [Post-AEW Rebel Heart Dynamite discussion](https://www.reddit.com/r/SquaredCircle/comments/1wc5wlq/post_aew_rebel_heart_dynamite_september_09_2026/)
-- [Live NJPW Road to Destruction discussion](https://www.reddit.com/r/SquaredCircle/comments/1wcd66x/live_njpw_road_to_destruction_2026_september_10/)
-- [Oba Femi–Bronson Reed moment reportedly unscripted](https://www.reddit.com/r/SquaredCircle/comments/1wcrph1/fightful_select_oba_femi_brushing_off_bronson/)
-- [Mercedes Moné with Alysa Liu](https://www.reddit.com/r/SquaredCircle/comments/1wcvc40/mercedes_moné_with_olympic_champion_alysa_liu_at/)
-- [Steven Borden on earning a place in AEW](https://www.reddit.com/r/SquaredCircle/comments/1wcv763/steven_borden_in_2024_on_whether_he_wants_to_be/)
+- [Post-TNA Impact discussion](https://www.reddit.com/r/SquaredCircle/comments/1wd47ca/post_tna_impact_discussion_thread_september_10/)
+- [Live IWRG Thursday Night Wrestling discussion](https://www.reddit.com/r/SquaredCircle/comments/1wd32dw/live_iwrg_thursday_night_wrestling_september_10/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -270,48 +224,35 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Aug. 30, 2026 | **6.5** | Will Ospreay vs. Kenny Omega | AEW | All In |
 | Aug. 30, 2026 | 5 | Mercedes Moné vs. Willow Nightingale | AEW | All In |
 | Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 17 |
-| Aug. 16, 2026 | 5.5 | Yuya Uemura vs. Ryohei Oiwa | NJPW | G1 Climax 36 Final |
-| Aug. 8, 2026 | 5 | Sareee vs. Mio Momono | Marvelous | Korakuen Hall Show |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
-### Reddit — What’s Trending
+### Reddit — What's Trending
+#### r/netsec
+- **[Beltdown: Escaping the Claude Code Sandbox](https://www.reddit.com/r/netsec/comments/1wcx6w7/beltdown_escaping_the_claude_code_sandbox/)**
 
-- **r/BigBrother:** [Taylor made a cake for Barrett’s birthday](https://www.reddit.com/r/BigBrother/comments/1wcc5lg/taylor_made_a_cake_for_barretts_birthday/)
-- **r/BigEast:** [Elmarko Jackson NBA scouting report](https://www.reddit.com/r/BigEast/comments/1wchcgg/elmarko_jackson_nba_scouting_report/)
-- **r/BreakingPointsNews:** [Trump calls Putin phone call wonderful](https://www.reddit.com/r/BreakingPointsNews/comments/1wcu1ym/trump_calls_putin_phone_call_wonderful/)
-- **r/NixOS:** [I did a thing](https://www.reddit.com/r/NixOS/comments/1wcr014/i_did_a_thing/)
-- **r/iphone:** [iPhone Duo USB-C port location](https://www.reddit.com/r/iphone/comments/1wc7ptm/iphone_duo_usb_c_port_location/)
-- **r/linux:** [GNOME 51 adds custom pointer acceleration profiles](https://www.reddit.com/r/linux/comments/1wcmhrx/gnome_51_adds_support_for_custom_pointer/)
-- **r/mets:** [How the Mets play when it doesn’t matter anymore](https://www.reddit.com/r/mets/comments/1wc709f/how_the_mets_play_when_it_doesnt_matter_anymore/)
-- **r/netsec:** [Forgejo ≤16.0.3 critical RCE](https://www.reddit.com/r/netsec/comments/1wcp6ze/forgejo_1603_critical_rce/)
-- **r/selfhosted:** [Two months into self-hosting](https://www.reddit.com/r/selfhosted/comments/1wcj3da/two_months_into_self_hosting_loving_it_so_far/)
-- **r/vintageobscura:** [The Surf Trio — Salt Bath](https://www.reddit.com/r/vintageobscura/comments/1wcm8rw/the_surf_trio_salt_bath_eugene_or_usa_surf_1999/)
+#### r/Philippines
+- **[The current status of the Senate Minority](https://www.reddit.com/r/Philippines/comments/1wcyy9m/the_current_status_of_the_senate_minority/)**
+
+#### r/vintageobscura
+- **[Yumi Yano — Cupid Girl (1985)](https://www.reddit.com/r/vintageobscura/comments/1wd5az2/yumi_yano_cupid_girl_japan_synthpop_electronic/)**
 
 ### 📺 YouTube — Past 24 Hours
-
-- **Breaking Points:** [Iran strikes damage U.S. aircraft](https://www.youtube.com/watch?v=AeCoXphjJBE)
-- **ColdFusion:** [Before the Foldable, Apple Copied This Phone](https://www.youtube.com/watch?v=0Hvt-xhS65k)
 - **GothamChess:** [This Chess Match Made Stockfish Quit](https://www.youtube.com/watch?v=fUQd10O1B_Y)
-- **House of Highlights:** [Astros vs. Phillies highlights](https://www.youtube.com/watch?v=QxbPQAVmyik)
 - **Marques Brownlee:** [iPhone 18 Pro/Duo Impressions](https://www.youtube.com/watch?v=Od6M0AXpcxQ)
-- **NPR Music:** [Tori Kelly: Tiny Desk Concert](https://www.youtube.com/watch?v=O8AlOZV0BSI)
-- **Pablo Torre Finds Out:** [Inside the billionaire shadow league funding American tennis](https://www.youtube.com/watch?v=TONXvuiyxOQ)
-- **Stark Raving Sports:** [Why You Should Love Baseball Bats](https://www.youtube.com/watch?v=Y8LBoCZcEio)
-- **The PrimeTime:** [The Navier–Stokes situation is insane](https://www.youtube.com/watch?v=UA0UkPombNk)
+- **Pablo Torre Finds Out:** [Inside the Billionaire Shadow League Funding American Tennis](https://www.youtube.com/watch?v=TONXvuiyxOQ)
+- **The PrimeTime:** [The Navier Stokes situation is insane](https://www.youtube.com/watch?v=UA0UkPombNk)
 
 ### 🔗 Around the Web — Past 24 Hours
-
 - **Cover Me:** [Springsteen joins Bleachers on the boardwalk for “Jersey Girl”](https://www.covermesongs.com/2026/09/bruce-springsteen-joins-bleachers-on-the-boardwalk-to-celebrate-jersey-girls.html)
 - **gHacks:** [Apple unveils its first foldable iPhone Duo](https://www.ghacks.net/2026/09/10/apple-unveils-iphone-duo-its-first-foldable-with-a-7-6-inch-inner-display-and-a20-pro-chip/)
 - **Jersey Digs:** [75-unit townhouse development approved in Randolph](https://jerseydigs.com/toll-brothers-townhouse-development-randolph/)
-- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/09/knicks-morning-news-2026-09-10/)
 - **The Indicator:** [Are small-town colleges going extinct?](https://www.federalreserve.gov/monetarypolicy/files/BeigeBook_20260902.pdf)
 
 ---
 
 ## 👋 SIGN-OFF
 
-That’s all for tonight, folks. Crack a window, skip the boardwalk traffic, and save the pork roll for breakfast.
+Lights out, folks — the boardwalk gets another run tomorrow. Save a pork roll sandwich for the morning crew.
