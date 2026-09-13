@@ -34,52 +34,60 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-09-13T12:03:18-04:00_  
-_Source: `2026-09-13-noon-dispatch.md`_
+_Originally generated: 2026-09-13T22:02:40+00:00_  
+_Source: `2026-09-13-evening-dispatch.md`_
 
-# 🕛 THE NOON DISPATCH — Sunday, September 13, 2026
-> “Lunch is temporary. The news cycle has no closing bell.”
+# 🌙 THE EVENING BRIEF — Sunday, September 13, 2026
+> “Sunday night: one eye on tomorrow, one hand on the coffee pot.”
 
 ---
 
-## 🕛 MIDDAY SHORE FORECAST & BEYOND
+## 🌙 SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**A Damp Shore Lunch Hour.** Light rain showers and 71°F, feeling like 77°F, with a light southeast breeze. Patchy rain stays in the picture today; high 84°F, low 71°F, rain chance 26%.
+**SUN GIVES WAY TO A MILD NIGHT.** Sunny and 82°F, with a light 2 mph breeze. Tonight settles near 71°F; Monday turns sunny, high 78°F and low 64°F, with a 1% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**Warm With Passing Rain.** Patchy rain and 26°C, feeling like 29°C, with a 7 km/h breeze. Today’s range is 25–29°C with a 24% rain chance.
+**CLOUDS NOW, SUN NEXT.** Overcast and 26°C, feeling like 29°C, with a 4 km/h breeze. Monday calls for sun, a 31°C high, 26°C low and 6% rain chance.
 
 ---
 
 ## 📰 TOP STORIES
 
 ### Headlines
+
 - **[Hegseth Blocks Eight Navy Senior Officer Promotions](https://www.wsj.com/politics/national-security/hegseth-blocks-eight-navy-senior-officer-promotions-aa536aa2)** — The Pentagon shake-up reaches senior Navy promotions. (WSJ)
-- **[Inflation sizzles…and a rate hike looks inevitable](https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html)** — Sticky August inflation has markets looking toward another Fed hike. (Morning Brew)
-- **[Lawmakers push for urgent AI action after alarming warnings from researchers](https://www.newsnationnow.com/politics/congress-ai-regulation-house-democrats-recess-warning/)** — Researchers’ warnings are turning up the heat on Congress. (NewsNation)
-- **[The secret ballot is being tested in Georgia](https://www.csmonitor.com/USA/Politics/2026/0913/elections-midterms-georgia-democracy-ai?icid=rss)** — A bedrock election practice faces a new test. (CS Monitor)
-- **[Obama pushes Jeffries to move AI oversight to center of agenda](https://thehill.com/policy/technology/6086768-obama-urges-ai-oversight/)** — AI safeguards are moving toward the Democratic agenda’s front row. (The Hill)
-- **[European Cars Are Spying on Their Drivers](https://reason.com/2026/09/13/your-car-is-watching-you/)** — In-car surveillance technology may be headed stateside. (Reason)
-- **[US Embassy Employee's Sudden UK Exit Could Raise Thorny Extradition Issues](https://www.newsweek.com/us-embassy-employee-sudden-uk-exit-thorny-extradition-issues-12436386)** — A sudden departure presents a knotty cross-border legal question. (Newsweek)
+- **[Army Secretary Resigns After Months of Friction with Hegseth](https://www.wsj.com/politics/national-security/army-secretary-resigns-after-months-of-friction-with-hegseth-9c124207)** — Months of internal friction end in a cabinet-level departure. (WSJ)
+- **[Companies are increasingly relying on the ‘work trial’ before hiring](https://www.businessinsider.com/out-resumes-in-weeklong-in-office-trials-hiring-2026-4)** — Employers are putting candidates through on-the-job auditions. (Morning Brew)
+- **[Inflation sizzles…and a rate hike looks inevitable](https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html)** — Hot inflation has markets bracing for tighter policy. (Morning Brew)
+- **[Why threats to the Strait of Hormuz and Red Sea could rattle oil markets](https://www.newsnationnow.com/politics/houthi-strait-of-hormuz-oil-global-market-iran/)** — Shipping threats put another risk premium under crude. (NewsNation)
+- **[Lawmakers push for urgent AI action after alarming warnings from researchers](https://www.newsnationnow.com/politics/congress-ai-regulation-house-democrats-recess-warning/)** — Researchers’ warnings are raising pressure on Congress. (NewsNation)
+- **[The secret ballot has been an article of faith in U.S. elections. That's being tested in Georgia.](https://www.csmonitor.com/USA/Politics/2026/0913/elections-midterms-georgia-democracy-ai?icid=rss)** — Georgia puts a basic electoral norm under scrutiny. (CS Monitor)
+- **[Trump says he plans to lift tariffs on Irish whiskey](https://thehill.com/business/6087112-trump-to-lift-irish-whiskey-tariffs/)** — Irish whiskey may get a break at the border. (The Hill)
+- **[European Cars Are Spying on Their Drivers. The Same Tech Could Be Coming to the U.S.](https://reason.com/2026/09/13/your-car-is-watching-you/)** — In-car surveillance raises a fresh privacy warning. (Reason)
+- **[Steelers' TJ Watt Accomplishes Historic Feat Seen Only Once in NFL History](https://www.newsweek.com/sports/nfl/steelers-tj-watt-accomplishes-historic-feat-seen-only-once-in-nfl-history-12436971)** — Watt adds a rare achievement to his résumé. (Newsweek)
 
 ### AI & Tech Desk
-- **[I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/)** — Ars takes a pricey quadruped for a walk. (Ars Technica)
-- **[JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)** — A compact remote-management device drew 349 Hacker News points. (Hacker News)
+
+- **[I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/)** — Ars takes a costly quadruped for a walk. (Ars Technica)
+- **[Some satellite companies still have an appetite for boutique launch services](https://arstechnica.com/space/2026/08/theres-a-huge-launch-crunch-right-now-and-it-will-probably-get-worse/)** — Launch scarcity keeps niche providers in the conversation. (Ars Technica)
+- **[Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)** — A popular HN item questions ad-quality controls. (Hacker News)
+- **[Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)** — An AI system takes on a centuries-old cipher. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — LUNCH-HOUR TAPE
+## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
 
 ### Business Newswire
-- **[Can a 58-year-old veteran with $1.5 million and a VA pension retire?](https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories)** — Retirement math gets a real-world stress test. (MarketWatch)
-- **[Dario Amodei’s calls for an AI slowdown draw criticism](https://www.forbes.com/sites/johntamny/2026/09/13/with-his-calls-for-an-ai-slowdown-dario-amodei-doth-protest-too-much/)** — Forbes challenges the case for easing off the accelerator. (Forbes)
 
-*Sunday quotes below are Friday’s latest close, not fresh trading.*
+- **[These are the 10 biggest retirement fears — and what you can do about them](https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories)** — A practical look at the worries shadowing retirement plans. (MarketWatch)
+- **[Your Social Security COLA could go up another $71 per month in 2027. That’s not necessarily good news.](https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories)** — A larger adjustment may simply reflect stubborn inflation. (MarketWatch)
+- **[‘Spider-Man: Brand New Day’ Poised To Break Box Office All-Time Domestic Record](https://www.forbes.com/sites/zacharyfolk/2026/09/13/spider-man-brand-new-day-poised-to-break-box-office-all-time-domestic-record/)** — The franchise is tracking toward a domestic record. (Forbes)
+- **[Nearly 4,000 Flights Delayed In U.S. As Storms Hit Northeast](https://www.forbes.com/sites/zacharyfolk/2026/09/13/nearly-4000-flights-delayed-in-us-as-storms-hit-northeast/)** — Northeast storms disrupted thousands of flights. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -91,22 +99,23 @@ _Source: `2026-09-13-noon-dispatch.md`_
 | [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,903.94 | -64.33 | -2.17% | 2,303.46–3,069.71 |
 
 ### Federal Funds Rate
-**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%.
+
+**EFFR:** 3.63% · **Fed target:** 3.50%–3.75%
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---:|
-| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.354% | +0.11 | 0.000–5.424% |
-| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.913% | +0.16 | 0.000–3.930% |
+| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.354% | +0.11 | 0.000%–5.424% |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.913% | +0.16 | 0.000%–3.930% |
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.69 | +0.09 | +0.14% | 52.409–62.809 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1601 | -0.00 | -0.11% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7076 | -0.00 | -0.05% | 6.6974–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.603 | 0.00 | 0.00% | 52.409–62.809 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.16 | -0.00 | -0.12% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6974 | -0.01 | -0.20% | 6.6974–7.1909 |
 
 ### ETFs (with 52W Range)
 
@@ -137,45 +146,49 @@ _Source: `2026-09-13-noon-dispatch.md`_
 | [UPS](https://www.marketwatch.com/investing/stock/ups) | 100.28 | -3.22 | -3.11% | 82.00–122.41 |
 
 ### Markets Analysis — Upcoming Week
-**Watch the Fed, oil and the small caps.** Friday left the S&P 500 near its 52-week high, but the Dow and Russell both lost more than 2%. Oil’s 9.58% weekly leap and the 30-year yield near its annual high raise the inflation stakes; AMD’s 13.15% surge puts chips under the spotlight.
+
+**RATES AND OIL OWN THE BOARD.** The completed week left the Dow down 2.07% and Russell 2000 down 2.17%, while WTI jumped 9.58%. This week, watch whether near-52-week-high Treasury yields and hot inflation harden expectations for a rate hike—and whether AMD can hold its 13.15% weekly surge.
 
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $77,127.35 | -$1,132.17 | -1.45% | $57,747.77–$126,198.07 |
-| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $100.05 | +$7.02 | +7.55% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $77,248.52 | -$1,011.00 | -1.29% | $57,747.77–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $100.05 | +$7.02 | +7.55% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-📢 AMD jumped 13.15% while WTI oil surged 7.55%; chips brought the fireworks, but triple-digit crude is the number that can reach every household budget.
+
+📢 **AMD +13.15% and WTI +7.55%** crossed major-move thresholds: chip volatility is running hot, while three-digit crude raises the temperature for inflation and household costs.
 
 ### Prediction Markets
-*[Data unavailable]*
+
+- Polymarket showed Magdalena Andersson at 85% in its next Swedish prime minister market and Alexander Zverev at 100% in its 2026 men’s US Open winner market. Movement data was not fetched.
+- *[Data unavailable: Kalshi]*
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.91% (Bankrate top listed rate)
-- National regular: $4.3130; New Jersey regular: $4.4177 (AAA)
+
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): **6.91%** (Bankrate top listed rate)
+- National regular: **$4.3130** · New Jersey regular: **$4.4177** (AAA)
 - [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *[Data unavailable]*
 
-**BOTTOM LINE:** The S&P remains close to its 52-week peak, but rising long rates, $100 oil and weak small caps make this no Sunday picnic.
+**BOTTOM LINE:** Friday’s close left broad indexes lower, long rates near their 52-week highs and oil above $100. The S&P remains close to its 52-week peak, but the week ahead arrives with less cushion and more inflation pressure.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
+## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Vuelta stage 21 live — Enric Mas poised to win red](https://www.cyclingnews.com/pro-cycling/live/vuelta-a-espana-stage-21-live-enric-mas-poised-to-win-the-red-jersey-as-granada-hosts-race-finale/)** — Granada hosts the race finale with Mas in command. (Cycling / Cyclingnews)
-- **[Lauren Dickson takes her first professional victory](https://www.cyclingnews.com/category/womens-cycling/faun-tour-femmes-lauren-dickson-takes-first-professional-victory-on-stage-4-as-team-mate-juliette-berthet-seals-overall/)** — Dickson won stage 4 while Juliette Berthet sealed the overall. (Cycling / Cyclingnews)
-- **[Slovenia names Roglič as Worlds leader](https://www.cyclingnews.com/pro-cycling/racing/we-will-now-be-in-the-third-or-fourth-row-of-favourites-slovenia-announce-squad-for-road-world-championships-with-primoz-roglic-as-leader-in-tadej-pogacars-absence/)** — Primož Roglič leads in Tadej Pogačar’s absence. (Cycling / Cyclingnews)
 
-*Other sports newswire feeds: [Data unavailable].*
+- **[Vuelta a España: Enric Mas triumphs with overall victory as Tobias Johannessen wins blockbuster stage 21 finale in Granada](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-enric-mas-triumphs-with-overall-victory-as-tobias-johannessen-wins-blockbuster-stage-21-finale-in-granada/)** — Mas secured the red jersey while Johannessen took the finale. (Cycling / Cyclingnews)
+- **[Faun Tour Femmes: Lauren Dickson takes first professional victory on stage 4 as team-mate Juliette Berthet seals overall](https://www.cyclingnews.com/category/womens-cycling/faun-tour-femmes-lauren-dickson-takes-first-professional-victory-on-stage-4-as-team-mate-juliette-berthet-seals-overall/)** — Dickson won the stage and Berthet closed out the overall title. (Cycling / Cyclingnews)
+- *[Data unavailable: NBA, NCAAB, NFL, NCAAF, MLB, NHL, soccer, golf and Grand Slam newswires]*
 
 ### Scoreboard
 
 #### ⚾ MLB
-Standings: [MLB standings](https://www.mlb.com/standings)
+[Standings: MLB](https://www.mlb.com/standings)
 
 | Matchup | Final/Status | Box Score |
 |---|---|---|
@@ -194,17 +207,35 @@ Standings: [MLB standings](https://www.mlb.com/standings)
 | White Sox @ Cardinals | 6–5 Final | [Full box score](https://www.mlb.com/gameday/823009) |
 | Rangers @ Diamondbacks | 6–2 Final | [Full box score](https://www.mlb.com/gameday/825035) |
 | Mariners @ Athletics | 19–1 Final | [Full box score](https://www.mlb.com/gameday/824955) |
-
-The Mets hung a dozen in the Bronx; Seattle went one louder with 19.
+| Rockies @ Tigers | 1–8 Final | [Full box score](https://www.mlb.com/gameday/824225) |
+| Angels @ Nationals | 5–6 Final | [Full box score](https://www.mlb.com/gameday/822682) |
+| Phillies @ Braves | 9–4 Final | [Full box score](https://www.mlb.com/gameday/824869) |
+| Mets @ Yankees | 0–2 Final | [Full box score](https://www.mlb.com/gameday/823495) |
+| Orioles @ Blue Jays | 1–8 Final | [Full box score](https://www.mlb.com/gameday/822764) |
+| Astros @ Rays | 4–14 Final | [Full box score](https://www.mlb.com/gameday/822928) |
+| Dodgers @ Marlins | 4–6 Final | [Full box score](https://www.mlb.com/gameday/823815) |
+| Guardians @ Twins | 9–2 Final | [Full box score](https://www.mlb.com/gameday/823658) |
+| Reds @ Brewers | 4–3 Final | [Full box score](https://www.mlb.com/gameday/823734) |
+| White Sox @ Cardinals | 1–3 Final | [Full box score](https://www.mlb.com/gameday/823008) |
+| Pirates @ Cubs | 4–3 Final | [Full box score](https://www.mlb.com/gameday/824628) |
+| Royals @ Red Sox | 0–1 In progress | [Full box score](https://www.mlb.com/gameday/824708) |
+| Mariners @ Athletics | 6–2 In progress | [Full box score](https://www.mlb.com/gameday/824952) |
+| Rangers @ Diamondbacks | 7–1 In progress | [Full box score](https://www.mlb.com/gameday/825033) |
+| Padres @ Giants | 0–0 Pre-game; TV N/A | [Game page](https://www.mlb.com/gameday/823171) |
 
 #### 🚴 Cycling
-Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
+[Tour de France rankings](https://www.letour.fr/en/rankings)
 
-The completed Tour’s Stage 21 went to Mathieu van der Poel in 1:58:49. Tadej Pogačar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
+**TOUR BOOK CLOSED.** Mathieu van der Poel won Stage 21 in 1:58:49. Tadej Pogacar won the 2026 general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
-#### 🏒 NJ Devils Team Report
-> Source schedule: *[Data unavailable]*  
-> **[Rookies open the showcase against the Islanders](https://www.nhl.com/devils/news/game-preview-vs-islanders-9-13-26)** · **[Coming to America](https://www.nhl.com/devils/news/silaev-feature-9-12-26)** · **[Prospects camp opens](https://www.nhl.com/devils/news/devils-notebook-9-12-26)**
+### Team Reports
+_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
+
+
+> **NJ DEVILS**  
+> *Schedule data unavailable.* [Quick recap: Islanders 5, Devils 4 OT](https://www.nhl.com/devils/news/devils-vs-islanders-9-13-26-live-updates) · [Coming to America](https://www.nhl.com/devils/news/silaev-feature-9-12-26) · [Prospects Camp Opens](https://www.nhl.com/devils/news/devils-notebook-9-12-26)
+
+*Team report data unavailable for Seton Hall, Giants, Mets, Inter Miami, Barcelona and Arsenal.*
 
 ---
 
@@ -212,23 +243,33 @@ The completed Tour’s Stage 21 went to Mathieu van der Poel in 1:58:49. Tadej P
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Upcoming | Watch / verify |
+| Group | Upcoming TV / PLE window | Where to watch / verify |
 |---|---|---|
-| WWE / NXT / AAA | Raw Sep 14; NXT Sep 15; SmackDown Sep 18 | [WWE](https://www.wwe.com/events) · [AAA](https://www.luchalibreaaa.com/) |
-| AEW / ROH | Dynamite Sep 16; ROH TV Sep 17; Collision Sep 19 | [AEW](https://www.allelitewrestling.com/aew-events) · [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Sep 17 | [TNA](https://tnawrestling.com/events/) |
-| NJPW | Calendar-based tour cards | [NJPW](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México Sep 13, 15, 18; Coliseo Sep 19 | [CMLL](https://cmll.com/) |
+| WWE | Raw — Sep. 14; SmackDown — Sep. 18 | Netflix / USA / Peacock · [WWE](https://www.wwe.com/events) |
+| NXT | NXT TV — Sep. 15 | The CW / Peacock · [WWE](https://www.wwe.com/events) |
+| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
+| AEW | Dynamite — Sep. 16; Collision — Sep. 19 | TBS / TNT / PPV · [AEW](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV — Sep. 17 | HonorClub · [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! — Sep. 17 | AXS TV / TNA+ · [TNA](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
+| CMLL | Arena México — Sep. 13, 15, 18; Coliseo — Sep. 19 | CMLL/YouTube · [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[WWE] [Stephanie Vaquer wins the Women’s World Championship in Chile](https://www.postwrestling.com/2026/09/12/stephanie-vaquer-wins-wwe-womens-world-championship-at-live-event-in-chile/)** (POST Wrestling)
-- **[AEW] [Daniel Garcia directs $100,000 tribute donation to MusiCares](https://www.postwrestling.com/2026/09/13/daniel-garcia-directs-100000-andy-williams-tribute-donation-to-musicares/)** (POST Wrestling)
-- **[AAA/WWE] [Triplemania 34 Night 2 predictions](https://www.cagesideseats.com/lucha-libre-aaa-cmll/474612/wwe-aaa-triplemania-34-night-2-predictions-dominik-mysterio-el-grande-americano)** (Cageside Seats)
+
+- **[CMLL] [Domingo Familiar Internacional results](https://www.fightful.com/wrestling-news/cmll-domingo-familiar-internacional-results-9-13-2026-mistico-mike-bailey-vs-kevin-knight-averno-headlines-more)** — Místico and Mike Bailey headlined. (Fightful)
+- **[WWE] [Stephanie Vaquer wins WWE Women’s World Championship](https://www.postwrestling.com/2026/09/12/stephanie-vaquer-wins-wwe-womens-world-championship-at-live-event-in-chile/)** — Vaquer captured the title at a Chile live event. (POST Wrestling)
+- **[AEW] [Daniel Garcia directs $100,000 Andy Williams tribute donation to MusiCares](https://www.postwrestling.com/2026/09/13/daniel-garcia-directs-100000-andy-williams-tribute-donation-to-musicares/)** — The tribute donation will support MusiCares. (POST Wrestling)
+- **[WWE] [AJ Styles looks back on his first and last WWE matches](https://www.wrestlinginc.com/2255882/aj-styles-first-last-wwe-matches-royal-rumble-2016-2026/)** — Styles reflects on Royal Rumble bookends. (WrestlingInc)
+- **[AEW] [Blood & Guts has a date and location](https://www.cagesideseats.com/aew/475483/aew-blood-guts-has-a-date-and-location)** — AEW’s cage spectacle is on the calendar. (Cageside Seats)
+- **[CMLL] [Sábado de Coliseo results](https://411mania.com/wrestling/cmll-sabado-de-coliseo-results-9-12-26-tessa-blanchard/)** — Tessa Blanchard defeated Starlight Kid. (411mania)
 
 ### r/SquaredCircle
-- [Post-AEW Collision discussion](https://www.reddit.com/r/SquaredCircle/comments/1wev099/post_aew_collision_discussion_thread_september/)
+
+- [Post AEW Collision Discussion Thread — September 12, 2026](https://www.reddit.com/r/SquaredCircle/comments/1wev099/post_aew_collision_discussion_thread_september/)
+- [Orange Cassidy pays tribute to The Butcher](https://www.reddit.com/r/SquaredCircle/comments/1wfbyg3/aew_collision_spoilers_orange_cassidy_pays/)
 - [Brian Cage admits PED and steroid use](https://www.reddit.com/r/SquaredCircle/comments/1wf7dd2/brian_cage_admits_ped_steroid_use/)
-- [Stephanie Vaquer celebrates her title win](https://www.reddit.com/r/SquaredCircle/comments/1wf513u/stephanie_vaquer_celebrates_with_bayley_backstage/)
+- [Sami Zayn falls to his knees after winning his second WWE Championship](https://www.reddit.com/r/SquaredCircle/comments/1wfe0ru/sami_zayn_falling_to_his_knees_in_tears_after/)
+- [Live Mystery Wrestling 29 discussion](https://www.reddit.com/r/SquaredCircle/comments/1wfe1sm/live_mystery_wrestling_29_discussion_thread/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -237,9 +278,12 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 
 | Date | Rating | Match | Promotion | Event |
 |---|---:|---|---|---|
-| Aug. 30, 2026 | **6.5** | Will Ospreay vs. Kenny Omega | AEW | All In |
 | Aug. 30, 2026 | 5 | Mercedes Moné vs. Willow Nightingale | AEW | All In |
+| Aug. 30, 2026 | **6.5** | **Will Ospreay vs. Kenny Omega** | **AEW** | **All In** |
 | Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 17 |
+| Aug. 16, 2026 | 5.5 | Yuya Uemura vs. Ryohei Oiwa | NJPW | G1 Climax 36 Final |
+| Aug. 8, 2026 | 5 | Sareee vs. Mio Momono | Marvelous | Korakuen Hall Show |
+| Jan. 4, 2026 | **6** | **Hiroshi Tanahashi vs. Kazuchika Okada** | **NJPW** | **Wrestle Kingdom 20** |
 | Dec. 27, 2025 | 5 | Kyle Fletcher vs. Jon Moxley | AEW | Worlds End |
 
 ---
@@ -247,26 +291,41 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 ## 📱 FROM YOUR FEEDS
 
 ### Reddit — What's Trending
-- **r/TomsRiver:** [Was this place once a Friendly’s?](https://www.reddit.com/r/TomsRiver/comments/1wf5ob8/i_was_going_to_ask_if_they_used_to_be_a_friendlys/)
-- **r/mets:** [Yankees staff made Howie Rose a cake before his final Stadium call](https://www.reddit.com/r/mets/comments/1wfa7vy/the_yankees_dining_staff_made_howie_rose_a/)
-- **r/linux:** [A systemd unit for logging the kids out at night](https://www.reddit.com/r/linux/comments/1wetw0x/i_wrote_a_systemd_unit_for_logging_the_kids_out/)
-- **r/selfhosted:** [I got digitally graffitied](https://www.reddit.com/r/selfhosted/comments/1wf3jwm/i_got_digitally_graffitied_cybersecurity/)
-- **r/sports:** [No. 4 Texas rallies past No. 1 Ohio State](https://www.reddit.com/r/sports/comments/1wex3mg/no_4_texas_mounts_fourthquarter_rally_stuns_no_1/)
+
+#### r/TomsRiver
+- **[Was this building once a Friendly's?](https://www.reddit.com/r/TomsRiver/comments/1wf5ob8/i_was_going_to_ask_if_they_used_to_be_a_friendlys/)**
+
+#### r/mets
+- **[Yankees dining staff made Howie Rose a cake before his final Yankee Stadium call](https://www.reddit.com/r/mets/comments/1wfa7vy/the_yankees_dining_staff_made_howie_rose_a/)**
+
+#### r/technology
+- **[Bernie Sanders proposes prison terms for developers who push ahead with artificial superintelligence](https://www.reddit.com/r/technology/comments/1wfcsdl/bernie_sanders_proposes_20_year_prison_sentence/)**
+
+#### r/selfhosted
+- **[PSA for users of pinned qmcgaw Gluetun](https://www.reddit.com/r/selfhosted/comments/1wfay9n/psa_for_those_using_pinned_qmcgaw_gluetun/)**
+- **[I got digitally graffitied](https://www.reddit.com/r/selfhosted/comments/1wf3jwm/i_got_digitally_graffitied_cybersecurity/)**
+
+#### r/NixOS
+- **[nix-my-gnome turns a GNOME dconf dump into a Home Manager module](https://www.reddit.com/r/NixOS/comments/1wfkm5a/nixmygnome_turn_your_gnome_dconf_dump_into_a/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **Extra History:** [The History of Perfume](https://www.youtube.com/watch?v=KGbhGFLH8Kg)
-- **GothamChess:** [YES YES YES YES YES!](https://www.youtube.com/watch?v=xXYS-SMeuMg)
-- **House of Highlights:** [Phillies vs. Braves highlights](https://www.youtube.com/watch?v=aqHgSFtaRzA)
-- **Marques Brownlee:** [iPhone Duo: What We Missed!](https://www.youtube.com/watch?v=6D__H_DO2Xk)
-- **NPR Music:** [#eltiny](https://www.youtube.com/shorts/HiKBuQY-CXY)
+
+**GothamChess**: [A Fly Can Now Play Chess. WHAT?](https://www.youtube.com/watch?v=YH6sERVbSsI)
+
+**House of Highlights**: [Mets vs. Yankees highlights](https://www.youtube.com/watch?v=1Wx6maWAHjA) · [USA vs. France gold-medal highlights](https://www.youtube.com/watch?v=kKOpce4l9zA)
+
+**NPR Music**: [#eltiny](https://www.youtube.com/shorts/HiKBuQY-CXY)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **Budget Bytes:** [Game Day for $40](https://www.budgetbytes.com/game-day-for-40/)
-- **gHacks:** [Anthropic says hackers used Claude to scan 1.8 million Android apps](https://www.ghacks.net/2026/09/13/anthropic-says-hackers-abused-claude-to-scan-1-8-million-android-apps-for-secrets/)
-- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/09/knicks-morning-news-2026-09-13/)
+
+**Budget Bytes**: [Touchdown! Game Day for $40](https://www.budgetbytes.com/game-day-for-40/)
+
+**gHacks**: [Anthropic says hackers abused Claude to scan 1.8 million Android apps](https://www.ghacks.net/2026/09/13/anthropic-says-hackers-abused-claude-to-scan-1-8-million-android-apps-for-secrets/) · [Windows Server updates break Remote Desktop Services](https://www.ghacks.net/2026/09/13/september-windows-server-updates-break-remote-desktop-services-across-2019-2022-and-2025/)
+
+**KnickerBlogger**: [Knicks Morning News](https://knickerblogger.net/2026/09/knicks-morning-news-2026-09-13/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-Finish that sandwich and keep moving, folks—the Parkway won’t clear itself, and neither will the afternoon inbox.
+That’s all for tonight, folks. Tomorrow comes in sunny at the Shore—good weather for a pork roll run and a fresh start.
