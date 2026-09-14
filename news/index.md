@@ -34,51 +34,60 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-09-14T04:03:11+00:00_  
-_Source: `2026-09-14-midnight-dispatch.md`_
+_Originally generated: 2026-09-14T06:00:05-04:00_  
+_Source: `2026-09-14-daytime-dispatch.md`_
 
-# 🌙 THE MIDNIGHT DISPATCH — Monday, September 14, 2026
-> "Sunday’s gone, Monday’s on deck, and the overnight desk still has coffee."
+# 🌅 THE MORNING DISPATCH — Monday, September 14, 2026
+> “Monday brought coffee, a full scoreboard, and oil above $100. Easy does it.”
 
 ---
 
-## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
+## ☀️ SHORE FORECAST & BEYOND
+
+**THE FORECAST DESK IS UNDER THE WEATHER.**
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-**CLEARING THE DECK.** Patchy rain nearby and 73°F now, with a light 4 mph wind. Monday turns sunny, high 77°F and low 65°F, with just a 1% rain chance.
+*[Data unavailable]*
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-**SUN UP, HEAT ON.** Sunny and 29°C now, feeling like 34°C, with a 5 km/h breeze. Monday stays sunny, high 31°C and low 26°C; rain chance 6%.
+*[Data unavailable]*
 
 ---
 
 ## 📰 TOP STORIES
 
+**THE PENTAGON SHIFTS, AI HITS THE BRAKES.**
+
 ### Headlines
-- **[Hegseth blocks eight Navy senior-officer promotions](https://www.wsj.com/politics/national-security/hegseth-blocks-eight-navy-senior-officer-promotions-aa536aa2)** — The Pentagon shake-up reaches the Navy’s promotion pipeline. (WSJ)
-- **[Army secretary resigns after months of friction with Hegseth](https://www.wsj.com/politics/national-security/army-secretary-resigns-after-months-of-friction-with-hegseth-9c124207)** — Leadership turmoil continues at Defense. (WSJ)
-- **[Companies increasingly rely on “work trials” before hiring](https://www.businessinsider.com/out-resumes-in-weeklong-in-office-trials-hiring-2026-4)** — The interview is becoming a test shift. (Morning Brew)
-- **[Why threats to Hormuz and the Red Sea could rattle oil markets](https://www.newsnationnow.com/politics/houthi-strait-of-hormuz-oil-global-market-iran/)** — Shipping threats put energy supply back under the lamp. (NewsNation)
-- **[Georgia tests the secret ballot](https://www.csmonitor.com/USA/Politics/2026/0913/elections-midterms-georgia-democracy-ai?icid=rss)** — A bedrock election practice faces a fresh challenge. (CS Monitor)
-- **[Trump urges Ukraine to halt Russian refinery strikes](https://thehill.com/homenews/administration/6087423-trump-urges-ukraine-halt-russia-oil-strikes/)** — Surging diesel prices are reshaping the war debate. (The Hill)
-- **[European cars are spying on their drivers](https://reason.com/2026/09/13/your-car-is-watching-you/)** — Surveillance technology abroad may be headed stateside. (Reason)
+- **[Hegseth Blocks Eight Navy Senior Officer Promotions](https://www.wsj.com/politics/national-security/hegseth-blocks-eight-navy-senior-officer-promotions-aa536aa2)** — The defense secretary’s Pentagon shake-up reaches Navy leadership. (WSJ)
+- **[CPI Inflation Report August 2026](https://www.wsj.com/economy/cpi-inflation-report-august-2026-e2b1e5e7)** — Steady inflation has pushed a potential Fed hike into the morning conversation. (WSJ)
+- **[Prominent CEOs called for AI development to slow down](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html?unlocked_article_code=1.BFE.9BkT.FL9USaQqV0t9&amp;amp;smid=url-share)** — Industry leaders are pressing for a pause before the technology outruns its guardrails. (Morning Brew)
+- **[Iran: Strait of Hormuz to stay closed as Saudi pipeline shutdown adds pressure](https://www.newsnationnow.com/world/us-iran-war-saudi-arabia-strait-of-hormuz-oil-houthis/)** — Energy supply pressure is building at a critical shipping chokepoint. (NewsNation)
+- **[The secret ballot has been an article of faith in U.S. elections. That's being tested in Georgia.](https://www.csmonitor.com/USA/Politics/2026/0913/elections-midterms-georgia-democracy-ai?icid=rss)** — Georgia puts an old democratic safeguard under a new test. (CS Monitor)
+- **[Trump says Ukraine should halt Russian refinery strikes amid surging diesel prices](https://thehill.com/homenews/administration/6087423-trump-urges-ukraine-halt-russia-oil-strikes/)** — The White House links battlefield strategy to pain at the pump. (The Hill)
+- **[Major Questions, Nondelegation, and the Section 338 Tariffs Against Canada](https://reason.com/volokh/2026/09/13/major-questions-nondelegation-and-the-section-338-tariffs-against-canada/)** — A legal look at executive tariff authority. (Reason)
+- **[Democrats’ Chances of Flipping the Senate With 50 Days to Midterm—Polls](https://www.newsweek.com/democrats-chances-of-flipping-the-senate-with-50-days-to-midterm-polls-12434142)** — The Senate map comes into focus with 50 days remaining. (Newsweek)
 
 ### AI & Tech Desk
-- **[A $4,000 robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/)** — Ars puts an expensive mechanical companion through its paces. (Ars Technica)
-- **[Fable 5.1 solves a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)** — An old cryptographic mystery meets a new model. (Hacker News)
-- **[Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads)** — Ad quality control draws a skeptical crowd. (Hacker News)
+- **[I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/)** — Ars puts an expensive quadruped through its paces. (Ars Technica)
+- **[Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich)** — A centuries-old cipher meets a modern model. (Hacker News)
+- **[A 386 PC for Your RP2350](https://github.com/rh1tech/frank-386)** — Retro computing gets squeezed onto a microcontroller. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
+## 📈 BUSINESS & MARKETS
+
+**SELLING PRESSURE MEETS AN OIL SPIKE.**
 
 ### Business Newswire
-- **[The 10 biggest retirement fears—and what to do](https://www.marketwatch.com/story/these-are-the-10-biggest-retirement-fears-and-what-you-can-do-about-them-4dde8b9c?mod=mw_rss_topstories)** — MarketWatch inventories the worries dogging savers. (MarketWatch)
-- **[Ballmer apologizes over salary-cap scandal](https://www.forbes.com/sites/siladityaray/2026/09/13/billionaire-clippers-owner-steve-ballmer-apologizes-for-salary-cap-scandal-will-comply-with-nba-ban/)** — The Clippers owner says he will accept the NBA’s punishment. (Forbes)
+- **[How investors are reacting to the AI pause calls from Anthropic and other frontier labs](https://www.marketwatch.com/story/how-investors-are-reacting-to-the-ai-pause-calls-from-anthropic-and-other-frontier-labs-f69391b8?mod=mw_rss_topstories)** — The safety debate is now moving portfolios. (MarketWatch)
+- **[The very big caveat to the report that Anthropic is profitable for a second straight quarter](https://www.marketwatch.com/story/the-very-big-caveat-to-the-report-that-anthropic-is-profitable-for-a-second-straight-quarter-561e0c64?mod=mw_rss_topstories)** — The headline profit comes with fine print. (MarketWatch)
+- **[AI Stocks Plummet Amid Calls For Slowdown—Softbank Chief’s Fortune Drops By $8 Billion](https://www.forbes.com/sites/siladityaray/2026/09/14/ai-stocks-plummet-amid-calls-for-slowdown-softbank-chiefs-fortune-drops-by-8-billion/)** — AI-pause calls landed hard on tech wealth. (Forbes)
+- **[Liverpool’s New Turkish Airlines Sponsorship](https://www.forbes.com/sites/simonchadwick/2026/09/14/liverpools-new-turkish-airlines-sponsorshipa-strategic-play-amid-middle-eastern-turbulence/)** — Liverpool makes a strategic sponsorship play amid regional turbulence. (Forbes)
 
 ### The Numbers (with 52W Range)
 
@@ -89,23 +98,27 @@ _Source: `2026-09-14-midnight-dispatch.md`_
 | [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,333.04 | -251.03 | -0.94% | 20,690.25–27,190.21 |
 | [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,903.94 | -64.33 | -2.17% | 2,303.46–3,069.71 |
 
+The S&P remains near its 52-week high despite Friday’s retreat; the Dow and small caps took the heavier hits.
+
 ### Federal Funds Rate
-**EFFR:** 3.63% · **Fed target range:** 3.50%–3.75%.
+**EFFR:** 3.63% · **Fed target range:** 3.50%–3.75%
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
 |---|---:|---:|---:|
-| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.354% | +0.11 | 0.000–5.424% |
-| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.913% | +0.16 | 0.000–3.930% |
+| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.354% | +0.11 | 0.000%–5.424% |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 3.913% | +0.16 | 0.000%–3.930% |
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.83 | +0.32 | +0.51% | 52.409–62.830 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1574 | -0.01 | -0.46% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7063 | -0.00 | -0.07% | 6.6927–7.1909 |
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.825 | +0.32 | +0.50% | 52.409–62.887 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1545 | -0.01 | -0.71% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6968 | -0.01 | -0.21% | 6.6927–7.1909 |
+
+PHP/USD sits almost exactly at its 52-week high; CNY/USD is near its low.
 
 ### ETFs (with 52W Range)
 
@@ -139,161 +152,115 @@ _Source: `2026-09-14-midnight-dispatch.md`_
 
 | Ticker | Price | Change | % | 52-Week Range |
 |---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $77,574.34 | +$1,006.21 | +1.31% | $57,747.77–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $103.29 | +$7.24 | +7.54% | $54.98–$119.48 |
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $78,092.87 | +$1,524.74 | +1.99% | $57,747.77–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $102.82 | +$6.77 | +7.05% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-📢 AMD surged 13.15% while WTI jumped 7.54%; chips caught a bid, but three-digit oil and shipping tensions put inflation back in the passenger seat. Dow and Russell declines also crossed 2%.
-
-### Prediction Markets
-- Sweden’s next-prime-minister market put Magdalena Andersson at 90%; the raw feed cited a tightly contested election backdrop.
+📢 AMD jumped 13.15%, clearing the stock-alert threshold, while WTI surged 7.05% to $102.82—a rough pairing for tech volatility and household fuel bills.
 
 ### ⛽ Mortgage & Gas
 - [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 6.91% (Bankrate top listed rate)
-- National regular: $4.3130; New Jersey regular: $4.4177 (AAA)
-- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *Pump price unavailable*
+- National regular: $4.3163; New Jersey regular: $4.4220 (AAA)
+- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): $4.4220 NJ-average fallback; local pump price was not fetched.
 
-**BOTTOM LINE:** The S&P remains close to its 52-week high despite Friday’s retreat, but the Dow and small caps took 2% hits. Oil’s 7.54% leap is the overnight number with teeth.
+**BOTTOM LINE:** Stocks enter Monday bruised, but still broadly near the top of their annual ranges. Oil above $100 is the number that can wander from Wall Street straight onto Hooper Avenue.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
+
+**THE GIANTS OWN THE NIGHT; BASEBALL OWNS THE EVENING.**
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Giants beat Cowboys 28–20 behind three Jaxson Dart TD passes](https://sports.yahoo.com/articles/sunday-night-football-jaxson-dart-throws-three-tds-giants-beat-cowboys-033933807.html)** — A loud divisional win closes Sunday night. (NFL / Yahoo Sports)
-- **[Ballmer accepts NBA punishment](https://sports.yahoo.com/nba/article/clippers-slam-nba-probe-as-witch-hunt-vow-to-explore-every-legal-remedy-to-address-this-gross-injustice-003444350.html)** — The Clippers owner will not pursue a legal fight over the Kawhi Leonard scandal. (NBA / Yahoo Sports)
-- **[Florida guard Denzel Aberdeen sues NCAA](https://sports.yahoo.com/articles/florida-guard-denzel-aberdeen-sues-000337990.html)** — He is seeking a fifth year of eligibility. (NCAAB / Yahoo Sports)
-- **[Padres beat Giants 6–4 for seventh straight](https://sports.yahoo.com/articles/machado-homers-padres-beat-giants-025246726.html)** — Manny Machado supplied the homer. (MLB / Yahoo Sports)
-- **[Europe beats the U.S. 15–13 in the Solheim Cup](https://apnews.com/hub/golf)** — Sunday singles swung the trophy. (LPGA / AP)
-- **[Zverev joins an elite list after winning the US Open](https://tennishead.net/tag/alexander-zverev/)** — The new champion enters rare company. (Tennis / Yahoo Sports)
-- **[Enric Mas wins the Vuelta a España](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-enric-mas-triumphs-with-overall-victory-as-tobias-johannessen-wins-blockbuster-stage-21-finale-in-granada/)** — Tobias Johannessen took the stage-21 finale. (Cycling / Cyclingnews)
-- **[Barcelona beats Levante 4–2](https://sports.yahoo.com/soccer/laliga/barcelona-levante-13597994/)** — Barça handled its Sunday road work. (La Liga / Yahoo Sports)
+- **[Steve Ballmer says he, Clippers will comply with NBA's penalties](https://www.nbcsports.com/nba/news/steve-ballmer-suspended-one-year-clippers-to-lose-5-first-round-picks-in-kawhi-leonard-endorsement-scandal)** — Ballmer says the Clippers will accept the league’s sanctions. (NBA / Yahoo Sports)
+- **[Texas replaces Notre Dame at No. 1 in college football's NCAA Re-Rank 1-138](https://www.usatoday.com/story/sports/ncaaf/2026/09/13/texas-beats-ohio-state-historic-comeback-arch-manning-steve-sarkisian/91731929007/)** — Texas takes the top spot after Week 2. (NCAAF / Yahoo Sports)
+- **[New York Yankees news: Breaking down Gerrit Cole’s troubles](https://www.nj.com/yankees/2026/09/the-mystery-of-gerrit-coles-slump-heres-what-could-be-wrong-klapisch.html)** — Cole’s slump gets the tape-room treatment. (MLB / Yahoo Sports)
+- **[Golden Knights Rookies Storm Back for Wild 6-5 Shootout Win Over Colorado](https://sports.yahoo.com/articles/golden-knights-rookies-storm-back-032938929.html)** — Vegas prospects produced a September barnburner. (NHL / Yahoo Sports)
+- **[A case of beer and a social media post that helped turn the tide at the Solheim Cup](https://apnews.com/article/solheim-cup-day-3-singles-europe-usa-de0138d08cc3b33fbf823be89f5931de)** — An unlikely rallying point helped swing the Cup. (Golf / Yahoo Sports)
+- **[U.S. Open takeaways: Best matches, worst moments and abiding memories from New York](https://www.nytimes.com/athletic/7587938/2026/09/12/elena-rybakina-aryna-sabalenka-us-open-final-result-analysis/)** — The final word from Flushing Meadows. (Tennis / Yahoo Sports)
+- **[Vuelta a España: Enric Mas triumphs with overall victory](https://www.cyclingnews.com/pro-cycling/racing/vuelta-a-espana-enric-mas-triumphs-with-overall-victory-as-tobias-johannessen-wins-blockbuster-stage-21-finale-in-granada/)** — Mas secured red while Tobias Johannessen won the Granada finale. (Cycling / Cyclingnews)
 
 ### Scoreboard
 
 #### 🏈 NFL
-
-| Matchup | Final/Status | Box Score |
-|---|---:|---|
-| Buccaneers at Bengals | CIN 33–27 | [Full box score](https://sports.yahoo.com/nfl/tampa-bay-buccaneers-cincinnati-bengals-20260913004/) |
-| Saints at Lions | DET 31–30 OT | [Full box score](https://sports.yahoo.com/nfl/new-orleans-saints-detroit-lions-20260913008/) |
-| Jets at Titans | NYJ 23–10 | [Full box score](https://sports.yahoo.com/nfl/new-york-jets-tennessee-titans-20260913010/) |
-| Ravens at Colts | BAL 41–23 | [Full box score](https://sports.yahoo.com/nfl/baltimore-ravens-indianapolis-colts-20260913011/) |
-| Falcons at Steelers | PIT 20–13 | [Full box score](https://sports.yahoo.com/nfl/atlanta-falcons-pittsburgh-steelers-20260913023/) |
-| Bears at Panthers | CHI 59–37 | [Full box score](https://sports.yahoo.com/nfl/chicago-bears-carolina-panthers-20260913029/) |
-| Browns at Jaguars | JAX 34–10 | [Full box score](https://sports.yahoo.com/nfl/cleveland-browns-jacksonville-jaguars-20260913030/) |
-| Bills at Texans | BUF 36–31 | [Full box score](https://sports.yahoo.com/nfl/buffalo-bills-houston-texans-20260913034/) |
-| Dolphins at Raiders | LV 27–13 | [Full box score](https://sports.yahoo.com/nfl/miami-dolphins-las-vegas-raiders-20260913013/) |
-| Packers at Vikings | MIN 39–22 | [Full box score](https://sports.yahoo.com/nfl/green-bay-packers-minnesota-vikings-20260913016/) |
-| Commanders at Eagles | PHI 24–22 | [Full box score](https://sports.yahoo.com/nfl/washington-commanders-philadelphia-eagles-20260913021/) |
-| Cardinals at Chargers | ARI 26–14 | [Full box score](https://sports.yahoo.com/nfl/arizona-cardinals-los-angeles-chargers-20260913024/) |
-| Cowboys at Giants | NYG 28–20 | [Full box score](https://sports.yahoo.com/nfl/dallas-cowboys-new-york-giants-20260913019/) |
+**Completed:** Bengals 33, Buccaneers 27; Lions 31, Saints 30 (OT); Jets 23, Titans 10; Ravens 41, Colts 23; Steelers 20, Falcons 13; Bears 59, Panthers 37; Jaguars 34, Browns 10; Bills 36, Texans 31; Raiders 27, Dolphins 13; Vikings 39, Packers 22; Eagles 24, Commanders 22; Cardinals 26, Chargers 14; **Giants 28, Cowboys 20**. [Yahoo NFL scores](https://sports.yahoo.com/nfl/scoreboard/)
 
 | Time | Matchup | TV |
 |---|---|---|
-| 9/14 — 8:15 PM EDT | Broncos at Chiefs | ESPN, ABC |
+| 9/14 — 8:15 PM EDT | Denver Broncos at Kansas City Chiefs | ESPN, ABC |
 
 #### ⚾ MLB
 [Standings](https://www.mlb.com/standings)
 
-| Matchup | Final/Status | Box Score |
-|---|---:|---|
-| Rockies at Tigers | DET 8–1 | [Full box score](https://www.mlb.com/gameday/824225) |
-| Angels at Nationals | WSH 6–5 | [Full box score](https://www.mlb.com/gameday/822682) |
-| Phillies at Braves | PHI 9–4 | [Full box score](https://www.mlb.com/gameday/824869) |
-| Mets at Yankees | NYY 2–0 | [Full box score](https://www.mlb.com/gameday/823495) |
-| Orioles at Blue Jays | TOR 8–1 | [Full box score](https://www.mlb.com/gameday/822764) |
-| Astros at Rays | TB 14–4 | [Full box score](https://www.mlb.com/gameday/822928) |
-| Dodgers at Marlins | MIA 6–4 | [Full box score](https://www.mlb.com/gameday/823815) |
-| Guardians at Twins | CLE 9–2 | [Full box score](https://www.mlb.com/gameday/823658) |
-| Reds at Brewers | CIN 4–3 | [Full box score](https://www.mlb.com/gameday/823734) |
-| White Sox at Cardinals | STL 3–1 | [Full box score](https://www.mlb.com/gameday/823008) |
-| Pirates at Cubs | PIT 4–3 | [Full box score](https://www.mlb.com/gameday/824628) |
-| Royals at Red Sox | BOS 4–1 | [Full box score](https://www.mlb.com/gameday/824708) |
-| Mariners at Athletics | ATH 8–7 | [Full box score](https://www.mlb.com/gameday/824952) |
-| Rangers at Diamondbacks | TEX 7–6 | [Full box score](https://www.mlb.com/gameday/825033) |
-| Padres at Giants | SD 6–4 | [Full box score](https://www.mlb.com/gameday/823171) |
+**Completed:** Tigers 8–1 Rockies; Nationals 6–5 Angels; Phillies 9–4 Braves; Yankees 2–0 Mets; Blue Jays 8–1 Orioles; Rays 14–4 Astros; Marlins 6–4 Dodgers; Guardians 9–2 Twins; Reds 4–3 Brewers; Cardinals 3–1 White Sox; Pirates 4–3 Cubs; Red Sox 4–1 Royals; Athletics 8–7 Mariners; Rangers 7–6 Diamondbacks; Padres 6–4 Giants. [MLB scores](https://www.mlb.com/scores/2026-09-13)
 
 | Time | Matchup | TV |
 |---|---|---|
-| 9/14 — 6:40 PM EDT | White Sox at Guardians | ESPN Unlmtd, MLB.TV, CLEGuardians.TV, CHSN |
-| 9/14 — 6:40 PM EDT | Dodgers at Reds | MLB.TV, SportsNet LA, Gray Media, WXIX FOX19, Reds.TV |
-| 9/14 — 7:07 PM EDT | Tigers at Blue Jays | MLB.TV, Tigers.TV, Sportsnet, TVA |
-| 9/14 — 7:10 PM EDT | Orioles at Mets | MLB.TV, MASN, SNY |
-| 9/14 — 7:40 PM EDT | Braves at Cubs | MLB.TV, Marquee Sports Net, BravesVision, MLB Net |
-| 9/14 — 7:40 PM EDT | Yankees at Twins | MLB.TV, Twins.TV, YES |
-| 9/14 — 7:45 PM EDT | Giants at Cardinals | MLB.TV, NBC Sports BA, Cardinals.TV |
-| 9/14 — 8:40 PM EDT | Padres at Rockies | MLB.TV, Padres.TV, Rockies.TV |
-| 9/14 — 9:38 PM EDT | Mariners at Angels | MLB.TV, Mariners.TV, Angels.TV |
-| 9/14 — 9:40 PM EDT | Marlins at Diamondbacks | MLB.TV, DBACKS.TV, Marlins.TV |
+| 6:40 PM EDT | White Sox at Guardians | ESPN Unlmtd, MLB.TV, CLEGuardians.TV, CHSN |
+| 6:40 PM EDT | Dodgers at Reds | MLB.TV, SportsNet LA, Gray Media, WXIX FOX19, Reds.TV |
+| 7:07 PM EDT | Tigers at Blue Jays | MLB.TV, Tigers.TV, Sportsnet, TVA |
+| 7:10 PM EDT | Orioles at Mets | MLB.TV, MASN, SNY |
+| 7:40 PM EDT | Braves at Cubs | MLB.TV, Marquee Sports Net, BravesVision, MLB Net |
+| 7:40 PM EDT | Yankees at Twins | MLB.TV, Twins.TV, YES |
+| 7:45 PM EDT | Giants at Cardinals | MLB.TV, NBC Sports BA, Cardinals.TV |
+| 8:40 PM EDT | Padres at Rockies | MLB.TV, Padres.TV, Rockies.TV |
+| 9:38 PM EDT | Mariners at Angels | MLB.TV, Mariners.TV, Angels.TV |
+| 9:40 PM EDT | Marlins at Diamondbacks | MLB.TV, DBACKS.TV, Marlins.TV |
 
 #### ⚽ Soccer
-[MLS standings](https://www.mlssoccer.com/standings/)
 
-| Competition | Matchup | Final/Status | Box Score |
-|---|---|---:|---|
-| MLS | Revolution at Fire | NE 2–1 | — |
-| MLS | Austin at Vancouver | AUS 2–1 | [Full box score](https://sports.yahoo.com/soccer/mls/austin-fc-vancouver-whitecaps-13586964/) |
-| MLS | Philadelphia at San Diego | PHI 5–0 | — |
-| Premier League | Brighton at Coventry | BHA 5–0 | — |
-| Premier League | Man City at Man United | MCI 1–0 | [Full box score](https://sports.yahoo.com/soccer/premier-league/manchester-city-manchester-united-13595874/) |
-| La Liga | Málaga at Celta Vigo | 1–1 | — |
-| La Liga | Barcelona at Levante | BAR 4–2 | [Full box score](https://sports.yahoo.com/soccer/laliga/barcelona-levante-13597994/) |
-| La Liga | Deportivo at Getafe | 1–1 | [Full box score](https://sports.yahoo.com/soccer/laliga/deportivo-getafe-13597993/) |
-| La Liga | Atlético at Real Sociedad | ATM 3–0 | — |
-| Serie A | Monza at Lecce | LEC 3–2 | [Full box score](https://sports.yahoo.com/soccer/serie-a/monza-lecce-13594077/) |
-| Serie A | Bologna at Napoli | NAP 1–0 | [Full box score](https://sports.yahoo.com/soccer/serie-a/bologna-napoli-13594078/) |
-| Serie A | Juventus at Sassuolo | SAS 3–2 | [Full box score](https://sports.yahoo.com/soccer/serie-a/juventus-sassuolo-13594079/) |
-| Bundesliga | Hamburg at Leipzig | RBL 5–0 | — |
-| Bundesliga | Bayern at Elversberg | BAY 2–1 | — |
-| Ligue 1 | Troyes at Lille | LIL 2–0 | [Full box score](https://sports.yahoo.com/soccer/ligue-1/troyes-lille-13594502/) |
-| Ligue 1 | Lens at Le Mans | 2–2 | [Full box score](https://sports.yahoo.com/soccer/ligue-1/lens-le-mans-13594501/) |
-| Ligue 1 | PSG at Brest | PSG 1–0 | [Full box score](https://sports.yahoo.com/soccer/ligue-1/paris-saint-germain-brest-13594499/) |
-
-| Time | Matchup | TV |
-|---|---|---|
-| 9/14 — 12:30 PM EDT | Parma at Como; Roma at Torino | Paramount+ |
-| 9/14 — 2:45 PM EDT | Udinese at Inter | Paramount+ |
-| 9/14 — 3:00 PM EDT | Newcastle at Leeds | USA Net |
-| 9/14 — 3:00 PM EDT | Real Betis at Villarreal | ESPN Deportes, ESPN+ |
+| Competition | Results / Upcoming |
+|---|---|
+| [MLS](https://www.mlssoccer.com/standings/) | Revolution 2–1 Fire; Austin 2–1 Vancouver; Philadelphia 5–0 San Diego |
+| Premier League | Brighton 5–0 Coventry; Man City 1–0 Man United; Newcastle at Leeds, 3 PM EDT (USA Net) |
+| La Liga | Málaga 1–1 Celta; Barcelona 4–2 Levante; Deportivo 1–1 Getafe; Atlético 3–0 Sociedad; Betis at Villarreal, 3 PM EDT (ESPN Deportes, ESPN+) |
+| Serie A | Lecce 3–2 Monza; Napoli 1–0 Bologna; Sassuolo 3–2 Juventus; Parma at Como and Roma at Torino, 12:30 PM; Udinese at Inter, 2:45 PM (Paramount+) |
+| Bundesliga | Leipzig 5–0 Hamburg; Bayern 2–1 Elversberg |
+| Ligue 1 | Lille 2–0 Troyes; Lens 2–2 Le Mans; PSG 1–0 Brest |
 
 #### 🚴 Cycling
 [Tour de France rankings](https://www.letour.fr/en/rankings)
 
-The completed 2026 Tour ended with Mathieu van der Poel winning Stage 21. Tadej Pogačar won the general classification in 73h 56m 26s, 6m 26s ahead of Remco Evenepoel.
+The completed 2026 Tour closed with Mathieu van der Poel winning Stage 21 in 1:58:49. Tadej Pogačar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
-> **🏒 NJ DEVILS REPORT**
->
-> - **[Islanders defeat Devils in rookie opener](https://www.nhl.com/devils/news/devils-vs-islanders-9-13-26-game-story)** — New Jersey fell 5–4 in overtime.
-> - **[Quick recap: NYI 5, NJD 4 OT](https://www.nhl.com/devils/news/devils-vs-islanders-9-13-26-live-updates)** — The official live-updates recap has the details.
+### ▣ TEAM REPORT — NJ Devils
+- **[Islanders Defeat Devils in Rookie Opener](https://www.nhl.com/devils/news/devils-vs-islanders-9-13-26-game-story)** — New Jersey fell 5–4 in overtime in the rookie opener.
+- **[Coming to America](https://www.nhl.com/devils/news/silaev-feature-9-12-26)** — The club profiles Silaev’s move stateside.
 
 ---
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
+**TRIPLEMANIA CHANGED THE BELT LANDSCAPE.**
+
 ### Major Show Spotlight — AAA TripleMania 34
-- **[El Grande Americano takes the Mega Championship](https://www.postwrestling.com/2026/09/13/aaa-triplemania-34-night-2-results-dom-defends-against-americano-in-mexico-city/)** — Night 2 produced three title changes.
-- **[Post-show discussion](https://www.reddit.com/r/SquaredCircle/comments/1wfsewz/post_aaa_triplemania_34_mexico_city_discussion/)** — The Squared Circle crowd sorts through Mexico City’s fallout.
+- **[El Grande Americano wins the AAA Mega Championship](https://www.fightful.com/wrestling-news/el-grande-americano-def-dominik-mysterio-for-aaa-mega-championship-at-triplemania-34)** — Dominik Mysterio’s reign ended on Night 2.
+- **[TripleMania 34 Night 2 results](https://www.postwrestling.com/2026/09/13/aaa-triplemania-34-night-2-results-dom-defends-against-americano-in-mexico-city/)** — Three championships changed hands in Mexico City.
 
 ### Upcoming TV / PLE Schedule
 
-| Group | Upcoming | Watch / Verify |
+| Group | Next show/window | Watch / verify |
 |---|---|---|
-| WWE | Raw Sep. 14; SmackDown Sep. 18 | Netflix / USA / Peacock · [Events](https://www.wwe.com/events) |
-| NXT | NXT TV Sep. 15 | CW / Peacock · [Events](https://www.wwe.com/events) |
-| AAA | Cards vary | [Official site](https://www.luchalibreaaa.com/) |
-| AEW | Dynamite Sep. 16; Collision Sep. 19 | TBS / TNT / PPV · [Events](https://www.allelitewrestling.com/aew-events) |
-| ROH | ROH TV Sep. 17 | HonorClub · [Official site](https://www.ringofhonor.com/) |
-| TNA | iMPACT! Sep. 17 | AXS TV / TNA+ · [Events](https://tnawrestling.com/events/) |
-| NJPW | Calendar-based tour cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México Sep. 15, 18, 20; Coliseo Sep. 19 | CMLL / YouTube · [Official site](https://cmll.com/) |
+| WWE | Raw — Sep. 14; SmackDown — Sep. 18 | Netflix / USA / Peacock · [Events](https://www.wwe.com/events) |
+| NXT | NXT TV — Sep. 15 | CW / Peacock · [Events](https://www.wwe.com/events) |
+| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
+| AEW | Dynamite — Sep. 16; Collision — Sep. 19 | TBS / TNT · [Events](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV — Sep. 17 | HonorClub · [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! — Sep. 17 | AXS / TNA+ · [Events](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | [Schedule](https://www.njpw1972.com/schedule/) |
+| CMLL | Arena México — Sep. 15, 18, 20; Coliseo — Sep. 19 | [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[AAA] [El Grande Americano defeats Dominik Mysterio](https://www.fightful.com/wrestling-news/el-grande-americano-def-dominik-mysterio-for-aaa-mega-championship-at-triplemania-34)** (Fightful)
-- **[WWE] [Stephanie Vaquer wins the Women’s World Championship](https://www.postwrestling.com/2026/09/12/stephanie-vaquer-wins-wwe-womens-world-championship-at-live-event-in-chile/)** (POST Wrestling)
-- **[AAA] [War Raiders lose the AAA tag titles](https://www.cagesideseats.com/lucha-libre-aaa-cmll/475534/wwe-war-raiders-lose-aaa-tag-titles-in-open-challenge-at-triplemania-34-wagner-brothers)** (Cageside Seats)
+- **[Stephanie Vaquer Appearance Added To This Week’s WWE Raw](https://411mania.com/wrestling/stephanie-vaquer-wwe-raw-9-14-26/)** (WWE / 411mania)
+- **[WWE’s War Raiders lose AAA tag titles at TripleMania 34](https://www.cagesideseats.com/lucha-libre-aaa-cmll/475534/wwe-war-raiders-lose-aaa-tag-titles-in-open-challenge-at-triplemania-34-wagner-brothers)** (AAA / Cageside Seats)
+- **[Daniel Garcia directs $100,000 Andy Williams tribute donation to MusiCares](https://www.postwrestling.com/2026/09/13/daniel-garcia-directs-100000-andy-williams-tribute-donation-to-musicares/)** (AEW / POST Wrestling)
+
+### r/SquaredCircle
+- [Post AAA TripleMania 34: Mexico City discussion](https://www.reddit.com/r/SquaredCircle/comments/1wfsewz/post_aaa_triplemania_34_mexico_city_discussion/)
+- [Dominik Mysterio vs. El Grande Americano discussion](https://www.reddit.com/r/SquaredCircle/comments/1wfsd81/post_aaa_triplemania_34_mexico_city_match/)
+- [AAA TripleMania spoilers: Theme returns](https://www.reddit.com/r/SquaredCircle/comments/1wfujyu/aaa_triplemania_spoilers_theme_returns/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -305,34 +272,43 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Aug. 30, 2026 | **6.5** | Will Ospreay vs. Kenny Omega | AEW | All In |
 | Aug. 30, 2026 | 5 | Mercedes Moné vs. Willow Nightingale | AEW | All In |
 | Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 17 |
-| Jan. 4, 2026 | **6** | Hiroshi Tanahashi vs. Kazuchika Okada | NJPW | Wrestle Kingdom 20 |
-| Dec. 27, 2025 | 5 | Kyle Fletcher vs. Jon Moxley | AEW | Worlds End |
+| Aug. 16, 2026 | 5.5 | Yuya Uemura vs. Ryohei Oiwa | NJPW | G1 Climax 36 Final |
+| Aug. 8, 2026 | 5 | Sareee vs. Mio Momono | Marvelous | Korakuen Hall Show |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
+**THE INTERNET NEVER CLOCKED OUT.**
+
 ### Reddit — What's Trending
+#### r/NYGiants
+- **[The John Harbaugh era starts with a Week 1 win over the Cowboys](https://www.reddit.com/r/NYGiants/comments/1wfs7zz/the_john_harbaugh_era_with_the_giants_starts_with/)**
+
 #### r/TomsRiver
 - **[Was this place once a Friendly’s?](https://www.reddit.com/r/TomsRiver/comments/1wf5ob8/i_was_going_to_ask_if_they_used_to_be_a_friendlys/)**
 
 #### r/NixOS
-- **[Turn a GNOME dconf dump into a Home Manager module](https://www.reddit.com/r/NixOS/comments/1wfkm5a/nixmygnome_turn_your_gnome_dconf_dump_into_a/)**
-- **[NixOS on a random Chinese TV box](https://www.reddit.com/r/NixOS/comments/1wfm2pl/ive_put_nixos_on_a_random_chinese_tv_box_mini_m8s/)**
+- **[Isolated Dev Environment](https://www.reddit.com/r/NixOS/comments/1wfu0dj/isolated_dev_environment/)**
+- **[Turn a GNOME dconf dump into a declarative Home Manager module](https://www.reddit.com/r/NixOS/comments/1wfkm5a/nixmygnome_turn_your_gnome_dconf_dump_into_a/)**
 
-#### r/mac
-- **[I bought a Pro Display XDR for $500](https://www.reddit.com/r/mac/comments/1wfpmbr/i_bought_a_pro_display_xdr_for_500/)**
+#### r/todayilearned
+- **[A Scottish shop offers “seagull insurance” for stolen toasties](https://www.reddit.com/r/todayilearned/comments/1wfrmb8/til_due_to_aggressive_seagulls_a_scottish_grilled/)**
 
-#### r/sports
-- **[Alexander Zverev wins the US Open—then notices](https://www.reddit.com/r/sports/comments/1wfl0eg/alexander_zverev_wins_the_us_open_then_he_notices/)**
+### 📺 YouTube — Past 24 Hours
+- **GothamChess:** [A Fruit Fly Learned Chess](https://www.youtube.com/watch?v=YH6sERVbSsI)
+- **House of Highlights:** [Mets vs. Yankees full highlights](https://www.youtube.com/watch?v=1Wx6maWAHjA)
+- **House of Highlights:** [USA vs. France — FIBA Women’s World Cup final highlights](https://www.youtube.com/watch?v=kKOpce4l9zA)
+- **NPR Music:** [El Tiny](https://www.youtube.com/shorts/HiKBuQY-CXY)
 
 ### 🔗 Around the Web — Past 24 Hours
 - **Budget Bytes:** [Touchdown! Game Day for $40](https://www.budgetbytes.com/game-day-for-40/)
-- **DistroWatch:** [DistroWatch Weekly, Issue 1190](https://www.tuxedocomputers.com/)
-- **gHacks:** [Anthropic says hackers used Claude to scan 1.8 million Android apps](https://www.ghacks.net/2026/09/13/anthropic-says-hackers-abused-claude-to-scan-1-8-million-android-apps-for-secrets/)
+- **gHacks:** [Microsoft Excel update breaks copy and paste for some users](https://www.ghacks.net/2026/09/14/microsoft-excel-kb5002914-update-breaks-copy-and-paste-for-some-users/)
+- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/09/knicks-morning-news-2026-09-13/)
+- **The Indicator:** [A Beautiful Bill, Mamdani's Market, and Stock Subscriptions](https://www.npr.org/people/1268825622/sierra-juarez)
 
 ---
 
 ## 👋 SIGN-OFF
 
-Lights out, folks—the boardwalk gets another run tomorrow. Save the pork roll for sunrise.
+**That’s the morning ledger. Keep an eye on the oil gauge, enjoy that Giants win, and don’t let a Shore seagull near your pork roll. Have a good one, folks.**
