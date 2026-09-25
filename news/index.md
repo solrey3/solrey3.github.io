@@ -34,263 +34,291 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-09-24T18:00:05-04:00_  
-_Source: `2026-09-24-evening-dispatch.md`_
+_Originally generated: 2026-09-25T00:03:25-04:00_  
+_Source: `2026-09-25-midnight-dispatch.md`_
 
-# 🌙 THE EVENING BRIEF — Thursday, September 24, 2026
-> “The closing bell rang, but the ballgames are just getting started.”
+# 🌙 THE MIDNIGHT DISPATCH — Friday, September 25, 2026
+> “The Shore sleeps lightly; the overnight desk doesn’t sleep at all.”
 
 ---
 
-## 🌙 SHORE FORECAST & BEYOND
+## 🌙 OVERNIGHT SHORE FORECAST & BEYOND
 
-**THE SHORE COOLS DOWN UNDER CLOUDS**
+**Clouds now, a better Friday ahead.**
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-Overcast and 65°F with a 14-mph breeze. Tonight bottoms out near 59°F with patchy rain possible; Friday stays overcast, high 70°F and low 56°F, with a 10% rain chance.
+Overcast and 61°F, with a 13 mph breeze. Friday: overcast, high 70°F, low 54°F, 10% rain chance. Saturday turns cooler and wet: 57°F/54°F with a 78% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-Partly cloudy and 26°C with light wind. Friday brings patchy nearby rain, a 32°C high, 26°C low and 14% rain chance.
+Sunny and 29°C, feeling like 33°C, with a 6 km/h breeze. Friday brings patchy nearby rain, high 32°C and low 26°C; Saturday: 30°C/26°C with a 15% rain chance.
 
 ---
 
 ## 📰 TOP STORIES
 
-**XI AT THE WHITE HOUSE, 7% MORTGAGES AT HOME**
+**Diplomacy, war and a 7% mortgage jolt own the night.**
 
 ### Headlines
-- **[Trump Kicks Off White House Summit With China’s Xi](https://www.wsj.com/world/china/trump-kicks-off-white-house-summit-with-chinas-xi-575b06ec)** — The high-stakes meeting led the evening foreign-policy docket. (WSJ)
-- **[Mortgage Rates Just Hit 7%](https://www.wsj.com/economy/housing/mortgage-rates-just-hit-7-heres-how-the-housing-market-is-about-to-change-35986dc6)** — Housing faces another affordability squeeze. (WSJ)
-- **[Oil Leaders Panic as U.S. Mulls Limiting Diesel Exports](https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html)** — The proposal could tighten global fuel supplies. (Morning Brew)
-- **[New Therapy Could Stop GLP-1-Related Muscle Loss](https://www.newsnationnow.com/health/rna-therapy-glp-1-muscle-loss/)** — Researchers are targeting a key side effect of weight-loss drugs. (NewsNation)
-- **[As China and U.S. Race Ahead on AI, Europe Opts for Safe and Steady](https://www.csmonitor.com/World/Europe/2026/0924/ai-europe-mistral-values-trump-xi-development-bubble?icid=rss)** — Europe is betting restraint can compete with speed. (CS Monitor)
-- **[White House TV Pool in Limbo Amid High-Stakes Xi Visit](https://thehill.com/homenews/administration/6110575-white-house-press-pool-limbo/)** — Press access became part of the summit story. (The Hill)
-- **[OpenAI Preaches AI Safety. The Australia Incident Shows What It Practices.](https://reason.com/2026/09/24/openai-preaches-ai-safety-the-australia-incident-shows-what-it-practices/)** — The outlet questions the gap between safeguards and deployment. (Reason)
-- **[Netanyahu’s Empty Seats Became His Strongest Prop](https://www.newsweek.com/benjamin-netanyahu-un-walkout-empty-seats-israel-12485897)** — A UN walkout supplied the speech’s defining image. (Newsweek)
+- **[Mortgage rates just hit 7%](https://www.wsj.com/economy/housing/mortgage-rates-just-hit-7-heres-how-the-housing-market-is-about-to-change-35986dc6)** — Housing faces another affordability squeeze. (WSJ)
+- **[Trump kicks off White House summit with China’s Xi](https://www.wsj.com/world/china/trump-kicks-off-white-house-summit-with-chinas-xi-575b06ec)** — The leaders opened high-stakes talks in Washington. (WSJ)
+- **[Oil leaders panic as U.S. mulls limiting diesel exports](https://finance.yahoo.com/markets/article/oil-hovers-near-100-as-analysts-warn-trump-diesel-export-ban-would-tighten-global-supply-130359301.html)** — Export limits could tighten global fuel supply. (Morning Brew)
+- **[Netanyahu speaks at UN as Senate rejects Iran war-powers resolution](https://www.newsnationnow.com/world/us-iran-war-united-nations-trump-strait-of-hormuz/)** — The Middle East conflict remained front and center. (NewsNation)
+- **[Europe takes a safe-and-steady AI path](https://www.csmonitor.com/World/Europe/2026/0924/ai-europe-mistral-values-trump-xi-development-bubble?icid=rss)** — Europe is choosing caution as the U.S. and China race ahead. (CS Monitor)
+- **[Big Tech moguls attend Trump-Xi dinner](https://thehill.com/homenews/administration/6110866-trump-xi-white-house-dinner/)** — Zuckerberg and Altman were among the power players. (The Hill)
+- **[Texas wants campus free speech—with exceptions](https://reason.com/2026/09/24/texas-wants-free-speech-on-campus-with-exceptions/)** — The policy’s limits get a skeptical inspection. (Reason)
 
 ### AI & Tech Desk
-- **[F-Droid Gets Its Biggest Update in a Decade](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)** — Version 2.0 brings a new interface and smoother installs. (Ars Technica)
-- **[New York Asks Court to Shut Down Polymarket Gambling](https://www.governor.ny.gov/news/governor-hochul-and-attorney-general-james-announce-lawsuit-against-polymarket-running-illegal)** — The state calls the platform an illegal gambling operation. (Ars Technica)
-- **[Show HN: Whiteboard — An Open-Source IDE for Thoughtful Software Design](https://github.com/devdotfast/whiteboard)** — The YC W26 project reached Hacker News’ front page. (Hacker News)
+- **[F-Droid gets its biggest update in a decade](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)** — Version 2.0 brings a new UI and smoother installs. (Ars Technica)
+- **[CDC opens state ordering for COVID-19 vaccines](https://arstechnica.com/health/2026/09/rfk-jr-s-cdc-isnt-letting-states-order-covid-19-shots-for-kids-blocking-access/)** — Ordering opened after an unexplained delay. (Ars Technica)
+- **[Show HN: Whiteboard—an open-source design IDE](https://github.com/devdotfast/whiteboard)** — A tool for more deliberate software planning reached the front page. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS — THE DAY'S CLOSE
+## 📈 BUSINESS & MARKETS — OVERNIGHT TAPE
 
-**TECH RALLIES; BONDS KEEP THE PRESSURE ON**
+**Tech sprinted; rates and the old economy pushed back.**
 
 ### Business Newswire
-- **[Why Investors Aren’t Buying Another Treasury Attempt to Calm Bonds](https://www.marketwatch.com/story/why-investors-arent-buying-yet-another-attempt-by-the-treasury-to-calm-the-rattled-bond-market-b168cac3?mod=mw_rss_topstories)** — Long rates finished near their annual highs. (MarketWatch)
-- **[Costco Earnings Beat Expectations](https://www.marketwatch.com/story/costco-earnings-beat-expectations-thanks-to-tariff-refunds-e7270cfa?mod=mw_rss_topstories)** — Tariff refunds helped the retailer clear the bar. (MarketWatch)
-- **[Diesel Export Ban Risks Higher Prices](https://www.forbes.com/sites/daneberhart/2026/09/24/diesel-export-ban-risks-higher-prices-undercuts-energy-agenda/)** — Critics warn restrictions could raise costs. (Forbes)
+- **[Three things Micron investors need to watch](https://www.marketwatch.com/story/3-things-micron-investors-need-to-watch-as-the-stakes-get-higher-e53fde7e?mod=mw_rss_topstories)** — The chip cycle’s stakes keep climbing. (MarketWatch)
+- **[The S&P 500’s newest tech stock is now its best performer](https://www.marketwatch.com/story/the-s-p-500s-newest-tech-stock-is-now-its-best-performer-5bfeb6e2?mod=mw_rss_topstories)** — Fresh index membership came with immediate heat. (MarketWatch)
+- **[All-American Rejects discuss touring as independents](https://www.forbes.com/sites/jimryan1/2026/09/24/the-all-american-rejects-on-touring-creating-as-independent-artists/)** — The band lays out the business of going independent. (Forbes)
 
 ### The Numbers (with 52W Range)
 
 | Index | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---:|
+|---|---:|---:|---:|---|
 | [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7,704.13 | +66.37 | +0.87% | 6,316.91–7,816.70 |
 | [Dow 30](https://www.marketwatch.com/investing/index/djia) | 51,349.98 | -428.06 | -0.83% | 45,057.28–54,744.33 |
-| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,939.37 | +521.07 | +1.97% | 20,690.25–27,288.79 |
-| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,835.57 | -39.06 | -1.36% | 2,303.46–3,069.71 |
+| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,939.373 | +521.07 | +1.97% | 20,690.25–27,288.79 |
+| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,835.574 | -39.06 | -1.36% | 2,303.46–3,069.71 |
+
+The S&P 500 and Nasdaq sit near their 52-week highs, but the split tape was no broad victory lap.
 
 ### Federal Funds Rate
-**EFFR:** 3.88% · **Fed target:** 3.75%–4.00%.
+**EFFR:** 3.88% · **Fed target range:** 3.75%–4.00%
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
-|---|---:|---:|---:|
+|---|---:|---:|---|
 | [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.461% | +0.13 | 4.528%–5.474% |
 | [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 4.068% | +0.09 | 3.507%–4.072% |
 
-Both rates sit near 52-week highs—the market’s least subtle message tonight.
+Both rates are pressing their yearly ceilings—rough medicine for borrowers.
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
-|---|---:|---:|---:|---:|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.704 | +0.09 | +0.14% | 52.456–63.021 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1382 | -0.01 | -0.82% | 1.1325–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7037 | -0.00 | -0.06% | 6.6953–7.1909 |
+|---|---:|---:|---:|---|
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.528 | -0.35 | -0.56% | 52.456–63.021 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1373 | -0.01 | -0.93% | 1.1325–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.7037 | +0.01 | +0.09% | 6.6953–7.1909 |
 
 ### ETFs (with 52W Range)
 
-| ETF | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---:|
-| [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | 106.09 | +1.90 | +1.82% | 81.45–107.51 |
-| [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | 33.10 | -0.79 | -2.33% | 26.32–35.31 |
-| [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | 85.59 | -0.91 | -1.05% | 72.08–88.62 |
-| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | 235.44 | -4.14 | -1.73% | 198.76–251.85 |
-| [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | 91.17 | -2.64 | -2.81% | 86.84–101.80 |
+| ETF (Symbol — Name) | Price | Change | % | 52-Week Range |
+|---|---:|---:|---:|---|
+| [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | $106.09 | +1.90 | +1.82% | $81.45–$107.51 |
+| [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | $33.10 | -0.79 | -2.33% | $26.32–$35.31 |
+| [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | $85.59 | -0.91 | -1.05% | $72.08–$88.62 |
+| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | $235.44 | -4.14 | -1.73% | $198.76–$251.85 |
+| [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | $91.17 | -2.64 | -2.81% | $86.84–$101.80 |
 
 ### Stock Watch (with 52W Range)
 
 | Ticker | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---:|
-| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | 224.58 | +5.24 | +2.39% | 164.27–236.54 |
-| [TSM](https://www.marketwatch.com/investing/stock/tsm) | 451.15 | +20.89 | +4.86% | 266.82–479.00 |
-| [AMD](https://www.marketwatch.com/investing/stock/amd) | 629.26 | +84.17 | +15.44% | 154.78–630.79 |
-| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | 249.38 | -1.81 | -0.72% | 196.00–287.20 |
-| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | 71.72 | -3.59 | -4.77% | 65.08–124.86 |
-| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | 377.94 | +11.74 | +3.21% | 297.38–498.83 |
-| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | 52.60 | -0.34 | -0.64% | 38.46–79.22 |
-| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | 505.18 | -4.02 | -0.79% | 464.01–537.74 |
-| [AXP](https://www.marketwatch.com/investing/stock/axp) | 305.66 | -5.51 | -1.77% | 290.97–387.49 |
-| [SCHW](https://www.marketwatch.com/investing/stock/schw) | 99.49 | -5.14 | -4.91% | 83.96–114.53 |
-| [RL](https://www.marketwatch.com/investing/stock/rl) | 351.86 | +18.78 | +5.64% | 299.98–421.60 |
-| [COST](https://www.marketwatch.com/investing/stock/cost) | 896.48 | +2.55 | +0.29% | 844.06–1,096.50 |
-| [UPS](https://www.marketwatch.com/investing/stock/ups) | 92.05 | -8.12 | -8.11% | 82.00–122.41 |
+|---|---:|---:|---:|---|
+| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | $224.58 | +5.24 | +2.39% | $164.27–$236.54 |
+| [TSM](https://www.marketwatch.com/investing/stock/tsm) | $451.15 | +20.89 | +4.86% | $266.82–$479.00 |
+| [AMD](https://www.marketwatch.com/investing/stock/amd) | $629.26 | +84.17 | +15.44% | $157.05–$630.80 |
+| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | $249.38 | -1.81 | -0.72% | $196.00–$287.20 |
+| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | $71.72 | -3.59 | -4.77% | $65.08–$124.86 |
+| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | $377.94 | +11.74 | +3.21% | $297.38–$498.83 |
+| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | $52.60 | -0.34 | -0.64% | $38.46–$79.215 |
+| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | $505.18 | -4.02 | -0.79% | $464.01–$537.74 |
+| [AXP](https://www.marketwatch.com/investing/stock/axp) | $305.66 | -5.51 | -1.77% | $290.97–$387.49 |
+| [SCHW](https://www.marketwatch.com/investing/stock/schw) | $99.49 | -5.14 | -4.91% | $83.96–$114.53 |
+| [RL](https://www.marketwatch.com/investing/stock/rl) | $351.86 | +18.78 | +5.64% | $304.46–$421.60 |
+| [COST](https://www.marketwatch.com/investing/stock/cost) | $896.48 | +2.55 | +0.29% | $844.06–$1,096.50 |
+| [UPS](https://www.marketwatch.com/investing/stock/ups) | $92.05 | -8.12 | -8.11% | $82.00–$122.41 |
 
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---:|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $84,304.35 | +$3,161.74 | +3.90% | $57,747.77–$126,198.07 |
-| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $94.76 | -$1.02 | -1.06% | $54.98–$119.48 |
+|---|---:|---:|---:|---|
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $84,216.00 | -2,386.91 | -2.76% | $57,747.766–$126,198.07 |
+| [Oil (WTI)](https://www.marketwatch.com/investing/future/cl.1) | $93.09 | -2.69 | -2.81% | $54.98–$119.48 |
 
 ### 📢 Major Move Alert
-📢 **AMD +15.44%** and closed just below its 52-week high; the chip trade did the heavy lifting while much of the broader tape sagged.
+📢 AMD +15.44% and finished just below its 52-week high; the chip trade supplied the fireworks while the wider tape stayed split.
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): **7.17%** (Bankrate top listed rate)
-- National regular: **$4.4825**; New Jersey regular: **$4.3966** (AAA)
-- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): local pump price unavailable
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 7.17% (Bankrate top listed rate)
+- National regular: $4.4825; New Jersey regular: $4.3966 (AAA)
+- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): *Local pump price unavailable*
 
-**BOTTOM LINE:** Nasdaq gained 1.97% and the S&P 500 finished near its 52-week high, but falling small caps and near-peak Treasury rates made this anything but an all-clear.
+**BOTTOM LINE:** Tech carried the night, but near-yearly-high Treasury rates and a 7.17% mortgage quote keep the borrowing side chilly. The S&P remains close to its 52-week peak.
 
 ---
 
-## 🏟️ SPORTS — NEWSWIRE + FINAL/NEXT UP
+## 🏟️ SPORTS — NEWSWIRE + LATE SCORES/NEXT UP
 
-**BASEBALL SPRINTS HOME; FOOTBALL OWNS THE NIGHT**
+**September means pennant pressure, preseason ice and football under the lights.**
 
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Bob Pettit, Hall of Famer and Two-Time MVP, Dies at 93](https://x.com/hoophall/status/2103228425498759171)** — Basketball lost one of its early giants. (NBA / Yahoo Sports)
-- **[Steve Alford to Retire After 2026-27](https://sports.yahoo.com/mens-college-basketball/article/nevada-coach-steve-alford-to-retire-after-2026-27-season-ending-a-36-year-career-coaching-college-basketball-212049961.html)** — Nevada’s coach will close a 36-year college career. (NCAAB / Yahoo Sports)
-- **[Brock Bowers Remains Limited](https://sports.yahoo.com/articles/brock-bowers-remains-limited-thursdays-214119090.html)** — The tight end stayed on Thursday’s injury report. (NFL / Yahoo Sports)
-- **[Cubs Clinch Second Straight Playoff Berth](https://sports.yahoo.com/mlb/miami-marlins-chicago-cubs-460924116/)** — Chicago punched its October ticket. (MLB / Yahoo Sports)
-- **[Adam Fantilli Agrees to Six-Year, $82.5 Million Deal](https://sports.yahoo.com/articles/blue-jackets-sign-adam-fantilli-203719972.html)** — Columbus secured a franchise centerpiece. (NHL / Yahoo Sports)
-- **[Presidents Cup Friday Foursomes Set](https://www.golfchannel.com/pga-tour/2026/presidents-cup/leaderboard)** — Pairings and start times are posted for Medinah. (PGA / Yahoo Sports)
-- **[CRO Race: Tobias Svarre Takes Lead After Stage 3](https://www.cyclingnews.com/pro-cycling/racing/cro-race-uno-x-mobility-win-again-on-queen-stage-3-as-tobias-svarre-vaults-into-race-lead/)** — Uno-X won again on the queen stage. (Cycling / Cyclingnews)
+- **[Bob Pettit, first NBA MVP, dies at 93](https://sports.yahoo.com/articles/bob-pettit-imposing-hawks-great-012156152.html)** — Basketball lost one of its foundational giants. (NBA / Yahoo Sports)
+- **[Packers routed 35–14 by Falcons](https://sports.yahoo.com/nfl/article/josh-jacobs-case-judge-reportedly-denies-victims-request-to-permanently-seal-evidence-including-surveillance-video-185011988.html)** — The home dud turned up the heat on Matt LaFleur. (NFL / Yahoo Sports)
+- **[Diamondbacks sweep and stay alive](https://sports.yahoo.com/articles/snakes-sweep-still-alive-dbacks-030536194.html)** — Arizona beat Colorado 12–8 to keep breathing. (MLB / Yahoo Sports)
+- **[Filip Chytil injury update](https://sportsdata.usatoday.com/hockey/nhl/teams/vancouver-canucks/4975)** — The Canucks forward’s collision with a referee drew concern. (NHL / Yahoo Sports)
+- **[U.S. takes an early Presidents Cup lead](https://golf.com/news/us-leads-presidents-cup-thursday/)** — Scheffler and Burns helped fend off an upset. (PGA / Yahoo Sports)
+- **[Tobias Svarre takes the CRO Race lead](https://www.cyclingnews.com/pro-cycling/racing/cro-race-uno-x-mobility-win-again-on-queen-stage-3-as-tobias-svarre-vaults-into-race-lead/)** — Uno-X won again on the queen stage. (Cycling / Cyclingnews)
 
 ### Scoreboard
 
 #### 🏈 NFL
 
-| Time | Matchup | TV |
+| Matchup | Final/Status | Box Score |
 |---|---|---|
-| 9/24 — 8:15 PM EDT | Falcons at Packers | Prime Video |
+| Falcons at Packers | ATL 35, GB 14 — Final | [Full box score](https://sports.yahoo.com/nfl/atlanta-falcons-green-bay-packers-20260924009/) |
 
 #### 🏈 NCAAF
 
+| Matchup | Final/Status | Box Score |
+|---|---|---|
+| Liberty at Coastal Carolina | LIB 34, CCU 17 — Final | [Full box score](https://www.espn.com/college-football/boxscore/_/gameId/401869941) |
+
 | Time | Matchup | TV |
 |---|---|---|
-| 9/24 — 7:30 PM EDT | Liberty at Coastal Carolina | ESPN |
-| 9/25 — 4:00 PM EDT | Army at Temple | ESPN |
-| 9/25 — 7:00 PM EDT | Howard at Rutgers | BTN |
-| 9/25 — 7:00 PM EDT | Navy at UAB | ESPN |
-| 9/25 — 8:00 PM EDT | Northwestern at Indiana | FOX |
-| 9/25 — 10:30 PM EDT | Clemson at California | ESPN |
+| 9/25 - 4:00 PM EDT | Army at Temple | ESPN |
+| 9/25 - 7:00 PM EDT | Howard at Rutgers | BTN |
+| 9/25 - 7:00 PM EDT | Navy at UAB | ESPN |
+| 9/25 - 8:00 PM EDT | Northwestern at Indiana | FOX |
+| 9/25 - 10:30 PM EDT | Clemson at California | ESPN |
 
 #### ⚾ MLB
 Standings: [MLB standings](https://www.mlb.com/standings)
 
-Key completed results: Mets 7, Rangers 2; Rangers 3, Mets 1; Yankees 9, Rays 2; Red Sox 1, Guardians 0; Mariners 6, Astros 5. [Full MLB scoreboard and box scores](https://www.mlb.com/scores/2026-09-24).
+| Matchup | Final/Status | Box Score |
+|---|---|---|
+| Cardinals at Pirates | PIT 2, STL 1 — Final | [Full box score](https://www.mlb.com/gameday/823326) |
+| White Sox at Royals | CWS 9, KC 1 — Final | [Full box score](https://www.mlb.com/gameday/824059) |
+| Marlins at Cubs | CHC 2, MIA 1 — Final | [Full box score](https://www.mlb.com/gameday/824623) |
+| Mets at Rangers | TEX 3, NYM 1 — Final | [Full box score](https://www.mlb.com/gameday/822842) |
+| Diamondbacks at Rockies | ARI 12, COL 8 — Final | [Full box score](https://www.mlb.com/gameday/824298) |
+| Brewers at Phillies | MIL 5, PHI 1 — Final | [Full box score](https://www.mlb.com/gameday/823411) |
+| Guardians at Red Sox | CLE 1, BOS 0 — Final | [Full box score](https://www.mlb.com/gameday/824707) |
+| Rays at Yankees | NYY 6, TB 4 — Final | [Full box score](https://www.mlb.com/gameday/823493) |
+| Reds at Braves | CIN 7, ATL 6 — Final | [Full box score](https://www.mlb.com/gameday/824866) |
+| Astros at Athletics | HOU 6, ATH 5 — In progress | [Full box score](https://www.mlb.com/gameday/824950) |
+| Angels at Mariners | LAA 5, SEA 4 — In progress | [Full box score](https://www.mlb.com/gameday/823087) |
+| Padres at Dodgers | SD 1, LAD 0 — In progress | [Full box score](https://www.mlb.com/gameday/823895) |
 
 | Time | Matchup | TV |
 |---|---|---|
-| 9/24 — 6:05 PM EDT | Brewers at Phillies | MLB.TV, Brewers.TV, NBC Sports Phil |
-| 9/24 — 6:45 PM EDT | Guardians at Red Sox | MLB.TV, CLEGuardians.TV, NESN |
-| 9/24 — 7:05 PM EDT | Rays at Yankees | MLB.TV, Rays.TV, YES |
-| 9/24 — 7:15 PM EDT | Reds at Braves | MLB.TV, FS1, BravesVision, Reds.TV |
-| 9/24 — 9:40 PM EDT | Angels at Mariners | MLB.TV, Mariners.TV, Angels.TV |
-| 9/24 — 9:40 PM EDT | Astros at Athletics | MLB.TV, NBC Sports CA, Space City Home Network |
-| 9/24 — 10:10 PM EDT | Padres at Dodgers | MLB.TV, SportsNet LA, Padres.TV, MLB Net |
-| 9/25 — 1:05 PM EDT | Cubs at Red Sox | MLB.TV, Marquee Sports Net |
-| 9/25 — 6:00 PM EDT | Cubs at Red Sox | ESPN Unlmtd, MLB.TV, Marquee Sports Net, NESN |
-| 9/25 — 6:40 PM EDT | Pirates at Tigers | MLB.TV, Tigers.TV |
-| 9/25 — 6:40 PM EDT | Rays at Phillies | MLB.TV, Rays.TV, NBC Sports Phil |
-| 9/25 — 6:45 PM EDT | Mets at Nationals | MLB.TV, Nationals.TV, WPIX |
-| 9/25 — 7:05 PM EDT | Orioles at Yankees | MLB.TV, MASN, YES |
-| 9/25 — 7:07 PM EDT | Reds at Blue Jays | MLB.TV, Reds.TV, Sportsnet, TVA |
-| 9/25 — 7:10 PM EDT | Braves at Marlins | MLB.TV, BravesVision, Marlins.TV |
-| 9/25 — 7:40 PM EDT | Guardians at Royals | MLB.TV, CLEGuardians.TV, Royals.TV |
-| 9/25 — 7:40 PM EDT | Rockies at White Sox | MLB.TV, Rockies.TV, CHSN |
-| 9/25 — 7:40 PM EDT | Cardinals at Brewers | MLB.TV, Brewers.TV, Cardinals.TV |
-| 9/25 — 8:10 PM EDT | Rangers at Twins | MLB.TV, Twins.TV, Rangers Sports Network, CW33 |
-| 9/25 — 9:40 PM EDT | Diamondbacks at Padres | MLB.TV, Padres.TV, DBACKS.TV |
+| 1:05 PM EDT | Cubs at Red Sox | MLB.TV, Marquee Sports Net |
+| 4:05 PM EDT | Orioles at Yankees | MLB.TV, FOX |
+| 6:00 PM EDT | Cubs at Red Sox | ESPN Unlmtd, MLB.TV, Marquee, NESN |
+| 6:40 PM EDT | Pirates at Tigers | MLB.TV, Tigers.TV |
+| 6:40 PM EDT | Rays at Phillies | MLB.TV, Rays.TV, NBC Sports Phil |
+| 6:45 PM EDT | Mets at Nationals | MLB.TV, Nationals.TV, WPIX |
+| 7:05 PM EDT | Orioles at Yankees | MLB.TV, MASN, YES |
+| 7:07 PM EDT | Reds at Blue Jays | MLB.TV, Reds.TV, Sportsnet, TVA |
+| 7:10 PM EDT | Braves at Marlins | MLB.TV, BravesVision, Marlins.TV |
+| 7:40 PM EDT | Guardians at Royals | MLB.TV, CLEGuardians.TV, Royals.TV |
+| 7:40 PM EDT | Rockies at White Sox | MLB.TV, Rockies.TV, CHSN |
+| 7:40 PM EDT | Cardinals at Brewers | MLB.TV, Brewers.TV, Cardinals.TV |
+| 8:10 PM EDT | Rangers at Twins | MLB.TV, Twins.TV, Rangers Sports Network, CW33 |
+| 9:40 PM EDT | Diamondbacks at Padres | MLB.TV, Padres.TV, DBACKS.TV |
+| 9:40 PM EDT | Astros at Athletics | MLB.TV, NBC Sports CA, Space City Home Network |
+| 10:10 PM EDT | Angels at Mariners | MLB.TV, Mariners.TV, Angels.TV |
+| 10:15 PM EDT | Dodgers at Giants | MLB.TV, NBC Sports BA, SportsNet LA |
 
 #### 🏒 NHL
 Standings: [NHL standings](https://www.nhl.com/standings/)
 
-| Matchup | Final | Box Score |
+| Matchup | Final/Status | Box Score |
 |---|---|---|
-| Maple Leafs at Senators | TOR 4–2 | [Full box score](https://www.espn.com/nhl/boxscore/_/gameId/401879650) |
-| Senators at Maple Leafs | TOR 6–1 | [Full box score](https://www.espn.com/nhl/boxscore/_/gameId/401886441) |
-| Wild at Stars | DAL 2–0 | [Full box score](https://www.espn.com/nhl/boxscore/_/gameId/401886429) |
-| Kings at Ducks | LAK 2–1 | [Full box score](https://www.espn.com/nhl/boxscore/_/gameId/401879369) |
+| Bruins at Flyers | PHI 2, BOS 0 — Final | [Full box score](https://sports.yahoo.com/nhl/boston-bruins-philadelphia-flyers-2026092415/) |
+| Sabres at Red Wings | DET 3, BUF 2 — Final/OT | [Full box score](https://sports.yahoo.com/nhl/buffalo-sabres-detroit-red-wings-2026092405/) |
+| Penguins at Blue Jackets | CBJ 4, PIT 0 — Final | [Full box score](https://sports.yahoo.com/nhl/pittsburgh-penguins-columbus-blue-jackets-2026092429/) |
+| Devils at Rangers | NYR 4, NJ 3 — Final/SO | [Full box score](https://sports.yahoo.com/nhl/new-jersey-devils-new-york-rangers-2026092413/) |
+| Predators at Hurricanes | CAR 6, NSH 5 — Final | [Full box score](https://sports.yahoo.com/nhl/nashville-predators-carolina-hurricanes-2026092407/) |
+| Panthers at Lightning | FLA 5, TB 3 — Final | [Full box score](https://sports.yahoo.com/nhl/florida-panthers-tampa-bay-lightning-2026092420/) |
+| Blackhawks at Blues | STL 1, CHI 0 — Final | [Full box score](https://sports.yahoo.com/nhl/chicago-blackhawks-st-louis-blues-2026092419/) |
+| Oilers at Canucks | EDM 2, VAN 1 — Final | [Full box score](https://sports.yahoo.com/nhl/edmonton-oilers-vancouver-canucks-2026092422/) |
+| Flames at Kraken | 3–3, 12:11 3rd | — |
+| Mammoth at Golden Knights | UTA 3, VGK 1, end 2nd | — |
+| Ducks at Sharks | SJ 7, ANA 0, 16:42 3rd | — |
 
 | Time | Matchup | TV |
 |---|---|---|
-| 9/24 — 7:00 PM EDT | Bruins at Flyers | ESPN+, NESN+, NBC Sports Philadelphia Plus |
-| 9/24 — 7:00 PM EDT | Sabres at Red Wings | ESPN+, Delmarva Sports Network, MSG Buffalo |
-| 9/24 — 7:00 PM EDT | Penguins at Blue Jackets | N/A |
-| 9/24 — 7:00 PM EDT | Devils at Rangers | MSGSN, NHL Network, MSG Network |
-| 9/24 — 7:00 PM EDT | Predators at Hurricanes | ESPN+, Scripps Sports |
+| 7:00 PM EDT | Bruins at Capitals | ESPN+, NESN+, Monumental |
+| 7:30 PM EDT | Rangers at Islanders | ESPN+, MSG, MSGSN |
+| 8:00 PM EDT | Stars at Wild | TNT, truTV |
+| 8:30 PM EDT | Jets at Avalanche | N/A |
 
 #### ⚽ MLS
 Standings: [MLS standings](https://www.mlssoccer.com/standings/)
 
-Seattle Sounders 2, Real Salt Lake 0 (FT; Apple TV).
+Five Saturday matches kick at 7:30 PM EDT on Apple TV: NYCFC–Atlanta, Cincinnati–Montréal, Chicago–Charlotte, Orlando–Philadelphia and St. Louis–Red Bull New York.
 
 #### 🚴 Cycling
 Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 
-The 2026 Tour is complete: Mathieu van der Poel won Stage 21; Tadej Pogačar won the general classification in 73h 56m 26s.
+The 2026 Tour is complete: Mathieu van der Poel won Stage 21 in 1:58:49; Tadej Pogačar won the general classification in 73:56:26, 6:26 ahead of Remco Evenepoel.
 
-### ▣ NY Giants Team Report
-[Team source](https://sports.yahoo.com/nfl/teams/new-york-giants/)
+### Team Reports
+_Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
 
-Last five: L 10–13 Vikings; W 26–3 Dolphins; W 23–6 Jets; W 28–20 Cowboys; L 6–28 Rams. Next: Titans, Sep. 27 at 1 PM (CBS); Cardinals, Oct. 4 at 1 PM (CBS). [Injury report](https://www.giants.com/news/injury-report-nfl-week-3-titans-jaxson-dart-brian-burns-malik-nabers-andrew-thomas).
 
-### ▣ NY Mets Team Report
-[Team source](https://www.mlb.com/mets)
+> **NY GIANTS** — [Team source](https://sports.yahoo.com/nfl/teams/new-york-giants/)
+>
+> Last two: W 28–20 vs. Dallas; L 6–28 at the Rams. Next: Titans, Sunday at 1 PM EDT on CBS; Cardinals, Oct. 4 at 1 PM on CBS. [Injury report](https://www.giants.com/news/injury-report-nfl-week-3-titans-jaxson-dart-brian-burns-malik-nabers-andrew-thomas).
 
-Recent: L 1–7 Orioles; L 0–3 Phillies; [W 7–2 Rangers](https://www.mlb.com/gameday/822841); [L 1–3 Rangers](https://www.mlb.com/gameday/822842). [Game report](https://www.amazinavenue.com/new-york-mets-discussion/101132/mets-rangers-lineups-pitchers-thornton).
+> **NY METS** — [Team source](https://www.mlb.com/mets)
+>
+> Thursday: [W 7–2](https://www.mlb.com/gameday/822841), then [L 1–3](https://www.mlb.com/gameday/822842) at Texas. Next: at Washington, Friday at 6:45 PM EDT. [Juan Soto took the blame for missing the playoffs](https://sny.tv/tags/mets).
 
-### ▣ NJ Devils Team Report
-The Devils visit the Rangers tonight at 7 PM on MSGSN, NHL Network and MSG. [Preview](https://www.nhl.com/devils/news/preview-2026010045) · [Camp notebook](https://www.nhl.com/devils/news/devils-notebook-9-23-26).
+> **NJ DEVILS**
+>
+> The Devils rallied before falling 4–3 to the Rangers in a shootout. [Game story](https://www.nhl.com/devils/news/game-story-2026010045) · [Quick recap](https://www.nhl.com/devils/news/live-updates-2026010045).
 
 ---
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
-**THURSDAY NIGHT HAS TWO RINGS OPEN**
+**TNA owned Thursday; Friday’s cards are already on deck.**
 
 ### Upcoming TV / PLE Schedule
 
 | Group | Next up | Watch / verify |
 |---|---|---|
-| WWE | SmackDown — Sep. 25; Raw — Sep. 28 | [WWE events](https://www.wwe.com/events) |
-| NXT | NXT TV — Sep. 29 | [WWE events](https://www.wwe.com/events) |
-| AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
-| AEW | Collision — Sep. 26; Dynamite — Sep. 30 | [AEW events](https://www.allelitewrestling.com/aew-events) |
-| ROH | ROH TV — tonight | [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! — tonight | [TNA events](https://tnawrestling.com/events/) |
-| NJPW | Tour calendar | [NJPW schedule](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México — Sep. 25, 27, 29 | [CMLL](https://cmll.com/) |
+| WWE | SmackDown — Sep. 25; Raw — Sep. 28 | USA/Netflix/Peacock · [Events](https://www.wwe.com/events) |
+| NXT | NXT TV — Sep. 29 | CW/Peacock · [Events](https://www.wwe.com/events) |
+| AAA | Cards vary | [Official](https://www.luchalibreaaa.com/) |
+| AEW | Collision — Sep. 26; Dynamite — Sep. 30 | TNT/TBS · [Events](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV — Oct. 1 | HonorClub · [Official](https://www.ringofhonor.com/) |
+| TNA | iMPACT! — Oct. 1 | AXS/TNA+ · [Events](https://tnawrestling.com/events/) |
+| NJPW | Calendar-based tour cards | [Schedule](https://www.njpw1972.com/schedule/) |
+| CMLL | Arena México — Sep. 25, 27, 29 | [Official](https://cmll.com/) |
 
 ### Headlines
-- **[Roman Reigns Says Another WWE Run Is Possible](https://www.wrestlinginc.com/2267971/roman-reigns-wwe-future-possibly-whole-nother-run-loose-ends/)** (WWE / WrestlingInc)
-- **[Ari Emanuel Details Vince McMahon’s Exit](https://www.postwrestling.com/2026/09/24/ari-emanuel-details-vince-mcmahons-exit-after-wsj-report/)** (WWE / POST Wrestling)
-- **[Tony Khan Says Mercedes Moné’s Injury Changed All Out Plans](https://411mania.com/wrestling/tony-khan-reveals-mercedes-mone-injury-changed-plans-aew-all-out-2026/)** (AEW / 411mania)
-- **[MJF Is No. 1 in the 2026 PWI 500](https://www.reddit.com/r/SquaredCircle/comments/1wp1a58/mjf_is_1_in_the_2026_pwi_500/)** (r/SquaredCircle)
+- **[TNA reveals Joseph Sawyer and Samuel Shaw](https://www.postwrestling.com/2026/09/24/joseph-sawyer-samuel-shaw-revealed-as-mystery-attackers-on-tna-impact/)** — The mystery attackers were unmasked. **[TNA]**
+- **[Mustafa Ali retains the International title](https://www.wrestlinginc.com/2268503/tna-impact-mustafa-ali-jason-hotch-trey-miguel-capitalizes-chaos-retain-international-title/)** — Ali capitalized on the chaos. **[TNA]**
+- **[Hardys segment and qualifier set for Oct. 1](https://www.fightful.com/wrestling-news/the-hardys-to-call-out-joseph-sawyer-samuel-shaw-x-division-title-match-qualifier-more-set-for-10-1-tna-impact)** — Next week’s iMPACT card is taking shape. **[TNA]**
+- **[MLW and CMLL smooth over alliance issues](https://www.cagesideseats.com/lucha-libre-aaa-cmll/477504/cmll-mlw-bizarre-conflict-resolved-tessa-blanchard-mistico-interpromotional-alliance-issue)** — The interpromotional relationship appears back on track. **[CMLL]**
+- **[Updated Bound for Glory card](https://411mania.com/wrestling/updated-card-tna-bound-glory-9-24-26/)** — The major TNA show received a card refresh. **[TNA]**
+
+### r/SquaredCircle
+- [Post-TNA Impact discussion](https://www.reddit.com/r/SquaredCircle/comments/1wpla00/post_tna_impact_discussion_thread_september_24/)
+- [Mystery attackers revealed](https://www.reddit.com/r/SquaredCircle/comments/1wpkc53/tna_spoilers_mystery_attackers_revealed/)
+- [TNA Impact debut](https://www.reddit.com/r/SquaredCircle/comments/1wpk6fi/tna_impact_spoilers_debut/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -302,42 +330,41 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Sep. 13, 2026 | 5.25 | Rey Fénix vs. Jack Cartwheel vs. Mini Vikingo vs. Nathan Frazer | AAA/WWE | Triplemanía 34 Night 2 |
 | Aug. 30, 2026 | **6.5** | **Will Ospreay vs. Kenny Omega** | **AEW** | **All In** |
 | Aug. 30, 2026 | 5 | Mercedes Moné vs. Willow Nightingale | AEW | All In |
+| Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 16 |
+| Aug. 16, 2026 | 5.5 | Yuya Uemura vs. Ryohei Oiwa | NJPW | G1 Climax 36 Final |
 
 ---
 
 ## 📱 FROM YOUR FEEDS
 
-**OPEN TABS, EVENING EDITION**
+**Your tabs, condensed before they multiply again.**
 
 ### Reddit — What's Trending
-#### r/Android
-- **[F-Droid 2.0: A New Chapter for Android Freedom](https://www.reddit.com/r/Android/comments/1wp3w26/fdroid_20_a_new_chapter_for_android_freedom/)**
+#### r/Hoboken
+- **[Waymo spotted again](https://www.reddit.com/r/Hoboken/comments/1wp4o8t/waymo_spotted_again/)**
 
-#### r/technology
-- **[New York Sues Polymarket](https://www.reddit.com/r/technology/comments/1wp7mv4/new_york_sues_prediction_market_polymarket/)**
-- **[Japanese Used Bookstores See AI-Driven Bulk-Buy Surge](https://www.reddit.com/r/technology/comments/1wp3sd8/japanese_used_bookstores_see_5x_sales_surge_as/)**
+#### r/NixOS
+- **[Dutch government reportedly picks up NixOS](https://www.reddit.com/r/NixOS/comments/1wpepa9/seems_like_the_dutch_government_also_picked_up_on/)**
+- **[nix-plist-manager 3.0](https://www.reddit.com/r/NixOS/comments/1wpdto4/nixplistmanager_30_declare_almost_all_of_macos/)**
 
-#### r/nyc
-- **[Met Opera Plans 70,000 Free Lottery Tickets for Eligible New Yorkers](https://www.reddit.com/r/nyc/comments/1wpd8h7/in_partnership_with_the_nyc_mayors_office_the/)**
+#### r/netsec
+- **[CVE-2026-91766: PHP redirect credential leak](https://www.reddit.com/r/netsec/comments/1wpcgf9/cve202691766_php_had_the_redirect_credential_leak/)**
 
-#### r/sysadmin
-- **[What’s the Biggest Bonehead Mistake You Made in IT Support?](https://www.reddit.com/r/sysadmin/comments/1wpd8pt/whats_the_biggest_bonehead_mistake_you_have_every/)**
+#### r/chess
+- **[Kasparov says the championship line ended with Carlsen](https://www.reddit.com/r/chess/comments/1wpih2k/its_nothing_to_do_with_gukesh_sindarov_or_ding/)**
 
 ### 📺 YouTube — Past 24 Hours
-- **Breaking Points:** [Bond Market Meltdown](https://www.youtube.com/watch?v=iAnFOzfaWsk)
-- **GothamChess:** [Unbelievable Chess Drama](https://www.youtube.com/watch?v=BEhOv3e0Fdg)
-- **House of Highlights:** [Mets vs. Rangers — Full Game Highlights](https://www.youtube.com/watch?v=hsCoV4qstsM)
-- **NPR Music:** [Alex Ferreira: Tiny Desk Concert](https://www.youtube.com/watch?v=zw3iotteJz0)
-- **Pablo Torre Finds Out:** [We Investigated the Christian “Scam” Fronted by Tim Tebow](https://www.youtube.com/watch?v=uh7s2jr0b48)
+- **Marques Brownlee**: [Xiaomi 18 Pro Max: They've Done It Again!](https://www.youtube.com/watch?v=DkUuOr21v4s)
+- **The PrimeTime**: [Gemini is outdated](https://www.youtube.com/shorts/RvWtZNJl9O0)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **Cover Me:** [Def Leppard Resurrects Lost Beatles Cover](https://www.covermesongs.com/2026/09/def-leppard-resurrects-lost-beatles-cover-for-new-box-set.html)
-- **gHacks:** [Windows 11 Updates Break Always On VPN](https://www.ghacks.net/2026/09/24/microsoft-confirms-september-windows-11-updates-break-always-on-vpn-connections/)
-- **Jersey Digs:** [Plans Revealed for 365-Unit Project Near Hoboken Terminal](https://jerseydigs.com/hoboken-connect-terminal-phase-one/)
-- **OSnews:** [The State of Scrollbars in Windows](https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/)
+- **Cover Me**: [Def Leppard resurrects a lost Beatles cover](https://www.covermesongs.com/2026/09/def-leppard-resurrects-lost-beatles-cover-for-new-box-set.html)
+- **gHacks**: [Windows 11 updates break Always On VPN](https://www.ghacks.net/2026/09/24/microsoft-confirms-september-windows-11-updates-break-always-on-vpn-connections/)
+- **Jersey Digs**: [Plans revealed for 365-unit project near Hoboken Terminal](https://jerseydigs.com/hoboken-connect-terminal-phase-one/)
+- **KnickerBlogger**: [Knicks Morning News](https://knickerblogger.net/2026/09/knicks-morning-news-2026-09-24/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-That’s all for tonight, folks. Keep the porch light on, the score app handy, and save the pork roll for morning.
+Lights out, folks—the boardwalk gets another run tomorrow, and the pork roll will be waiting.
