@@ -285,6 +285,13 @@ Rankings: [Tour de France rankings](https://www.letour.fr/en/rankings)
 _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
 
 
+> **SETON HALL MEN’S BASKETBALL** — [Team source](https://shupirates.com/sports/mens-basketball)
+>
+> Next: Saint Peter’s at home Nov. 2; LIU at home Nov. 5. TV assignments remain pending.
+>
+> - [Seton Hall’s 2026–27 Big East schedule is finalized](https://news.google.com/rss/articles/CBMixwFBVV95cUxPd3B2WXQ3aUVfN3ltZHJWUDFibkhfRVN4Z0Jja2taVzM2ZEp5QU0ybERLbjc0Y0lCMjBmdW1vTElxX2pCRU1aMXNOemtGREFzS2JZY2Z5Zkw5X2xCdkF2U3J4b3dlSzRZOVdzNENXeVRadk5DRXAyUFNhd091MmlmU0FIVkNMMUYteUVOVEx5UkNtOW05Uk9kZUJqXzhVVG44Rm5BV3RtY2JHNTJWODhKRjVIV1hQNThfQ3pUUTljX3NmRE9iN2tN?oc=5) — The Pirates now have their conference road map for the coming season.
+> - [Seton Hall adds international forward Ilay Dolinski](https://news.google.com/rss/articles/CBMisAFBVV95cUxQUDZId21SM3pUYWRHWDJrMG5CYzJtRzlpbXhXM2xWN1VPYlJxMVNzUnJLcnZCV2RmalhYUWh2N0Q4UE5mUVVnZ3hNYzJLaEg3XzVyWEIyby1OQkI5T0xncW9WaUJXbkhmeS1VMXRSSWs1a3JZOXhLck5na1dvOHY1eFI5TVJmTHBiQzhyRHMzTUpITjduV25WYXlmNzhnamZOLXpMbTdtNEhKQjZ1SkxVMQ?oc=5) — The frontcourt gets another international addition before opening night.
+
 > **NY GIANTS** — [Team source](https://sports.yahoo.com/nfl/teams/new-york-giants/)
 >
 > Last five: L 10–13 Vikings; W 26–3 Dolphins; W 23–6 Jets; W 28–20 Cowboys; L 6–28 Rams. Next: Titans, Sept. 27 at 1 PM on CBS; Cardinals, Oct. 4 at 1 PM on CBS.
@@ -305,6 +312,34 @@ _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](htt
 >
 > - [Devils make roster cuts](https://www.nhl.com/devils/news/devils-make-roster-cuts-transaction-9-25-26) — The preseason roster is tightening.
 > - [Devils’ NHL group gets back to work](https://www.nhl.com/devils/news/devils-notebook-9-25-26) — Camp shifts toward the opening-night group.
+
+> **INTER MIAMI CF** — [Team source](https://sports.yahoo.com/soccer/teams/inter-miami/)
+>
+> Last five: W 7–1 Montréal; T 2–2 Atlanta; T 1–1 Chicago; T 2–2 Nashville; T 2–2 San Diego. Next: at Columbus Sept. 27 at 7 PM on Apple TV; D.C. United at home Oct. 10 at 7:30 PM on Apple TV.
+>
+> - [Inter Miami announces Cristian González’s coaching staff](https://news.google.com/rss/articles/CBMilwFBVV95cUxOMTd1eVBza2NnQWpzY0xMMkZPQlJSU2hBSlJTMVVmRVp1ZHRheGt5YnZHT084SFpEV09QbEtna2dicVV2YU54RE9PMU9NY19uZWRFRzRTUWtiS2hnZC1YOGtITTZDMTFUemtvY09QQU01Q241YVQycVNyVlY0VXhJWVpjbUxOWGZudHA5T2RUYUplMmVwNTln?oc=5) — Miami filled out the staff around its new coach.
+> - [Columbus Crew–Inter Miami preview](https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWMxMUdTLXJXekh0S1QtNzJtUzY4YXpQcl9nQWpDSF9KY0VQdHRsLTJzSmVtQXAwTm1fRGtpT0oweUQxczdFZWlWRjRaSjFnSGxDY0R2R0NoYnVzb01Ub3lOeTl6ak15WTdyMVVjaGQ2WGFRcFR6eFhxZVhRSEJHbHNscng1TFBqSE9vOFFic0dDbVFodXVVQ3ZnczY?oc=5) — Sunday Night Soccer sends Miami to Columbus after four straight draws.
+
+> **BARCELONA** — [Team source](https://sports.yahoo.com/soccer/teams/barcelona/) · [Champions League](https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/)
+>
+> Barcelona has won seven straight in La Liga, most recently 3–1 at Sevilla, and opened Champions League play with a 5–1 win over Feyenoord. Next: Getafe Oct. 10 on ESPN+; at Galatasaray Oct. 13 on Paramount+.
+>
+> - [A Barcelona loanee is already convincing his new club](https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkI1dUtXQlBhOU1IUTJ4NG1RS2JoLWpMUW80eWJTSkstTVNVWUI0Vk5pOVp4QktRMEVYQWZxc3lwbnRyWUxQVG15R3RPZjRXQzcza1Fxa0lOX3Yyb1A0UmZqenVUcGZ6enhuRVN0YVZaYUtvd2hTVHpJR0t2MnRNaHZfUnlISks4VWhheURJZlVvT0lsWkQzTllWTjhRS0hzLUNyTGZhQlNYVjdiU1dYTHVnRlg0Uk5jaXFmWg?oc=5) — A potential permanent move is already entering the conversation.
+> - [Barcelona prepares a €300 million private placement](https://news.google.com/rss/articles/CBMixAFBVV95cUxOLW9peUlqMVdhVHQxVnh4XzRBUjA3cjNLb0FVLUpUX2E0U1FVb3dmOUdaTXZ2NXZaaGk4SXo5SlRpbDVscmw0c1ZoT1ZfLVMxLWxkN2k1czhFaHpoT1BiRFJ0eTFHMjRsbTY1Y21vbDNsdXVrVldFNzRQWjFud0YzTVlYX042dllxU0FYRjc2bzA5alB3UkxBTElaVDlhYnlURnZpTnRDd0pEQXFBbVBlWS1EUG0zTVk0WG9hdU5YckZ6NGlh?oc=5) — The financing would help complete the Camp Nou renovation.
+
+> **ARSENAL** — [Team source](https://sports.yahoo.com/soccer/teams/arsenal/) · [Champions League](https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/)
+>
+> Last five in the league: W 3–0 Coventry; W 1–0 Villa; W 2–1 Chelsea; W 2–0 Sunderland; L 0–3 Brighton. Arsenal also won 1–0 at Napoli in Europe. Next: Leeds Oct. 10; Lille Oct. 13 in the Champions League.
+>
+> - [Arsenal weighs three options to replace injured Kai Havertz](https://news.google.com/rss/articles/CBMikAFBVV95cUxQa1FzNmVvU3N6MUlnczlmQV8yN0gzQXE5OS1ITUNpbXFMUy1zZmFUX044Z1NxcGdRVzBfZU9iT3ZrX3k4aDhXUHlSeFdsMUE0RzlEVGNhQjZ3NVpjRFBNdlBweFFjWkhiQlExWV9TOEFDSGtZcFFaeGc4ck1ya3RHNEt3Skh3WUpleThsNkZjajjSAZYBQVVfeXFMTkl3ekNMcVdhVkVJa20ycTlzVzNoZWhSNGl0cXBRdWljcC02VzVyODlqZlFBMjVFY1gxNXZlTzUyMWZkcE1OZHhjVjdrb0lQeTdBUTFZdEJyQkhhdmFkNmJuM01EelltejJkYnQxc01TY3VEZFlINFVjZkhoOF9mcjQ3WDdaMmVSanU3SlNRTmE1VEpUNnVn?oc=5) — The attack’s depth is back under the microscope.
+> - [Arsenal gets clarity if Manchester City is stripped of titles](https://news.google.com/rss/articles/CBMirgFBVV95cUxNTnBydjk1SWRsa1VjcXQ5OTY0OC1WSlltN2JsZzVuQklDOFQ0dmdXWUcxWFN5QW04YnNiVl9VMnFrc0lGN25DT1pWYVU2eVR6YmppS0JQcUE3aC1KNFZEd00zUzZleXk3ZzFKUXQxU2c4VXdPZ2pMdXBSNTlLTkVfNjlKOFB4b1U2TWRrU1l1eVJrdGEtUUxXOGZqUjhIWjhrc3M5MEZTRDBRMnJGZnc?oc=5) — Arsenal is among the clubs watching the potential competitive fallout.
+
+> **COMO 1907** — [Team source](https://comofootball.com/en/)
+>
+> Last five: T 1–1 Udinese; W 2–1 Napoli; W 4–1 Genoa; W 2–1 Parma; L 0–2 Frosinone. Next: Roma at home Oct. 11 at 6:30 AM ET; at Fiorentina Oct. 18 at 9 AM ET, both on Paramount+.
+>
+> - [Frosinone–Como match preview](https://news.google.com/rss/articles/CBMib0FVX3lxTE5sb2NtTC15MmFaZUk1WC1YaWI5ZWRrdHRZT0ZhN0cwZ3IweFhhTHFkN0hwRE1ZX3dfelRadXppTzM2QUFtdnFOLWxiRkVkRnp1bTI5VWdrbnh5WnM5T2trb0RDVGJWM1NlbFRZLUVmUQ?oc=5) — Como entered the trip looking to extend a strong three-win run.
+> - [Serie A releases dates and times for Weeks 12–19](https://news.google.com/rss/articles/CBMihwFBVV95cUxNZFJPTEZ6TXI0Xy1mYWtDd09qS3pwOUszTVJoYk4ycmFYNFVUY2JQR2wzRUs4MU1lYWFIalplRk94NmZFaF8xcUJMeERzR2ZObVdlcHp1SGRIODVtQnZOY19UQS0zX3ZyVTQ3bzJQMTFQc2ZUN1FlbW5QMWYxR01xakRGLWhqYWM?oc=5) — Como’s later-season calendar now has firmer kickoff windows.
 
 ---
 
