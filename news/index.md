@@ -34,177 +34,160 @@ permalink: /news/
   }
 </style>
 
-_Originally generated: 2026-10-19T06:00:08-04:00_  
-_Source: `2026-10-19-daytime-dispatch.md`_
+_Originally generated: 2026-10-19T12:04:23-04:00_  
+_Source: `2026-10-19-noon-dispatch.md`_
 
-# 🌅 THE MORNING DISPATCH — Monday, October 19, 2026
-> “Monday showed up early. So did the coffee.”
+# 🕛 THE NOON DISPATCH — Monday, October 19, 2026
+> “Lunch tastes better when the tape is moving and the Shore sun is out.”
 
 ---
 
-## ☀️ SHORE FORECAST & BEYOND
-
-**THE SHORE STARTS COOL, THEN CLOUDS UP.**
+## 🕛 MIDDAY SHORE FORECAST & BEYOND
 
 ### Toms River, NJ
 [Weather](https://wttr.in/Toms+River+NJ) · [Forecast](https://forecast.weather.gov/MapClick.php?lat=39.9537&lon=-74.1979)
 
-Clear and 49°F at daybreak, with a north wind around 6 mph. Cloudy today, high 62°F, low 48°F; rain chance 9%.
+**SUNSHINE HOLDS THE LINE.** Sunny and 60°F with a southwest wind near 10 mph. Today tops out at 62°F, slips to 48°F tonight, and carries just a 2% rain chance.
 
 ### Makati, Philippines
 [Weather](https://wttr.in/Makati+Philippines?m) · [Forecast](https://www.pagasa.dost.gov.ph/weather)
 
-Partly cloudy and 31°C, feeling like 35°C, with 20 km/h wind. High 33°C, low 27°C; rain chance 7%.
-
-**BOTTOM LINE:** Jacket weather at the Shore; summer remains on duty in Makati.
+**HOT, BRIGHT, MOSTLY DRY.** Clear and 27°C, feeling like 31°C, with 13 km/h wind. Partly cloudy through the day, high 33°C, low 27°C, rain chance 7%.
 
 ---
 
 ## 📰 TOP STORIES
 
-**POLITICS, PRESSURE AND A BUSY MONDAY WIRE.**
-
 ### Headlines
-- **[How Donald Trump Won Performed Election](https://www.wsj.com/politics/elections/how-donald-trump-won-performed-election-a6097c2a)** — The Journal revisits the electoral coalition shaping the midterms. (WSJ)
-- **[These “Double Haters” Have Lost Faith in Both Parties—and Could Decide the Midterms](https://www.wsj.com/politics/elections/these-double-haters-have-lost-faith-in-both-partiesand-could-decide-the-midterms-7efa284e)** — Disaffected voters may again hold the balance. (WSJ)
-- **[Berkshire went back for Bending Spoons seconds](https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html)** — Berkshire is making another bet on the software consolidator. (Morning Brew)
-- **[You can soon own stock in the Knicks](https://www.sportico.com/business/finance/2026/msg-spinoff-new-york-knicks-rangers-1234946324/)** — A planned MSG spinoff could give investors a cleaner shot at the Knicks. (Morning Brew)
-- **[National Guard member and armed man shot in Southeast DC, police say](https://www.newsnationnow.com/crime/national-guard-member-shot-dc/)** — Authorities are investigating a shooting involving a Guard member. (NewsNation)
-- **[French police arrest 1,800 after violent clashes and looting mar protests](https://www.csmonitor.com/World/2026/1018/france-protests-arrests?icid=rss)** — Mass arrests followed unrest across France. (CS Monitor)
-- **[Iran warns US against renewed attack, says it has ‘unfinished jobs’ too](https://thehill.com/policy/international/6157194-iran-minister-warns-us-attacks/)** — Tehran sharpened its warning as regional tensions persist. (The Hill)
-- **[Brickbat: Studying Hard or Hardly Studying](https://reason.com/2026/10/19/brickbat-studying-hard-or-hardly-studying/)** — Reason opens the week with its latest civil-liberties quick hit. (Reason)
-- **[Helen Haines ‘Attack’: Australia MP Hit by Car, in Critical Condition](https://www.newsweek.com/helen-haines-attack-australia-mp-hit-by-car-in-critical-condition-12587051)** — The Australian lawmaker was reported critically injured. (Newsweek)
+- **[French leaders trade blame after rioting sweeps the nation](https://www.wsj.com/world/europe/french-leaders-trade-blame-after-rioting-sweeps-the-nation-ac02a5b6)** — France’s political reckoning follows widespread clashes and looting. (WSJ)
+- **[Putin floats a summit with Trump and Xi](https://www.wsj.com/world/russia/putin-floats-a-summit-with-trump-and-xi-to-decide-ukraines-fate-1cf6acc1)** — The proposed meeting would put Ukraine’s fate at the center of great-power diplomacy. (WSJ)
+- **[Berkshire went back for Bending Spoons seconds](https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html)** — Berkshire is doubling down on the software roll-up. (Morning Brew)
+- **[You can soon own stock in the Knicks](https://www.sportico.com/business/finance/2026/msg-spinoff-new-york-knicks-rangers-1234946324/)** — An MSG spinoff could give investors a cleaner piece of the Garden business. (Morning Brew)
+- **[Eagles QB Jalen Hurts out for the year with blood clots](https://www.newsnationnow.com/us-news/sports/eagles-qb-jalen-hurts-out-for-the-year-blood-clots/)** — A major health report lands hard on Philadelphia’s season. (NewsNation)
+- **[Trump signs order expanding women’s health initiatives](https://www.newsnationnow.com/politics/trump-sign-order-womens-health/)** — The order creates a broader federal focus on women’s health. (NewsNation)
+- **[French police arrest 1,800 after violent clashes](https://www.csmonitor.com/World/2026/1018/france-protests-arrests?icid=rss)** — Mass arrests follow protests scarred by looting and violence. (CS Monitor)
+- **[Anthropic pledges 5% of stock to public-benefit initiative](https://thehill.com/policy/technology/6157787-anthropic-commits-shares-public-benefit/)** — The AI firm is tying a notable equity stake to public-interest work. (The Hill)
+- **[Supreme Court will hear home-distillery ban case](https://reason.com/volokh/2026/10/19/supreme-court-will-hear-necessary-and-proper-clause-case-on-federal-law-banning-home-distilleries/)** — The Necessary and Proper Clause gets a spirited test. (Reason)
+- **[Starshield gives Trump massive power over Ukraine](https://www.newsweek.com/starshield-trump-massive-power-ukraine-12578435)** — Satellite communications emerge as strategic leverage. (Newsweek)
 
 ### Philippines
-- **[Need a document notarized? Supreme Court launches online service](https://www.philstar.com/headlines/2026/10/19/2564312/need-document-notarized-supreme-court-launches-online-service)** — The judiciary has opened an online notarization channel. (Philstar)
-- **[No Pinoys arrested or hurt in France unrest — embassy](https://www.philstar.com/headlines/2026/10/19/2564304/no-pinoys-arrested-or-hurt-france-unrest-embassy)** — The embassy reported no Filipino casualties or arrests. (Philstar)
-- **[Why did 3 SET senator-members favor Erwin Tulfo’s ouster?](https://www.rappler.com/people/p54824881-erwin-tulfo/)** — Rappler examines the votes behind the tribunal decision. (Rappler)
-- **[SC: eNotarization now officially operational](https://www.abs-cbn.com/news/nation/2026/10/19/sc-enotarization-now-officially-operational-1758)** — The Supreme Court says electronic notarization is live. (ABS-CBN News)
-- **[DTI: No price hikes for basic goods ahead of Undas](https://www.abs-cbn.com/news/business/2026/10/19/dti-no-price-hikes-for-basic-goods-ahead-of-undas-1741)** — Trade officials say staple prices should hold before Undas. (ABS-CBN News)
+- **[Sandiganbayan suspends Marcoleta as senator](https://www.rappler.com/philippines/sandiganbayan-suspends-rodante-marcoleta-senator-plunder-case/)** — The anti-graft court’s order follows the senator’s plunder case. (Rappler)
+- **[Gawilan bags Philippines’ first Asian Para Games gold](https://www.rappler.com/sports/ernie-gawilan-philippines-swimming-gold-asian-para-games-2026/)** — Ernie Gawilan puts the country atop the podium. (Rappler)
+- **[Marcos welcomes new Türkiye, Egypt ambassadors](https://www.abs-cbn.com/news/nation/2026/10/19/marcos-welcomes-new-turkiye-egypt-ambassadors-to-ph-2208)** — New envoys presented their credentials in Manila. (ABS-CBN News)
 
 ### AI & Tech Desk
-- **[Anthropic gives outside AI watchdog “employee-like” access](https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access/)** — An external watchdog gets unusually deep access to the AI company. (Ars Technica)
-- **[Why BioWare's Neverwinter Nights still has thousands of active players](https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/)** — A decades-old RPG keeps finding life through its community. (Ars Technica)
-- **[Linux 7.3 Released](https://lwn.net/Articles/1101143/)** — The new kernel release led Hacker News discussion. (Hacker News)
-- **[Hybrid Reasoning Agents](https://arxiv.org/abs/2610.18861)** — Researchers propose agents that reason in latent space and act through text. (Hacker News)
+- **[Disney found a way to buy Character.AI without buying its lawsuits](https://www.wired.com/tag/chatbots/)** — The deal structure aims to capture the technology while fencing off legal exposure. (Ars Technica)
+- **[Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175)** — Windows compatibility lands on another Unix frontier. (Hacker News)
+- **[Timestral: time-series foundation models](https://mistral.ai/news/timestral/)** — Mistral turns its attention to forecasting sequential data. (Hacker News)
+- **[Linux 7.3](https://lwn.net/Articles/1101143/)** — The new kernel release leads the developer board. (Hacker News)
 
 ---
 
-## 📈 BUSINESS & MARKETS
-
-**TECH TOOK THE PUNCH; VALUE STOCKS HELD THE RAIL.**
+## 📈 BUSINESS & MARKETS — LUNCH-HOUR TAPE
 
 ### Business Newswire
-- **[France and the U.S. share the same debt trap. Only one has a global lifeline.](https://www.marketwatch.com/story/france-and-the-u-s-share-the-same-debt-trap-only-one-has-a-global-lifeline-3ae61b42?mod=mw_rss_topstories)** — Reserve-currency status remains Washington’s crucial advantage. (MarketWatch)
-- **[Elon Musk Says He’ll Give Every Child In America One SpaceX Share Next Year](https://www.forbes.com/sites/siladityaray/2026/10/19/elon-musk-says-hell-give-every-child-in-america-one-spacex-share-next-year/)** — Musk floated a sweeping equity giveaway. (Forbes)
-- **[Anthropic Pledges 5% Of Its Shares To Public Benefit Fund](https://www.forbes.com/sites/siladityaray/2026/10/19/anthropic-pledges-5-of-its-shares-to-public-benefit-fund-heres-how-it-works/)** — The AI company is earmarking equity for public benefit. (Forbes)
+- **[Computer-science departments’ boom is turning to bust](https://www.marketwatch.com/story/colleges-raced-to-build-massive-computer-science-departments-now-the-boom-is-turning-to-bust-692cfe37?mod=mw_rss_topstories)** — Enrollment and hiring expectations are colliding with a changed tech market. (MarketWatch)
+- **[Are repeated $15,000 loan offers a scam?](https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories)** — Easy-money pitches deserve hard scrutiny. (MarketWatch)
+- **[Netflix’s overlooked new show scores 100%](https://www.forbes.com/sites/paultassi/2026/10/19/netflixs-best-new-overlooked-show-grabs-a-100-rotten-tomatoes-score/)** — A sleeper hit is earning perfect early reviews. (Forbes)
+- **[Northern lights could be visible Monday night](https://www.forbes.com/sites/zacharyfolk/2026/10/19/northern-lights-forecast-heres-where-aurora-could-be-visible-monday-night/)** — Aurora watchers may get a show after the closing bell. (Forbes)
 
 ### The Numbers (with 52W Range)
 
 | Index | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---|
-| [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7,659.44 | -152.10 | -1.95% | 6,316.91–7,844.52 |
-| [Dow 30](https://www.marketwatch.com/investing/index/djia) | 52,002.41 | +347.46 | +0.67% | 45,057.28–54,744.33 |
-| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,140.033 | -1,226.14 | -4.48% | 20,690.25–27,722.75 |
-| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,721.37 | -85.61 | -3.05% | 2,303.46–3,069.71 |
+|---|---:|---:|---:|---:|
+| [S&P 500](https://www.marketwatch.com/investing/index/spx) | 7,720.27 | -86.97 | -1.11% | 6,316.91–7,844.52 |
+| [Dow 30](https://www.marketwatch.com/investing/index/djia) | 52,052.82 | +202.27 | +0.39% | 45,057.28–54,744.33 |
+| [Nasdaq](https://www.marketwatch.com/investing/index/comp) | 26,571.006 | -674.89 | -2.48% | 20,690.25–27,722.75 |
+| [Russell 2000](https://www.marketwatch.com/investing/index/rut) | 2,741.678 | -52.80 | -1.89% | 2,303.46–3,069.71 |
 
 ### Federal Funds Rate
-**EFFR:** 3.88% · **Fed target:** 3.75%–4.00%
+**EFFR:** 3.88% · **Fed target range:** 3.75%–4.00%
 
 ### Treasury Rates (with 52W Range)
 
 | Security | Rate | Change | 52-Week Range |
-|---|---:|---:|---|
-| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.436% | -0.16 | 0.000%–5.732% |
-| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 4.07% | +0.02 | 0.000%–4.147% |
+|---|---:|---:|---:|
+| [30-Year Treasury](https://www.marketwatch.com/investing/bond/tmubmusd30y) | 5.471% | -0.09 | 4.528%–5.732% |
+| [90-Day T-Bill](https://www.marketwatch.com/investing/bond/tmubmusd03m) | 4.077% | +0.02 | 3.507%–4.147% |
 
 ### Forex (with 52W Range)
 
 | Pair | Rate | Change | % | 52-Week Range |
-|---|---:|---:|---:|---|
-| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.997 | +0.30 | +0.48% | 52.456–63.169 |
-| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1211 | +0.01 | +0.46% | 1.1114–1.2024 |
-| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6804 | -0.01 | -0.17% | 6.6692–7.1909 |
+|---|---:|---:|---:|---:|
+| [PHP/USD](https://www.marketwatch.com/investing/currency/usdphp) | 62.984 | +0.29 | +0.46% | 52.456–63.169 |
+| [EUR/USD](https://www.marketwatch.com/investing/currency/eurusd) | 1.1212 | +0.01 | +0.47% | 1.1114–1.2024 |
+| [CNY/USD](https://www.marketwatch.com/investing/currency/usdcny) | 6.6695 | -0.02 | -0.34% | 6.669–7.1909 |
 
 ### ETFs (with 52W Range)
 
 | ETF | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---|
-| [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | $103.01 | -$4.80 | -4.45% | $81.45–$109.24 |
-| [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | $34.35 | +$1.31 | +3.96% | $26.32–$35.31 |
-| [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | $83.43 | -$1.39 | -1.64% | $72.11–$88.62 |
-| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | $236.48 | +$2.05 | +0.87% | $198.76–$251.85 |
-| [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | $91.76 | +$1.11 | +1.22% | $86.84–$101.80 |
+|---|---:|---:|---:|---:|
+| [ONEQ — Fidelity Nasdaq Composite ETF](https://www.marketwatch.com/investing/fund/oneq) | 104.72 | -2.64 | -2.46% | 81.45–109.24 |
+| [SCHD — Schwab U.S. Dividend Equity ETF](https://www.marketwatch.com/investing/fund/schd) | 34.20 | +0.94 | +2.83% | 26.32–35.31 |
+| [VXUS — Vanguard Total International Stock ETF](https://www.marketwatch.com/investing/fund/vxus) | 83.615 | -0.83 | -0.98% | 72.11–88.62 |
+| [VBR — Vanguard Small-Cap Value ETF](https://www.marketwatch.com/investing/fund/vbr) | 236.28 | +1.57 | +0.67% | 198.76–251.85 |
+| [VNQ — Vanguard Real Estate ETF](https://www.marketwatch.com/investing/fund/vnq) | 90.75 | -0.61 | -0.67% | 86.84–101.80 |
 
 ### Stock Watch (with 52W Range)
 
 | Ticker | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---|
-| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | $214.13 | -$15.15 | -6.61% | $164.27–$243.37 |
-| [TSM](https://www.marketwatch.com/investing/stock/tsm) | $412.61 | -$40.70 | -8.98% | $266.82–$487.47 |
-| [AMD](https://www.marketwatch.com/investing/stock/amd) | $528.75 | -$79.35 | -13.05% | $188.22–$658.52 |
-| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | $250.00 | -$12.43 | -4.74% | $196.00–$287.20 |
-| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | $70.53 | +$0.23 | +0.33% | $65.08–$124.86 |
-| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | $354.72 | -$27.98 | -7.31% | $297.38–$498.83 |
-| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | $56.70 | +$1.17 | +2.11% | $38.46–$79.215 |
-| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | $532.02 | +$16.40 | +3.18% | $464.01–$537.74 |
-| [AXP](https://www.marketwatch.com/investing/stock/axp) | $313.59 | +$5.42 | +1.76% | $290.97–$387.49 |
-| [SCHW](https://www.marketwatch.com/investing/stock/schw) | $91.96 | -$4.74 | -4.90% | $83.96–$114.53 |
-| [RL](https://www.marketwatch.com/investing/stock/rl) | $385.50 | +$14.22 | +3.83% | $306.55–$421.60 |
-| [COST](https://www.marketwatch.com/investing/stock/cost) | $989.11 | +$42.19 | +4.46% | $844.06–$1,096.50 |
-| [UPS](https://www.marketwatch.com/investing/stock/ups) | $97.48 | +$2.91 | +3.08% | $86.30–$122.41 |
+|---|---:|---:|---:|---:|
+| [NVDA](https://www.marketwatch.com/investing/stock/nvda) | 219.285 | -7.03 | -3.11% | 164.27–243.37 |
+| [TSM](https://www.marketwatch.com/investing/stock/tsm) | 425.705 | -18.65 | -4.20% | 266.82–487.47 |
+| [AMD](https://www.marketwatch.com/investing/stock/amd) | 550.455 | -43.78 | -7.37% | 188.22–658.52 |
+| [AMZN](https://www.marketwatch.com/investing/stock/amzn) | 262.92 | +3.39 | +1.31% | 196.00–287.20 |
+| [NFLX](https://www.marketwatch.com/investing/stock/nflx) | 69.723 | -0.89 | -1.26% | 65.08–124.86 |
+| [TSLA](https://www.marketwatch.com/investing/stock/tsla) | 368.065 | -9.96 | -2.64% | 297.38–498.83 |
+| [PYPL](https://www.marketwatch.com/investing/stock/pypl) | 56.33 | +0.28 | +0.50% | 38.46–79.215 |
+| [BRK.B](https://www.marketwatch.com/investing/stock/brk.b) | 531.17 | +13.57 | +2.62% | 464.01–537.74 |
+| [AXP](https://www.marketwatch.com/investing/stock/axp) | 314.14 | +2.61 | +0.84% | 290.97–387.49 |
+| [SCHW](https://www.marketwatch.com/investing/stock/schw) | 90.40 | -6.66 | -6.86% | 83.96–114.53 |
+| [RL](https://www.marketwatch.com/investing/stock/rl) | 384.83 | +11.59 | +3.11% | 306.55–421.60 |
+| [COST](https://www.marketwatch.com/investing/stock/cost) | 992.16 | +32.72 | +3.41% | 844.06–1,096.50 |
+| [UPS](https://www.marketwatch.com/investing/stock/ups) | 97.27 | +1.93 | +2.02% | 86.30–122.41 |
 
 ### Commodities & Crypto
 
 | Ticker | Price | Change | % | 52-Week Range |
-|---|---:|---:|---:|---|
-| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $82,664.89 | +$523.43 | +0.64% | $57,747.766–$116,273.31 |
-| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $98.25 | +$3.16 | +3.32% | $54.98–$119.48 |
+|---|---:|---:|---:|---:|
+| [Bitcoin](https://www.marketwatch.com/investing/cryptocurrency/btcusd) | $81,864.01 | -277.45 | -0.34% | $57,747.766–$116,273.31 |
+| [Oil — WTI](https://www.marketwatch.com/investing/future/cl.1) | $97.99 | +2.90 | +3.05% | $54.98–$119.48 |
 
-> 📢 **Market Alert:** AMD plunged 13.05% while the Nasdaq shed 4.48% and Russell 2000 lost 3.05%—a broad risk-off hit, with chip pain doing the loudest damage.
+> 📢 **Market Alert:** Nasdaq -2.48% as growth shares take the midday hit; the tech-heavy index crossed the major-move line even while the Dow stayed green.
 
 ### ⛽ Mortgage & Gas
-- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 7.45% (Bankrate top listed rate)
+- [30-Year Fixed Mortgage Rate](https://www.bankrate.com/mortgages/30-year-mortgage-rates/): 7.45% (Bankrate)
 - National regular: $4.2953; New Jersey regular: $4.2399 (AAA)
-- [Wawa #0937, Toms River](https://www.wawa.com/locations/937): station-specific pump price was not fetched.
+- [Wawa #0937 Toms River, NJ](https://www.wawa.com/locations/937): pump price not successfully fetched.
 
-**BOTTOM LINE:** The S&P remains near its 52-week high despite Friday’s drop, but Nasdaq’s 4.48% slide says this is no sleepy pullback. Berkshire, meanwhile, sits just below its annual high.
+**BOTTOM LINE:** The S&P remains near its 52-week high, but Nasdaq’s 2.48% drop says lunch is not risk-free. PHP/USD is also near the top of its annual range.
 
 ---
 
 ## 🏟️ SPORTS — NEWSWIRE + TODAY'S CARD
 
-**PLAYOFF BASEBALL, SUNDAY DAMAGE, MONDAY BUSINESS.**
-
 ### 🗞️ Sports Newswire
 _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.letour.fr/en/news), [Cyclingnews](https://www.cyclingnews.com/)_
 
-- **[Thunder reportedly lock up guard Cason Wallace with five-year, $139 million extension](https://sports.yahoo.com/articles/thunder-reportedly-lock-guard-cason-043912841.html)** — Oklahoma City secured a core guard for the long haul. (NBA / Yahoo Sports)
-- **[Five takeaways from UNC's exhibition loss at Indiana](https://sports.yahoo.com/articles/five-takeaways-uncs-exhibition-loss-010757876.html)** — Indiana’s exhibition win offered an early look at both programs. (NCAAB / Yahoo Sports)
-- **[Last time the Chargers were 0-6, their QBs were Ryan Leaf, Moses Moreno and Jim Harbaugh](https://sports.yahoo.com/articles/last-time-chargers-were-0-092057909.html)** — Los Angeles has landed in historically grim company. (NFL / Yahoo Sports)
-- **[Rasmussen shines as Rays beat Guardians 3-1 in Game 5 to take a 3-2 ALCS lead](https://sports.yahoo.com/articles/rasmussen-shines-rays-beat-guardians-235936132.html)** — Tampa Bay moved one win from the World Series. (MLB / Yahoo Sports)
-- **[Golden Knights bring win streak into home matchup against the Lightning](https://sports.yahoo.com/articles/golden-knights-bring-win-streak-081119856.html)** — Vegas carries momentum into its next test. (NHL / Yahoo Sports)
-- **[How to watch Barcelona vs Real Madrid live: El Clásico is coming up](https://sports.yahoo.com/articles/next-el-clasico-watch-barcelona-110400761.html)** — The first Clásico of the campaign is already looming. (La Liga / Yahoo Sports)
-- **[Vijay Singh, 63, becomes second-oldest player to win on PGA Tour Champions](https://sports.yahoo.com/articles/vijay-singh-wins-pga-tour-230345254.html)** — Singh added another age-defying victory. (PGA / Yahoo Sports)
-- **[Ruoning Yin defends Shanghai title, earns seventh LPGA win](https://sports.yahoo.com/articles/ruoning-yin-defends-shanghai-title-235722706.html)** — Yin finished at 11-under to repeat in Shanghai. (LPGA / Yahoo Sports)
+- **[Lakers’ ceiling with Luka Doncic as the focal point](https://sports.yahoo.com/articles/lakers-ceiling-luka-doncic-los-135940595.html)** — Los Angeles enters the season built around Luka. (NBA / Yahoo Sports)
+- **[Trey Kaufman-Renn signs with Kansas](https://sports.yahoo.com/articles/trey-kaufman-renn-signs-kansas-145358507.html)** — The former Purdue standout gives Kansas another major piece. (NCAAB / Yahoo Sports)
+- **[Heisman momentum meter shifts after Week 7 upsets](https://sports.yahoo.com/articles/heisman-momentum-meter-upsets-shook-154537602.html)** — Chaos Saturday rearranged the trophy race. (NCAAF / Yahoo Sports)
+- **[A 24-team CFP could reshape college football in 2027](https://sports.yahoo.com/articles/likely-24-team-cfp-expansion-154500742.html)** — Another expansion debate is already at the door. (NCAAF / Yahoo Sports)
+- **[Orioles hire Jared Banner as general manager](https://sports.yahoo.com/articles/baltimore-orioles-hire-jared-banner-154626587.html)** — Banner will work alongside president Mike Elias. (MLB / Yahoo Sports)
+- **[Sorokin and Kochetkov shining in goal](https://sports.yahoo.com/articles/goalie-report-sorokin-kochetkov-shining-072600346.html)** — The fantasy crease report identifies two early standouts. (NHL / Yahoo Sports)
+- **[UEFA gives Infantino two-week document deadline](https://sports.yahoo.com/articles/uefa-gives-infantino-two-week-152052424.html)** — European soccer’s governing body turns up the pressure. (UEFA / Yahoo Sports)
+- **[Ruoning Yin defends Shanghai title](https://sports.yahoo.com/articles/ruoning-yin-defends-shanghai-title-235722706.html)** — Yin claimed her seventh LPGA victory. (LPGA / Yahoo Sports)
 
 ### Scoreboard
 
 #### 🏀 NBA
-**Upcoming**
-
-| Time | Matchup | TV |
-|---|---|---|
-| Oct. 20, 3:00 PM EDT | Celtics at Pistons | NBC |
-| Oct. 20, 7:00 PM EDT | 76ers at Knicks | NBC |
-| Oct. 20, 9:30 PM EDT | Thunder at Spurs | NBC |
+Upcoming: Boston at Detroit — Oct. 20, 3 PM (NBC); Philadelphia at New York — 7 PM (NBC); Oklahoma City at San Antonio — 9:30 PM (NBC).
 
 #### 🏈 NFL
 [Standings](https://www.nfl.com/standings/)
 
 | Matchup | Final/Status | Box Score |
 |---|---|---|
-| Texans at Jaguars | HOU 34–31 | [Full box score](https://www.pro-football-reference.com/boxscores/202610180jax.htm) |
 | Ravens at Browns | CLE 13–10 | [Full box score](https://www.pro-football-reference.com/boxscores/202610180cle.htm) |
 | Panthers at Eagles | CAR 25–14 | [Full box score](https://www.pro-football-reference.com/boxscores/202610180phi.htm) |
 | Bears at Falcons | CHI 31–23 | [Full box score](https://www.pro-football-reference.com/boxscores/202610180atl.htm) |
@@ -217,7 +200,7 @@ _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.let
 | Chargers at Chiefs | KC 22–6 | [Full box score](https://www.pro-football-reference.com/boxscores/202610180kan.htm) |
 | Cowboys at Packers | GB 23–13 | [Full box score](https://www.pro-football-reference.com/boxscores/202610190gnb.htm) |
 
-**Tonight:** 8:15 PM EDT — Commanders at 49ers (ESPN).
+**Tonight:** Washington at San Francisco — 8:15 PM EDT (ESPN).
 
 #### ⚾ MLB
 [Standings](https://www.mlb.com/standings)
@@ -228,61 +211,35 @@ _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.let
 
 | Time | Matchup | TV |
 |---|---|---|
-| Oct. 19, 8:00 PM EDT | Guardians at Rays | TBS |
-| Oct. 20, 8:00 PM EDT | Guardians at Rays | TBS |
+| Oct. 19, 8 PM EDT | Guardians at Rays | TBS |
+| Oct. 20, 8 PM EDT | Guardians at Rays | TBS |
 
 #### 🏒 NHL
 [Standings](https://www.nhl.com/standings/)
 
-| Matchup | Final/Status | Box Score |
+| Matchup | Final | Box Score |
 |---|---|---|
 | Blue Jackets at Wild | MIN 2–1 | [Full box score](https://www.hockey-reference.com/boxscores/202610180MIN.html) |
 | Hurricanes at Flames | CGY 3–2 | [Full box score](https://www.hockey-reference.com/boxscores/202610190CGY.html) |
 
-| Time | Matchup | TV |
-|---|---|---|
-| 7:00 PM EDT | Ducks at Rangers | ESPN+, MSG, KCOP |
-| 7:00 PM EDT | Avalanche at Flyers | ESPN+, NBC Sports Phil, Altitude Sports |
-| 7:30 PM EDT | Sharks at Maple Leafs | ESPN+, NBC Sports BA |
-| 9:00 PM EDT | Penguins at Mammoth | ESPN+, Utah 16 |
+**Tonight:** Ducks–Rangers 7 PM (ESPN+, MSG, KCOP); Avalanche–Flyers 7 PM (ESPN+, NBC Sports Philadelphia, Altitude); Sharks–Maple Leafs 7:30 PM (ESPN+, NBC Sports Bay Area); Penguins–Mammoth 9 PM (ESPN+, Utah 16).
 
 #### ⚽ Soccer
 [MLS standings](https://www.mlssoccer.com/standings/)
 
-| League | Matchup | Final/Status |
-|---|---|---|
-| MLS | Crew at FC Cincinnati | CLB 2–0 |
-| Premier League | Arsenal at Nottingham Forest | ARS 1–0 |
-| Premier League | Manchester United at Leeds | 1–1 |
-| Premier League | Crystal Palace at Brighton | BHA 5–0 |
-| Premier League | Sunderland at Bournemouth | BOU 2–0 |
-| La Liga | Sevilla at Real Madrid | RMA 4–1 |
-| La Liga | Racing Santander at Osasuna | OSA 2–0 |
-| La Liga | Real Sociedad at Málaga | RSO 5–2 |
-| La Liga | Alavés at Celta Vigo | CEL 2–1 |
-| Serie A | Lazio at Juventus | LAZ 3–0 |
-| Serie A | Lecce at Udinese | LEC 3–0 |
-| Serie A | Como at Fiorentina | COM 3–1 |
-| Serie A | Atalanta at AC Milan | MIL 3–2 |
-| Bundesliga | Hoffenheim at Mönchengladbach | HOF 2–1 |
-| Bundesliga | Freiburg at Leverkusen | LEV 2–1 |
-| Ligue 1 | Rennes at Paris FC | PFC 4–3 |
-| Ligue 1 | Nice at Lyon | LYO 2–1 |
-| Ligue 1 | Monaco at Lorient | LOR 1–0 |
-| Ligue 1 | Auxerre at Le Havre | AUX 3–1 |
-| Ligue 1 | Marseille at Angers | OM 5–2 |
+| Competition | Matchup | Final/Time | TV |
+|---|---|---|---|
+| MLS | Crew at Cincinnati | Columbus 2–0 | Apple TV |
+| Premier League | Coventry at Tottenham | 3 PM today | USA Network |
+| La Liga | Sevilla at Real Madrid | Real Madrid 4–1 | ABC |
+| La Liga | Real Sociedad at Málaga | Real Sociedad 5–2 | ESPN Deportes |
+| La Liga | Rayo Vallecano at Getafe | 3 PM today | ESPN Deportes |
+| Serie A | Lazio at Juventus | Lazio 3–0 | Paramount+ |
+| Serie A | Cagliari at Monza | 12:30 PM today | Paramount+ |
+| Serie A | Torino at Parma | 2:45 PM today | Paramount+ |
+| Ligue 1 | Nice at Lyon | Lyon 2–1 | beIN Sports |
 
-| Time | Matchup | Competition / TV |
-|---|---|---|
-| 12:30 PM EDT | Cagliari at Monza | Serie A / Paramount+ |
-| 2:45 PM EDT | Torino at Parma | Serie A / Paramount+ |
-| 3:00 PM EDT | Coventry City at Tottenham | Premier League / USA Net |
-| 3:00 PM EDT | Rayo Vallecano at Getafe | La Liga / ESPN Deportes |
-| Oct. 20, 12:45 PM EDT | Slavia Prague at Fenerbahce | UCL / Paramount+ |
-| Oct. 20, 12:45 PM EDT | Dortmund at Sabah FK | UCL / Paramount+ |
-| Oct. 20, 3:00 PM EDT | Atlético Madrid at Stuttgart | UCL / Paramount+ |
-| Oct. 20, 3:00 PM EDT | Villarreal at Liverpool | UCL / Paramount+ |
-| Oct. 20, 3:00 PM EDT | PSV at Porto | UCL / CBSSN |
+**Champions League Tuesday:** Slavia Prague–Fenerbahçe and Dortmund–Sabah at 12:45 PM; Atlético–Stuttgart, Villarreal–Liverpool and PSV–Porto at 3 PM. Paramount+ carries all; PSV–Porto also airs on CBSSN.
 
 #### ⛳ LPGA
 [Leaderboard](https://www.lpga.com/tournaments/leaderboard) · **Buick LPGA Shanghai — Final**
@@ -304,109 +261,106 @@ _Sources: [ESPN Sports](https://www.espn.com/), [Tour de France](https://www.let
 _Sources: [ESPN team schedules](https://www.espn.com/), [NJ Devils schedule](https://www.nhl.com/devils/schedule), [Inter Miami schedule](https://www.intermiamicf.com/schedule/)_
 
 
-> #### 🏀 Seton Hall Pirates
-> **Source:** [Seton Hall men’s basketball](https://shupirates.com/sports/mens-basketball)
+> ### Seton Hall Pirates
+> [Source](https://shupirates.com/sports/mens-basketball)
 >
 > **Last eight:** No completed results were fetched.
 >
-> **Next two:** Nov. 2, 7:30 PM EST vs. Saint Peter’s (TV N/A); Nov. 5, 6:30 PM EST vs. LIU (truTV).
+> **Next two:** vs Saint Peter’s — Nov. 2, 7:30 PM EST (TV N/A); vs LIU — Nov. 5, 6:30 PM EST (truTV).
 >
 > **News:** No fresh team headlines were fetched.
 
-> #### 🏈 New York Giants
-> **Source:** [Giants.com](https://www.giants.com/)
+> ### NY Giants
+> [Source](https://www.giants.com/)
 >
-> **Last eight:** [W 26–3 at Miami](https://www.espn.com/nfl/boxscore/_/gameId/401873292); [W 23–6 at Jets](https://www.espn.com/nfl/boxscore/_/gameId/401873303); [W 28–20 vs. Dallas](https://www.espn.com/nfl/boxscore/_/gameId/401872930); [L 6–28 at Rams](https://www.espn.com/nfl/boxscore/_/gameId/401872947); [W 12–7 vs. Tennessee](https://www.espn.com/nfl/boxscore/_/gameId/401872956); [W 36–24 vs. Arizona](https://www.espn.com/nfl/boxscore/_/gameId/401872966); [T 27–27 at Washington](https://www.espn.com/nfl/boxscore/_/gameId/401872988); [L 27–34 vs. New Orleans](https://www.espn.com/nfl/boxscore/_/gameId/401873000).
+> **Last eight:** [W 26–3 at Miami](https://www.espn.com/nfl/boxscore/_/gameId/401873292); [W 23–6 at Jets](https://www.espn.com/nfl/boxscore/_/gameId/401873303); [W 28–20 vs Dallas](https://www.espn.com/nfl/boxscore/_/gameId/401872930); [L 6–28 at Rams](https://www.espn.com/nfl/boxscore/_/gameId/401872947); [W 12–7 vs Tennessee](https://www.espn.com/nfl/boxscore/_/gameId/401872956); [W 36–24 vs Arizona](https://www.espn.com/nfl/boxscore/_/gameId/401872966); [T 27–27 at Washington](https://www.espn.com/nfl/boxscore/_/gameId/401872988); [L 27–34 vs New Orleans](https://www.espn.com/nfl/boxscore/_/gameId/401873000).
 >
-> **Next two:** Oct. 25, 1:00 PM EDT at Houston (Fox); Nov. 8, 1:00 PM EST at Philadelphia (Fox).
+> **Next two:** at Houston — Oct. 25, 1 PM EDT (Fox); at Philadelphia — Nov. 8, 1 PM EST (Fox).
 >
-> **News:** [Giants fall to Saints, 34–27](https://www.giants.com/news/instant-analysis-giants-fall-to-saints-34-27) — New York’s comeback came up short. [Harbaugh’s postgame takeaways](https://www.giants.com/news/week-6-new-orleans-saints-john-harbaugh-press-conference-takeaways-jameis-winston-jj-mccarthy-cam-skattebo-running-backs) — The coach reviewed the loss. [Game highlights](https://www.giants.com/video/highlights-new-york-giants-27-new-orleans-saints-34) — The full scoring reel.
+> **Fresh news:** [Malik Nabers was nominated for FedEx Air & Ground Player of the Week](https://www.giants.com/news/malik-nabers-nominated-for-fedex-air-ground-nfl-player-of-the-week); [the Giants’ own instant analysis breaks down the 34–27 Saints loss](https://www.giants.com/news/instant-analysis-giants-fall-to-saints-34-27); [Big Blue Kickoff Live opened the phones](https://www.giants.com/video/big-blue-kickoff-live-call-in-201-939-4513-x9674).
 
-> #### ⚾ New York Mets
-> **Source:** [Mets.com](https://www.mlb.com/mets)
+> ### NY Mets
+> [Source](https://www.mlb.com/mets)
 >
-> **Last eight:** [W 10–3 vs. Philadelphia](https://www.baseball-reference.com/boxes/NYM/NYM202609190.shtml); [L 2–7 vs. Philadelphia](https://www.baseball-reference.com/boxes/NYM/NYM202609200.shtml); [W 6–3 at Texas](https://www.baseball-reference.com/boxes/TEX/TEX202609230.shtml); [W 7–2 at Texas](https://www.baseball-reference.com/boxes/TEX/TEX202609240.shtml); [L 1–3 at Texas](https://www.baseball-reference.com/boxes/TEX/TEX202609240.shtml); [L 6–7 at Washington](https://www.baseball-reference.com/boxes/WSN/WSN202609250.shtml); [W 7–1 at Washington](https://www.baseball-reference.com/boxes/WSN/WSN202609260.shtml); [L 4–6 at Washington](https://www.baseball-reference.com/boxes/WSN/WSN202609270.shtml).
+> **Last eight:** [W 10–3 vs Philadelphia](https://www.baseball-reference.com/boxes/NYM/NYM202609190.shtml); [L 2–7 vs Philadelphia](https://www.baseball-reference.com/boxes/NYM/NYM202609200.shtml); [W 6–3 at Texas](https://www.baseball-reference.com/boxes/TEX/TEX202609230.shtml); [W 7–2 at Texas](https://www.baseball-reference.com/boxes/TEX/TEX202609240.shtml); [L 1–3 at Texas](https://www.baseball-reference.com/boxes/TEX/TEX202609240.shtml); [L 6–7 at Washington](https://www.baseball-reference.com/boxes/WSN/WSN202609250.shtml); [W 7–1 at Washington](https://www.baseball-reference.com/boxes/WSN/WSN202609260.shtml); [L 4–6 at Washington](https://www.baseball-reference.com/boxes/WSN/WSN202609270.shtml).
 >
 > **Next two:** No upcoming fixtures were fetched.
 >
-> **News:** [The Mets got everything they could from Brooks Raley](https://sports.yahoo.com/articles/mets-got-everything-could-brooks-140000804.html) — A look back at Raley’s contribution. [Carlos Mendoza spurned Seattle for a Phillies role](https://sports.yahoo.com/articles/fired-mets-skipper-carlos-mendoza-134027731.html) — The former skipper chose a lesser Philadelphia post. [Mets Morning News](https://sports.yahoo.com/articles/mets-morning-news-alcs-dead-130000004.html) — The playoff field moves on without Queens.
+> **Fresh news:** [Japanese slugger Teruaki Sato is a possible target](https://sports.yahoo.com/articles/possible-mets-target-teruaki-sato-140750440.html); [the 2027 second-base options get a full breakdown](https://sports.yahoo.com/articles/mets-second-baseman-2027-breaking-125000806.html); [Huascar Brazobán’s value is reviewed](https://sports.yahoo.com/articles/huascar-brazob-n-generated-plenty-123619657.html).
 
-> #### 🏒 New Jersey Devils
-> **Source:** [Devils schedule](https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/teams/11/schedule)
+> ### NJ Devils
+> [Source](https://site.api.espn.com/apis/site/v2/sports/hockey/nhl/teams/11/schedule)
 >
-> **Last eight:** [W 3–2 vs. Philadelphia (OT)](https://www.hockey-reference.com/boxscores/202610010NJD.html); [L 0–6 at Islanders](https://www.hockey-reference.com/boxscores/202610030NYI.html); [L 3–5 vs. Utah](https://www.hockey-reference.com/boxscores/202610060NJD.html); [W 4–1 vs. Vancouver](https://www.hockey-reference.com/boxscores/202610100NJD.html); [L 1–4 vs. Ottawa](https://www.hockey-reference.com/boxscores/202610120NJD.html); [W 5–4 at Detroit (OT)](https://www.hockey-reference.com/boxscores/202610130DET.html); [W 7–1 vs. Rangers](https://www.hockey-reference.com/boxscores/202610150NJD.html); [L 2–4 at Washington](https://www.hockey-reference.com/boxscores/202610170WSH.html).
+> **Last eight:** [W 3–2 vs Philadelphia (OT)](https://www.hockey-reference.com/boxscores/202610010NJD.html); [L 0–6 at Islanders](https://www.hockey-reference.com/boxscores/202610030NYI.html); [L 3–5 vs Utah](https://www.hockey-reference.com/boxscores/202610060NJD.html); [W 4–1 vs Vancouver](https://www.hockey-reference.com/boxscores/202610100NJD.html); [L 1–4 vs Ottawa](https://www.hockey-reference.com/boxscores/202610120NJD.html); [W 5–4 at Detroit (OT)](https://www.hockey-reference.com/boxscores/202610130DET.html); [W 7–1 vs Rangers](https://www.hockey-reference.com/boxscores/202610150NJD.html); [L 2–4 at Washington](https://www.hockey-reference.com/boxscores/202610170WSH.html).
 >
-> **Next two:** Oct. 20, 7:00 PM EDT vs. Colorado (TV N/A); Oct. 22, 7:00 PM EDT vs. Anaheim (TV N/A).
+> **Next two:** vs Colorado — Oct. 20, 7 PM EDT (TV N/A); vs Anaheim — Oct. 22, 7 PM EDT (TV N/A).
 >
-> **News:** [Capital Punishment — Game Story](https://www.nhl.com/devils/news/game-story-2026020121) — Washington handed Jersey a 4–2 loss. [Capitals 4, Devils 2 live updates](https://www.nhl.com/devils/news/live-updates-2026020121) — The official game log. [Practice Before DC Departure](https://www.nhl.com/devils/news/devils-notebook-10-16-26) — Notes from the final work before Washington.
+> **Fresh news:** [The Devils returned to the rink](https://www.nhl.com/devils/news/devils-notebook-10-19-26); [the official game story covers the Washington defeat](https://www.nhl.com/devils/news/game-story-2026020121); [live updates archive the 4–2 final](https://www.nhl.com/devils/news/live-updates-2026020121).
 
-> #### ⚽ Inter Miami CF
-> **Source:** [Inter Miami](https://www.intermiamicf.com/)
+> ### Inter Miami CF
+> [Source](https://www.intermiamicf.com/)
 >
-> **Last eight:** T 2–2 vs. Atlanta; T 1–1 at Chicago; T 2–2 vs. Nashville; T 2–2 vs. San Diego; L 1–2 at Columbus; W 4–0 vs. D.C.; W 2–0 vs. NYCFC; W 3–1 at Atlanta.
+> **Last eight:** T 2–2 vs Atlanta; T 1–1 at Chicago; T 2–2 vs Nashville; T 2–2 vs San Diego; L 1–2 at Columbus; W 4–0 vs D.C.; W 2–0 vs NYCFC; W 3–1 at Atlanta.
 >
-> **Next two:** Oct. 24, 5:30 PM EDT at Red Bull New York (Apple TV); Oct. 28, 7:30 PM EDT vs. Cincinnati (Apple TV).
+> **Next two:** at Red Bull New York — Oct. 24, 5:30 PM EDT (Apple TV); vs Cincinnati — Oct. 28, 7:30 PM EDT (Apple TV).
 >
-> **News:** [Atlanta United vs. Inter Miami stats and head-to-head](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rMnVDX1hPQkpMOUJwc2hjeDl0R0RJYnhPMFRORERaUXQ1Q2tMR0JLdnpCeDh4YzRRNHN2bFFsazZLQWxLNzV3dDFMdjd5VmlfMkUwSEJMMUhSbmVmcWQyem5oOA?oc=5) — BBC supplied the matchup numbers. [Starting XI](https://news.google.com/rss/articles/CBMihAFBVV95cUxPR0sxN21jamhsUFlOOW1sdmlMQ21XaGxyVW9FdHNtTVhMaHpsUHlPOU1CTUloV1VWWm5vSGl5ZWpnYXp2R0RiZ3RqcVF2M0lyc2dOd2k4WnhGRmpDUmVibm4wa0dVMmFEWXJWSXFaQVAtdjhJTUh0dE4zOENCSHZhN1ZqWFo?oc=5) — The club’s official lineup from the Atlanta win. A spammy streaming result was excluded.
+> **Fresh news:** [Neymar called Santos “Brazil’s Inter Miami” and tagged Messi and Beckham](https://sports.yahoo.com/articles/neymar-calls-santos-brazils-inter-133800408.html).
 
-> #### ⚽ Barcelona
-> **Sources:** [Yahoo Sports](https://sports.yahoo.com/soccer/teams/barcelona/) · [UEFA](https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/)
+> ### Barcelona
+> [Domestic source](https://sports.yahoo.com/soccer/teams/barcelona/) · [Champions League source](https://www.uefa.com/uefachampionsleague/clubs/50080--barcelona/)
 >
-> **Last eight, domestic/UCL combined:** W 5–0 at Valencia; W 5–1 vs. Feyenoord; W 4–2 at Levante; W 7–2 vs. Racing Santander; W 3–1 at Sevilla; W 3–0 vs. Getafe; W 4–1 at Galatasaray; W 5–2 at Real Betis.
+> **Last eight, all competitions:** W 5–0 at Valencia; W 4–2 at Levante; W 7–2 vs Racing Santander; W 3–1 at Sevilla; W 5–1 vs Feyenoord; W 3–0 vs Getafe; W 4–1 at Galatasaray; W 5–2 at Real Betis.
 >
-> **Next two:** Oct. 20, 3:00 PM EDT at PSG (UCL, Paramount+); Oct. 25, 4:00 PM EDT vs. Real Madrid (ABC, ESPN Deportes, ESPN+).
+> **Next two:** at Paris Saint-Germain — Oct. 20, 3 PM EDT (Paramount+); vs Real Madrid — Oct. 25, 4 PM EDT (ABC, ESPN Deportes, ESPN+).
 >
-> **News:** [El Clásico viewing guide](https://sports.yahoo.com/articles/next-el-clasico-watch-barcelona-110400761.html) — Broadcast details and the early setup. [United teenager weighs future as Barça and Madrid circle](https://sports.yahoo.com/articles/manchester-united-teenager-decide-future-092000194.html) — The rivals are tracking the same prospect. [Why Madrid “have no chance”](https://sports.yahoo.com/articles/former-premier-league-star-claims-090000876.html) — A former Premier League player makes a bold Clásico call.
+> **Fresh news:** [PSG received a double fitness boost](https://sports.yahoo.com/articles/psg-receive-double-boost-key-152400955.html); [three key duels could decide Tuesday’s clash](https://sports.yahoo.com/articles/psg-vs-barcelona-three-key-140000453.html); [officials say protests do not threaten the match](https://sports.yahoo.com/articles/psg-barcelona-not-threatened-despite-135500238.html).
 
-> #### ⚽ Arsenal
-> **Sources:** [Yahoo Sports](https://sports.yahoo.com/soccer/teams/arsenal/) · [UEFA](https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/)
+> ### Arsenal
+> [Domestic source](https://sports.yahoo.com/soccer/teams/arsenal/) · [Champions League source](https://www.uefa.com/uefachampionsleague/clubs/52280--arsenal/)
 >
-> **Last eight, domestic/UCL combined:** W 1–0 at Aston Villa; W 2–1 vs. Chelsea; W 1–0 at Napoli; W 2–0 at Sunderland; L 0–3 at Brighton; W 2–1 vs. Leeds; W 3–0 vs. Lille; W 1–0 at Nottingham Forest.
+> **Last eight, all competitions:** W 1–0 at Aston Villa; W 2–1 vs Chelsea; W 1–0 at Napoli; W 2–0 at Sunderland; L 0–3 at Brighton; W 2–1 vs Leeds; W 3–0 vs Lille; W 1–0 at Nottingham Forest.
 >
-> **Next two:** Oct. 21, 3:00 PM EDT at Bayern Munich (UCL, Paramount+); Oct. 24, 10:00 AM EDT vs. Everton (TV N/A).
+> **Next two:** at Bayern Munich — Oct. 21, 3 PM EDT (Paramount+); vs Everton — Oct. 24, 10 AM EDT (TV N/A).
 >
-> **News:** [Arsenal’s dull win exposes a worrying trend](https://sports.yahoo.com/articles/arsenal-eye-gougingly-dull-win-081432720.html) — Victory did not silence concerns about the performance. [Arteta salutes Noni Madueke](https://sports.yahoo.com/articles/mikel-arteta-salutes-special-noni-074143235.html) — The manager praised the match-winner.
+> **Fresh news:** [Arsenal considered Pochettino before hiring Arteta](https://sports.yahoo.com/articles/arsenal-considered-pochettino-hiring-arteta-150500215.html); [German officials were assigned to Bayern–Arsenal](https://sports.yahoo.com/articles/champions-league-referees-german-officials-145500662.html).
 
-> #### ⚽ Como 1907
-> **Sources:** [Como 1907](https://comofootball.com/en/) · [UEFA Champions League](https://www.uefa.com/uefachampionsleague/)
+> ### Como 1907
+> [Domestic source](https://comofootball.com/en/) · [Champions League source](https://www.uefa.com/uefachampionsleague/)
 >
-> **Last eight, domestic/UCL combined:** W 2–1 at Napoli; W 4–1 at Genoa; W 4–1 vs. Leipzig; W 2–1 vs. Parma; L 0–2 at Frosinone; T 0–0 vs. Roma; L 2–3 at Feyenoord; W 3–1 at Fiorentina.
+> **Last eight, all competitions:** W 2–1 at Napoli; W 4–1 at Genoa; W 4–1 vs Leipzig; W 2–1 vs Parma; L 0–2 at Frosinone; T 0–0 vs Roma; L 2–3 at Feyenoord; W 3–1 at Fiorentina.
 >
-> **Next two:** Oct. 21, 12:45 PM EDT vs. Manchester United (UCL, Paramount+); Oct. 24, 9:00 AM EDT vs. Sassuolo (Paramount+).
+> **Next two:** vs Manchester United — Oct. 21, 12:45 PM EDT (Paramount+); vs Sassuolo — Oct. 24, 9 AM EDT (Paramount+).
 >
-> **News:** [Fiorentina 1, Como 3 — Match Report](https://news.google.com/rss/articles/CBMibkFVX3lxTE9MX01jZ2Y2dVBKc21xUHppOGdONVVCR0RWYUdWbzlaSUlKRVk2Q0xWWEl3TllnRHhkZGt2SDdQanJndzZReUZRdzBTcFZySUN6bW1vM3RzbEI2amFmODVrcmRXSjJxYzlFb2FRa2tn?oc=5) — The men took three points in Florence. The two other fetched headlines concerned Como’s women and were not mixed into this report.
+> **Fresh news:** [The Champions League referee assignments include Como’s European card](https://sports.yahoo.com/articles/champions-league-referees-german-officials-145500662.html).
 
 ---
 
 ## 🤼 SQUARED CIRCLE DIGEST
 
-**THE BELLS KEEP RINGING AFTER WRESTLEDREAM.**
-
 ### Upcoming TV / PLE Schedule
 
-| Group | Upcoming | Watch / Verify |
+| Group | Upcoming | Watch / verify |
 |---|---|---|
-| WWE | Raw — Oct. 19; SmackDown — Oct. 23 | Netflix / USA / Peacock · [Events](https://www.wwe.com/events) |
-| NXT | NXT TV — Oct. 20 | The CW / Peacock · [Events](https://www.wwe.com/events) |
+| WWE | Raw Oct. 19; SmackDown Oct. 23 | Netflix / USA / Peacock · [WWE](https://www.wwe.com/events) |
+| NXT | NXT TV Oct. 20 | CW / Peacock · [WWE](https://www.wwe.com/events) |
 | AAA | Cards vary | [AAA](https://www.luchalibreaaa.com/) |
-| AEW | Dynamite — Oct. 21; Collision — Oct. 24 | TBS / TNT · [Events](https://www.allelitewrestling.com/aew-events) |
-| ROH | ROH TV — Oct. 22 | HonorClub · [ROH](https://www.ringofhonor.com/) |
-| TNA | iMPACT! — Oct. 22 | AXS TV / TNA+ · [Events](https://tnawrestling.com/events/) |
+| AEW | Dynamite Oct. 21; Collision Oct. 24 | TBS / TNT · [AEW](https://www.allelitewrestling.com/aew-events) |
+| ROH | ROH TV Oct. 22 | HonorClub · [ROH](https://www.ringofhonor.com/) |
+| TNA | iMPACT! Oct. 22 | AXS / TNA+ · [TNA](https://tnawrestling.com/events/) |
 | NJPW | Calendar-based tour cards | NJPW World · [Schedule](https://www.njpw1972.com/schedule/) |
-| CMLL | Arena México — Oct. 20, 23, 25; Coliseo — Oct. 24 | [CMLL](https://cmll.com/) |
+| CMLL | Arena México Oct. 20, 23, 25; Coliseo Oct. 24 | [CMLL](https://cmll.com/) |
 
 ### Headlines
-- **[AEW] [Ilja Dragunov will make his AEW in-ring debut Oct. 21](https://www.postwrestling.com/2026/10/18/ilja-dragunov-speaks-at-wrestledream-presser-will-make-aew-in-ring-debut-on-october-21-dynamite/)** — Dynamite gets a notable debut.
-- **[AEW] [Tony Khan confirms conversations with Skydance CEO David Ellison](https://www.postwrestling.com/2026/10/18/tony-khan-says-he-has-held-a-few-great-conversations-with-skydance-ceo-david-ellison-about-aew/)** — The AEW boss acknowledged media talks.
-- **[CMLL] [Domingo Familiar results](https://dev.fightful.com/wrestling-news/cmll-domingo-familiar-results-10-18-2026-persephone-vs-azm-more)** — Persephone and AZM topped Sunday’s card.
-- **[WWE] [William Regal urges more attention to pins and kick-outs](https://www.wrestlinginc.com/2289802/wwe-william-regal-wrestlers-should-pay-more-attention-pin-attempts-kick-outs/)** — Regal makes the case for sharper fundamentals.
-- **[NXT] [Kevin Owens works NXT](https://www.cagesideseats.com/wwe/482235/kevin-owens-works-nxt-says-nice-things-about-main-event-talent-tony-dangelo-shiloh-hill-kendal-grey-birthright)** — Owens praised the brand’s main-event talent.
+- **[TNA] [Shotzi Blackheart officially signs](https://www.fightful.com/wrestling-news/shotzi-blackheart-officially-signs-with-tna-wrestling)** (Fightful)
+- **[AEW] [Toni Storm return teased by cassette tape](https://www.wrestlinginc.com/2290332/aew-wrestledream-2026-toni-storm-return-fans-receive-cassette-tape/)** (WrestlingInc)
+- **[WWE] [Raw preview: Roman Reigns and the top champion](https://www.cagesideseats.com/wwe/482263/wwe-raw-preview-oct-19-2026-roman-reigns-sami-zayn-crown-jewel-946-bloodline-melo-penta-mitb)** (Cageside Seats)
+- **[WWE] [Bron Breakker suffers scary fall in Hawaii](https://411mania.com/wrestling/bron-breakker-suffers-scary-fall-wwe-hawaii-live-event/)** (411mania)
 
 ### r/SquaredCircle
-- [Ospreay reflects on WrestleDream and Clockwork Carnage](https://www.reddit.com/r/SquaredCircle/comments/1x9qooc/ospreay_on_twitter_thank_you_all_for_watching/)
-- [A cassette-tape mystery at WrestleDream](https://www.reddit.com/r/SquaredCircle/comments/1x9jc6x/astridpizarro_on_x_anyone_else_got_a_cassette/)
-- [Audio of “The Toni Storm Tapes” No. 1](https://www.reddit.com/r/SquaredCircle/comments/1x9osq9/audio_of_the_toni_storm_tapes_1/)
-- [A clearer angle of Bron Breakker’s fall](https://www.reddit.com/r/SquaredCircle/comments/1x9fsgf/clearer_angle_of_bron_breakkers_fall_at_live_event/)
+- [Billy Gunn criticizes Triple H’s AEW Hall of Fame shot](https://www.reddit.com/r/SquaredCircle/comments/1x9z98o/billy_gunn_on_hhhs_shot_at_aew_during_hof_the/)
+- [Megan Bayne’s WrestleDream attire drew from Kitana](https://www.reddit.com/r/SquaredCircle/comments/1x9ws3k/megan_bayne_reveals_her_wrestledream_attire_was/)
+- [Ospreay reflects on Clockwork Carnage](https://www.reddit.com/r/SquaredCircle/comments/1x9qooc/ospreay_on_twitter_thank_you_all_for_watching/)
+- [Audio of the “Toni Storm Tapes” No. 1](https://www.reddit.com/r/SquaredCircle/comments/1x9osq9/audio_of_the_toni_storm_tapes_1/)
 
 ### Meltzer 5-Star+ Ratings
 _Source: [List of professional wrestling matches rated 5 or more stars by Dave Meltzer](https://en.wikipedia.org/wiki/List_of_professional_wrestling_matches_rated_5_or_more_stars_by_Dave_Meltzer)_
@@ -420,7 +374,7 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 | Sept. 30, 2026 | 5 | Will Ospreay vs. Ricochet | AEW | Dynamite: A Tribute to Pac |
 | Sept. 26, 2026 | 5 | Swerve Strickland & The New Level vs. Hangman Page & Brodido | AEW | All Out |
 | Sept. 26, 2026 | 5 | Young Bucks vs. Copeland & Cage vs. FTR | AEW | All Out |
-| Sept. 13, 2026 | 5.25 | Rey Fénix vs. Jack Cartwheel vs. Mini Vikingo vs. Nathan Frazer | AAA/WWE | Triplemanía 34 Night 2 |
+| Sept. 13, 2026 | 5.25 | Fénix vs. Cartwheel vs. Mini Vikingo vs. Frazer | AAA/WWE | Triplemanía 34 Night 2 |
 | Aug. 30, 2026 | 5 | Mercedes Moné vs. Willow Nightingale | AEW | All In |
 | Aug. 30, 2026 | **6.5** | **Will Ospreay vs. Kenny Omega** | **AEW** | **All In** |
 | Aug. 23, 2026 | 5 | Rina vs. Starlight Kid | Stardom | 5 Star Grand Prix Night 16 |
@@ -430,44 +384,47 @@ _Source: [List of professional wrestling matches rated 5 or more stars by Dave M
 
 ## 📱 FROM YOUR FEEDS — FINAL SECTION
 
-**THE PERSONAL WIRE: OPEN-SOURCE, OPEN-MINDED, OCCASIONALLY UNHINGED.**
-
-### Reddit — What's Trending
-#### r/Android
-- **[Googlebooks have an image quality problem despite their OLED screens](https://www.reddit.com/r/Android/comments/1x9dxtq/googlebooks_have_an_image_quality_problem_despite/)**
-#### r/Buttcoin
-- **[Four years later, r/Bitcoin comments look familiar](https://www.reddit.com/r/Buttcoin/comments/1x99lhj/looking_at_these_comments_in_rbitcoin_today_it/)**
-#### r/DataScienceJobs
-- **[Perils of a DS job no one talks about](https://www.reddit.com/r/DataScienceJobs/comments/1x99y8r/perils_of_ds_job_noone_talks_about/)**
-#### r/IAmA
-- **[AMA with a professional composer of choral music](https://www.reddit.com/r/IAmA/comments/1x9gox5/iama_professional_composer_of_choral_music_i/)**
-#### r/kubernetes
-- **[How do MIGs on Kubernetes work?](https://www.reddit.com/r/kubernetes/comments/1x9qbts/how_do_migs_on_kubernetes_work/)**
-#### r/newjersey
-- **[Get out there and see NJ!](https://www.reddit.com/r/newjersey/comments/1x9baps/get_out_there_and_see_nj/)**
-#### r/pihole
-- **[Display hostnames, not IPs](https://www.reddit.com/r/pihole/comments/1x9kcqk/fyidisplay_hostnames_not_ips/)**
-#### r/technology
-- **[Police officer fired for sharing Flock login with ICE-agent husband](https://www.reddit.com/r/technology/comments/1x9g6u0/a_savannah_police_officer_gave_her_flock_login_to/)**
-- **[Man travels 2,000 km to meet dream woman—who was AI](https://www.reddit.com/r/technology/comments/1x9hmcz/man_sold_everything_he_owned_and_traveled_2000_km/)**
-#### r/vintageobscura
-- **[Psychodelic Frankie — “Putting You Out Of My Life” (1970)](https://www.reddit.com/r/vintageobscura/comments/1x94jts/psychodelic_frankie_putting_you_out_of_my_life/)**
+### Reddit — What’s Trending
+**r/AlbumArtPorn:** [BATTLEFAIRY — a bit of everything](https://www.reddit.com/r/AlbumArtPorn/comments/1x9dhne/battlefairy_a_bit_of_everything_through_the_eyes/)  
+**r/Bitcoin:** [Russia wants you to buy Bitcoin—just don’t ask for the keys](https://www.reddit.com/r/Bitcoin/comments/1x9pify/russia_wants_you_to_buy_bitcoin_just_dont_ask_for/)  
+**r/Buttcoin:** [Truth is freedom](https://www.reddit.com/r/Buttcoin/comments/1x9xq0n/truth_is_freedom_and_i_cannot_handle_that_fact/)  
+**r/Hoboken:** [Car break-ins on Monroe Street](https://www.reddit.com/r/Hoboken/comments/1x9yp2c/car_break_ins_monroe_st/)  
+**r/MtvChallenge:** [Make-A-Caption Monday](https://www.reddit.com/r/MtvChallenge/comments/1x9pu7x/makeacaption_monday/)  
+**r/Philippines:** [Angat dam water crisis from space](https://www.reddit.com/r/Philippines/comments/1x9skvb/the_angat_dam_water_crisis_of_2026_as_seen_from/)  
+**r/Piracy:** [Jailbroken PS5 discussion](https://www.reddit.com/r/Piracy/comments/1x9wc76/jailbroken_ps5_with_all_games_free_is_crazy/)  
+**r/TheSimpsons:** [Apu heard for first time in nearly a decade](https://www.reddit.com/r/TheSimpsons/comments/1x9j1lb/the_simpsons_surprise_apu_is_heard_for_the_first/) · [Neddy?](https://www.reddit.com/r/TheSimpsons/comments/1x9traj/neddy_neddy/) · [Apu’s back](https://www.reddit.com/r/TheSimpsons/comments/1x9qcvl/hey_eveybody_apus_back/)  
+**r/TomsRiver:** [Electrician recommendations for home battery](https://www.reddit.com/r/TomsRiver/comments/1x9xu0w/electrician_recs_for_a_home_battery_install/)  
+**r/arresteddevelopment:** [Still don’t get this one](https://www.reddit.com/r/arresteddevelopment/comments/1x9svfx/its_been_years_and_i_still_dont_get_this_one/)  
+**r/dataisbeautiful:** [Claude’s “random” numbers](https://www.reddit.com/r/dataisbeautiful/comments/1x9s7n7/oc_i_asked_claude_to_pick_a_random_number_between/)  
+**r/datascience:** [Ten Python coding rounds, only one LeetCode-style](https://www.reddit.com/r/datascience/comments/1x9cko9/breakdown_of_my_last_10_python_coding_rounds_for/)  
+**r/loseit:** [A new non-scale victory](https://www.reddit.com/r/loseit/comments/1x9tly6/new_non_scale_victory/)  
+**r/nyu:** [Union Square rally criticizes India crackdown](https://www.reddit.com/r/nyu/comments/1x9z3fj/hundreds_criticize_indias_youth_protest_crackdown/)  
+**r/pihole:** [Display hostnames, not IPs](https://www.reddit.com/r/pihole/comments/1x9kcqk/fyidisplay_hostnames_not_ips/)  
+**r/selfhosted:** [A €1,000 used-hardware rack](https://www.reddit.com/r/selfhosted/comments/1x9r11n/my_1000_usedhardware_rack_runs_my_home_services/)  
+**r/southpark:** [Happy birthday, Trey Parker](https://www.reddit.com/r/southpark/comments/1x9t3of/happy_57th_birthday_to_trey_parker/)  
+**r/technology:** [Meta says suspected bots prompted No Kings shutdown](https://www.reddit.com/r/technology/comments/1x9uihs/meta_says_it_shut_no_kings_account_because_it/)  
+**r/vintageobscura:** [Harmony Cove](https://www.reddit.com/r/vintageobscura/comments/1x9y5x8/harmony_cove_there_you_go_usa_unreleased_mellow/) · [Boys From Nowhere](https://www.reddit.com/r/vintageobscura/comments/1x9vlvg/boys_from_nowhere_jungle_boy_columbus_oh_usa/) · [Bridge](https://www.reddit.com/r/vintageobscura/comments/1x9voq5/bridge_soft_cream_whistle_japan_jpop_1994/)
 
 ### 📺 YouTube — Past 24 Hours
-- **GothamChess:** [DOUBLE BONGCLOUD](https://www.youtube.com/shorts/XkoxP7dz1bE)
-- **House of Highlights:** [Rays–Guardians Game 5 highlights](https://www.youtube.com/watch?v=GL7JxJ6G_ao); [final three outs uncut](https://www.youtube.com/watch?v=U2JA3xcR1Ds); [No. 8 BYU upsets No. 2 Notre Dame](https://www.youtube.com/shorts/QVDnolJsK4E)
-- **NPR Music:** [Cardi B: Tiny Desk Concert](https://www.youtube.com/watch?v=HYA9e0XOUGk)
+**GothamChess:** [Mikhail Tal genius sacrifice](https://www.youtube.com/shorts/oRdUEbxgMr8)  
+**House of Highlights:** [Jalen Hurts out for the season](https://www.youtube.com/shorts/9Vo705_km1k) · [Rays–Guardians Game 5 highlights](https://www.youtube.com/watch?v=GL7JxJ6G_ao) · [Final three outs uncut](https://www.youtube.com/watch?v=U2JA3xcR1Ds)  
+**Nate Duncan:** [Timberwolves’ LaMelo Ball bet](https://www.youtube.com/watch?v=fUS69BAQ0OM)  
+**NPR Music:** [Cardi B: Tiny Desk Concert](https://www.youtube.com/watch?v=HYA9e0XOUGk)  
+**Stark Raving Sports:** [The Homer Simpson Curse](https://www.youtube.com/watch?v=slv7zPRjti0)
 
 ### 🔗 Around the Web — Past 24 Hours
-- **Cover Me:** [The 40 Best Chuck Berry Covers Ever](https://www.covermesongs.com/2026/10/the-best-chuck-berry-covers-ever.html)
-- **DistroWatch:** [DistroWatch Weekly, Issue 1195](https://www.tuxedocomputers.com/); [CobaltX 0.3](https://www.tuxedocomputers.com/)
-- **gHacks:** [Edge tests seamless updates](https://www.ghacks.net/2026/10/19/microsoft-edge-tests-seamless-updates-that-apply-without-restarting-the-browser/); [Windows 11 Photos unifies OneDrive and iCloud](https://www.ghacks.net/2026/10/19/microsoft-redesigns-the-windows-11-photos-app-with-a-unified-onedrive-and-icloud-gallery/)
-- **KnickerBlogger:** [Knicks Morning News](https://knickerblogger.net/2026/10/knicks-morning-news-2026-10-18/)
-- **OSnews:** [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&amp;m=179236125692175&amp;w=2); [Linux 7.3 released](https://lwn.net/Articles/1086947/); [Inside the Intel 8087](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
-- **The Indicator:** [Why Oracle's debt load could be your problem](https://www.npr.org/people/1268825622/sierra-juarez)
+**Budget Bytes:** [Rasta Pasta](https://www.budgetbytes.com/rasta-pasta/)  
+**DistroWatch:** [DistroWatch Weekly 1195](https://www.tuxedocomputers.com/)  
+**freeCodeCamp:** [Detect operational drift before an incident](https://www.freecodecamp.org/news/measure-conformance-operational-specification-execution/)  
+**gHacks:** [Modern Warfare 4 early access](https://www.ghacks.net/2026/10/19/call-of-duty-modern-warfare-4-campaign-early-access-opens-for-digital-pre-orders-ahead-of-october-23-launch/) · [Edge tests seamless updates](https://www.ghacks.net/2026/10/19/microsoft-edge-tests-seamless-updates-that-apply-without-restarting-the-browser/) · [iPhone Duo demand called extraordinary](https://www.ghacks.net/2026/10/19/apple-calls-iphone-duo-demand-extraordinary-as-delivery-dates-slip-to-january-2027/)  
+**Jersey Digs:** [Sunshine Biscuits redevelopment](https://www.sayreville.com/uppages/PB%20Agenda%2009162026(2).pdf) · [NJPAC memorial design](https://jerseydigs.com/cathedral-house-newark-memorial/) · [Dutch’s heads to Jersey City](https://www.instagram.com/dutchssandwichshop/)  
+**KnickerBlogger:** [Knicks win poll](https://knickerblogger.net/2026/10/poll-on-knicks-regular-season-wins-2026-2027/) · [Knicks morning news](https://knickerblogger.net/2026/10/knicks-morning-news-2026-10-19/)  
+**OSnews:** [Wine on OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175&w=2) · [Encrypted NetBSD root](https://www.dwarmstrong.org/netbsd-encrypt-install/) · [Linux 7.3](https://lwn.net/Articles/1086947/)  
+**The Indicator:** [Why Oracle’s debt could be your problem](https://www.npr.org/people/1268825622/sierra-juarez)  
+**xkcd:** [Fusion Device](https://xkcd.com/3313/)
 
 ---
 
 ## 👋 SIGN-OFF
 
-The clouds are rolling in, the markets are throwing elbows, and the pork roll still belongs on the hard roll. Have a good one, folks.
+Finish that sandwich and keep moving, folks—the Shore sun’s still on duty, and the afternoon has plenty left in the tank.
